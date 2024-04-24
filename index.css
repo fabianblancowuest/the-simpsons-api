@@ -38,12 +38,10 @@ body {
 }
 
 .buttons {
-	position: relative;
-	left: 30%;
 	display: flex;
 	justify-content: space-between;
 	gap: 4rem;
-	margin-left: auto;
+	margin-left: 3rem;
 	font-size: 1.1rem;
 	font-weight: bold;
 }
@@ -118,4 +116,37 @@ body {
 	/* background-color: rgb(254, 212, 32); */
 	transform: scale(1.1);
 	color: aliceblue;
+}
+
+@media screen and (max-width: 766px) {
+	.info img {
+		width: 80vw;
+		border-radius: 50%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.about {
+		overflow-y: auto;
+	}
+	.info {
+		margin-left: 0;
+		width: 90vw;
+	}
+
+	.info img {
+		width: 50vw;
+		border-radius: 50%;
+	}
+
+	.ul {
+		width: 90vw;
+		font-size: 1rem;
+		flex-wrap: wrap;
+	}
+
+	.buttons {
+		gap: 1rem;
+		margin-left: 1rem;
+	}
 }

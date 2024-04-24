@@ -104,12 +104,10 @@ h5 {
 }
 
 .buttons {
-	position: relative;
-	left: 30%;
 	display: flex;
 	justify-content: space-between;
 	gap: 4rem;
-	margin-left: auto;
+	margin-left: 3rem;
 	font-size: 1.1rem;
 	font-weight: bold;
 }
@@ -171,5 +169,10 @@ h5 {
 		width: 90vw;
 		font-size: 1rem;
 		flex-wrap: wrap;
+	}
+
+	.buttons {
+		gap: 1rem;
+		margin-left: 1rem;
 	}
 }
