@@ -2,7 +2,6 @@
 	/* font-family: "Simpsonfont", sans-serif; */
 	font-family: "Akbar", sans-serif;
 	letter-spacing: 0.2rem;
-	color: black;
 }
 
 body {
@@ -13,6 +12,8 @@ h3,
 h4,
 h5 {
 	text-align: center;
+	color: black;
+	margin-top: 2rem;
 }
 .article {
 	background-image: url(./assets/img/los-simpson-homer-simpson-donut-17o8k0xjab9bivw6.jpg);
@@ -46,10 +47,10 @@ h5 {
 }
 
 .info {
+	margin-left: 30%;
 	width: fit-content;
 	height: 50vh;
 	font-size: 1.3vw;
-	font-style: italic;
 }
 
 .perfil-image {
@@ -61,10 +62,6 @@ h5 {
 	border-radius: 50%;
 }
 
-.text-info {
-	margin-left: 50rem;
-}
-
 .social-media-container {
 	display: flex;
 	justify-content: center;
@@ -72,7 +69,7 @@ h5 {
 }
 
 .social-media-container {
-	font-size: 4rem;
+	font-size: 3rem;
 }
 .social-media i {
 	color: rgb(255, 215, 29);
@@ -83,26 +80,52 @@ h5 {
 }
 
 .ul {
+	margin-top: 2rem;
 	display: flex;
 	justify-content: space-between;
-	gap: 1rem;
+	gap: 2rem;
 	list-style: none;
+	color: black;
 }
+
 .img:hover {
 	box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
 }
 
 .nav {
-	background-color: rgba(0, 0, 0, 0.5);
 	padding: 1rem;
 	display: flex;
 	justify-content: space-around;
 }
+.navbar {
+	background-color: rgb(150, 212, 253) !important;
+	font-family: "Simpsonfont", sans-serif;
+	display: flex;
+}
 
-.nav .btn {
-	font-family: "Akbar", sans-serif;
-	letter-spacing: 0.2rem;
-	color: black;
+.buttons {
+	position: relative;
+	left: 30%;
+	display: flex;
+	justify-content: space-between;
+	gap: 4rem;
+	margin-left: auto;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+.nav a button {
+	font-size: 1rem;
+	font-family: "Simpsonfont", sans-serif;
+
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	background-color: black;
+	color: aliceblue;
+}
+
+.logo-app img {
+	max-width: 90px;
+	margin-left: 2rem;
 }
 
 .btn {
@@ -127,5 +150,26 @@ h5 {
 
 	100% {
 		opacity: 1;
+	}
+}
+
+@media screen and (max-width: 766px) {
+	.about {
+		overflow-y: auto;
+	}
+	.info {
+		margin-left: 0;
+		width: 90vw;
+	}
+
+	.info img {
+		width: 65vw;
+		border-radius: 50%;
+	}
+
+	.ul {
+		width: 90vw;
+		font-size: 1rem;
+		flex-wrap: wrap;
 	}
 }
