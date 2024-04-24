@@ -37,7 +37,6 @@ h5 {
 	height: 100vh;
 	/* width: 50%; */
 	animation: aparecer 10s ease-in-out;
-	overflow-y: hidden;
 }
 
 .container {
