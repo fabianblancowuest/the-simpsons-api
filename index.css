@@ -21,12 +21,26 @@ body {
 }
 
 .nav {
-	background-color: rgb(150, 212, 253);
 	padding: 1rem;
 	display: flex;
 	justify-content: space-around;
 }
+.navbar {
+	background-color: rgb(150, 212, 253) !important;
+	font-family: "Simpsonfont", sans-serif;
+	display: flex;
+}
 
+.buttons {
+	position: relative;
+	left: 30%;
+	display: flex;
+	justify-content: space-between;
+	gap: 4rem;
+	margin-left: auto;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
 .nav a button {
 	font-size: 1rem;
 	font-family: "Simpsonfont", sans-serif;
@@ -52,7 +66,7 @@ body {
 	text-align: center;
 }
 
-.container {
+.container-mine {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
@@ -62,7 +76,8 @@ body {
 }
 
 .card-container {
-	/* background-color: rgba(255, 221, 17, 0.8); */
+	font-family: "Simpsonfont", sans-serif;
+
 	width: 13rem;
 	height: 23rem;
 	border-radius: 1rem;
@@ -74,7 +89,7 @@ body {
 .card-img {
 	/* border-radius: 50%; */
 	height: 11rem;
-	/* width: 8vw; */
+	width: auto;
 
 	/* margin-left: auto; */
 	/* margin-right: auto; */
