@@ -1,0 +1,93 @@
+:root {
+	color: black;
+	font-family: "Simpsonfont", sans-serif;
+	/* font-family: "Akbar", sans-serif; */
+}
+
+body {
+	margin: 0;
+}
+
+#title img {
+	max-width: 300px;
+}
+.section {
+	background-image: url(./assets/img/background-bart.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100vw;
+	height: 100vh;
+	overflow-x: hidden;
+}
+
+.nav {
+	background-color: rgb(150, 212, 253);
+	padding: 1rem;
+	display: flex;
+	justify-content: space-around;
+}
+
+.nav a button {
+	font-size: 1rem;
+	font-family: "Simpsonfont", sans-serif;
+
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	background-color: black;
+	color: aliceblue;
+}
+
+.btn {
+	font-size: 1rem;
+	padding: 0.3rem;
+	width: 5rem;
+}
+.btn:hover {
+	background-color: black;
+	color: aliceblue;
+	cursor: pointer;
+}
+
+#title {
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-around;
+	gap: 0 5rem;
+	/* margin: 3rem 0; */
+}
+
+.card-container {
+	/* background-color: rgba(255, 221, 17, 0.8); */
+	width: 13rem;
+	height: 23rem;
+	border-radius: 1rem;
+	text-align: center;
+	box-shadow: 0.1rem 0.1rem 0.5rem black;
+	margin: 1rem 1rem;
+}
+
+.card-img {
+	/* border-radius: 50%; */
+	height: 11rem;
+	/* width: 8vw; */
+
+	/* margin-left: auto; */
+	/* margin-right: auto; */
+}
+
+.card-title {
+	text-align: center;
+}
+
+.card-container:hover {
+	background-color: rgba(0, 0, 0, 0.5);
+	/* background-color: rgb(254, 212, 32); */
+	transform: scale(1.1);
+	color: aliceblue;
+	/* color: black; */
+}

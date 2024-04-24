@@ -1,0 +1,130 @@
+:root {
+	/* font-family: "Simpsonfont", sans-serif; */
+	font-family: "Akbar", sans-serif;
+	letter-spacing: 0.2rem;
+	color: black;
+}
+
+body {
+	margin: 0;
+}
+h2,
+h3,
+h4,
+h5 {
+	text-align: center;
+}
+.article {
+	background-image: url(./assets/img/los-simpson-homer-simpson-donut-17o8k0xjab9bivw6.jpg);
+	background-size: cover;
+	/* opacity: 0.9; */
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+	width: 100vw;
+}
+
+.about {
+	display: flex;
+	/* align-items: normal; */
+	flex-direction: column;
+	background-image: url("./assets/about-background2.jpg");
+	background-size: cover;
+	/* opacity: 0.9; */
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+	/* width: 50%; */
+	animation: aparecer 10s ease-in-out;
+	overflow-y: hidden;
+}
+
+.container {
+	margin-top: 3rem;
+	max-width: 600px;
+	font-family: "Simpsonfont", sans-serif;
+}
+
+.info {
+	width: fit-content;
+	height: 50vh;
+	font-size: 1.3vw;
+	font-style: italic;
+}
+
+.perfil-image {
+	text-align: center;
+}
+
+.info img {
+	width: 10vw;
+	border-radius: 50%;
+}
+
+.text-info {
+	margin-left: 50rem;
+}
+
+.social-media-container {
+	display: flex;
+	justify-content: center;
+	gap: 5rem;
+}
+
+.social-media-container {
+	font-size: 3rem;
+}
+
+.social-media i:hover {
+	transform: scale(1.3);
+	opacity: 1;
+	box-shadow: 0.3rem 0.3rem 6rem rgb(84, 142, 163);
+}
+
+.ul {
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+	list-style: none;
+}
+.img:hover {
+	box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
+}
+
+.nav {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 1rem;
+	display: flex;
+	justify-content: space-around;
+}
+
+.nav .btn {
+	font-family: "Akbar", sans-serif;
+	letter-spacing: 0.2rem;
+	color: black;
+}
+
+.btn {
+	font-size: 1rem;
+	padding: 0.3rem;
+	width: 5rem;
+}
+.btn:hover {
+	background-color: black;
+	color: aliceblue;
+	cursor: pointer;
+}
+
+@keyframes aparecer {
+	0% {
+		opacity: 0;
+	}
+
+	25% {
+		opacity: 0.9;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
