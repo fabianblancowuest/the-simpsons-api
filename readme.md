@@ -2,7 +2,7 @@
 
 <p>La app consume datos desde una api de Los Simpsons y los presenta en forma de cartas en el DOM. No se usaron frameworks ni librerías de JS.</p>
 
-<h2>Tecnologías usadas:</h2>
+<h2>Tecnologías utilizadas:</h2>
 
 <ul>
   <li>HTML</li>
