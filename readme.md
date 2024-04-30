@@ -1,6 +1,6 @@
 <h1>The Simpsons App</h1>
 
-<p>La app consume datos desde una api de Los Simpsons y presenta los datos en forma de cartas en el DOM, no se usaron frameworks ni librerías de JS.</p>
+<p>La app consume datos desde una api de Los Simpsons y los presenta en forma de cartas en el DOM. No se usaron frameworks ni librerías de JS.</p>
 
 <h2>Tecnologías usadas:</h2>
 
