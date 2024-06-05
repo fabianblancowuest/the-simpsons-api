@@ -80,6 +80,10 @@ body {
 	/* margin: 3rem 0; */
 }
 
+.card-link-container {
+	text-decoration: none;
+}
+
 .card-container {
 	display: flex;
 	flex-direction: column;
@@ -91,6 +95,7 @@ body {
 	border-radius: 1rem;
 	box-shadow: 0.1rem 0.1rem 0.5rem black;
 	margin: 1rem;
+	transition: 0.5s all;
 }
 
 .card-container h3 {
@@ -111,6 +116,19 @@ body {
 	/* background-color: rgb(254, 212, 32); */
 	transform: scale(1.1);
 	color: aliceblue;
+}
+
+.audio-controls-container {
+	width: 100%;
+	text-align: center;
+}
+
+.audio {
+	opacity: 0;
+}
+
+.audio:hover {
+	opacity: 1;
 }
 
 @media screen and (max-width: 766px) {

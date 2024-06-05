@@ -1,18 +1,20 @@
 const list = document.getElementById("list");
-const link = document.getElementById("link");
+const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
+let data;
+let characterId;
+
 async function getData() {
 	try {
 		// Here consume data from the api
-		const response = await fetch(
-			"https://apisimpsons.fly.dev/api/personajes?limit=635&page=1",
-		);
-		const data = await response.json();
+		const response = await fetch(url);
+		data = await response.json();
 
 		const fragment = document.createDocumentFragment();
 
 		// Here the html cards are created dynamically.
 		data.docs.forEach((element) => {
 			const container = document.createElement("div");
+			const link = document.createElement("a");
 			const item = document.createElement("h3");
 			const item2 = document.createElement("h3");
 			const item3 = document.createElement("h3");
@@ -26,12 +28,29 @@ async function getData() {
 			container.className = "card-container";
 			image.className = "card-img";
 			item.className = "card-title";
-			container.id = element._id;
 			container.append(item, image, item3, item4);
+			container.id = element._id;
 			link.append(container);
+			link.href = "/detail.html";
+			link.className = "card-link-container";
 			fragment.append(link);
 		});
 		list.appendChild(fragment);
+
+		document.addEventListener("click", (event) => {
+			console.log("Hiciste click en ", event.target);
+			console.log("id", event.target.id);
+			let eventId = event.target.id;
+
+			if (eventId) {
+				data.docs.forEach((element) => {
+					if (element._id === eventId) {
+						localStorage.setItem("apiID", element._id);
+						console.log(element);
+					}
+				});
+			}
+		});
 	} catch (error) {
 		alert({ error: error.message });
 	}
@@ -39,3 +58,5 @@ async function getData() {
 
 // Execution function
 getData();
+
+export { getData, characterId };
