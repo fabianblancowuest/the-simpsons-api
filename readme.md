@@ -14,5 +14,5 @@
 <span>Capturas de pantalla del proyecto</span>
 
 <img src="assets/img/Captura de pantalla 2024-04-30 042641.png" alt="Captura de pantalla del proyecto">
+<img src="assets/img/Captura de pantalla 2024-06-05 141223.png" alt="Captura de pantalla del proyecto">
 <img src="assets/img/Captura de pantalla 2024-04-30 042906.png" alt="Captura de pantalla del proyecto">
-<img srt="assets/img/Captura de pantalla 2024-06-05 141223.png" alt="Captura de pantalla del proyecto>
