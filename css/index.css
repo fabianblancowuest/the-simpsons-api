@@ -81,10 +81,12 @@ body {
 }
 
 .card-link-container {
+	cursor: pointer;
 	text-decoration: none;
 }
 
 .card-container {
+	cursor: pointer;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -101,10 +103,12 @@ body {
 .card-container h3 {
 	font-family: "Simpsonfont", sans-serif;
 	font-size: 1.5rem;
+	cursor: text;
 }
 .card-img {
 	height: 11rem;
 	width: auto;
+	cursor: text;
 }
 
 .card-title {
@@ -133,22 +137,34 @@ body {
 
 @media screen and (max-width: 766px) {
 	.info img {
-		width: 80vw;
+		width: 20%;
 		border-radius: 50%;
 	}
 }
 
 @media screen and (max-width: 600px) {
+	.card-img {
+		height: 350px;
+		max-height: 100%;
+	}
+
+	.card-container {
+		max-width: 100%;
+		min-width: 100%;
+		width: 20rem;
+		height: 30rem;
+	}
+
 	.about {
 		overflow-y: auto;
 	}
 	.info {
 		margin-left: 0;
-		width: 90vw;
+		width: 100vw;
 	}
 
 	.info img {
-		width: 50vw;
+		width: 90vw;
 		border-radius: 50%;
 	}
 
@@ -161,5 +177,18 @@ body {
 	.buttons {
 		gap: 1rem;
 		margin-left: 1rem;
+	}
+}
+
+@keyframes show {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0.5;
+	}
+
+	100% {
+		opacity: 1;
 	}
 }

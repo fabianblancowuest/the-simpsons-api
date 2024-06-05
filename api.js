@@ -2,6 +2,13 @@ const list = document.getElementById("list");
 const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
 let data;
 let characterId;
+const obj = {
+	name: "",
+	genre: "",
+	state: "",
+	employment: "",
+	story: "",
+};
 
 async function getData() {
 	try {
@@ -31,18 +38,28 @@ async function getData() {
 			container.append(item, image, item3, item4);
 			container.id = element._id;
 			link.append(container);
-			link.href = "/detail.html";
+			link.id = element._id;
 			link.className = "card-link-container";
 			fragment.append(link);
 		});
 		list.appendChild(fragment);
+		const links = document.querySelectorAll(".card-link-container");
+		const images = document.querySelectorAll("img");
 
 		document.addEventListener("click", (event) => {
 			console.log("Hiciste click en ", event.target);
 			console.log("id", event.target.id);
 			let eventId = event.target.id;
+			let idElement;
+			if (eventId.length > 10) {
+				idElement = eventId;
 
-			if (eventId) {
+				for (let i = 0; i < links.length; i++) {
+					links[i].href = "/detail.html";
+				}
+			}
+
+			if (idElement) {
 				data.docs.forEach((element) => {
 					if (element._id === eventId) {
 						localStorage.setItem("apiID", element._id);
