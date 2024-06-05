@@ -12,7 +12,7 @@ body {
 	max-width: 250px;
 }
 .section {
-	background-image: url(./assets/img/background-bart.png);
+	background-image: url(/assets/img/background-bart.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100vw;

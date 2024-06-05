@@ -1,4 +1,5 @@
 const list = document.getElementById("list");
+const link = document.getElementById("link");
 async function getData() {
 	try {
 		// Here consume data from the api
@@ -25,8 +26,10 @@ async function getData() {
 			container.className = "card-container";
 			image.className = "card-img";
 			item.className = "card-title";
+			container.id = element._id;
 			container.append(item, image, item3, item4);
-			fragment.append(container);
+			link.append(container);
+			fragment.append(link);
 		});
 		list.appendChild(fragment);
 	} catch (error) {
