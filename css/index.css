@@ -260,7 +260,11 @@ body {
 /* Story */
 
 .overlay {
+<<<<<<< HEAD
 	display: flex;
+=======
+	display: none;
+>>>>>>> 5a381f1ada7730589e42803c0f631d4d7df17200
 	margin: 1em auto;
 	padding: 1em 1.5em;
 	/* max-width: 1000px; */
