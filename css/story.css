@@ -10,7 +10,7 @@
 	justify-content: center;
 	background-color: var(--yellow-color);
 	font-family: "Quicksand", sans-serif;
-	animation: out 2s ease-in-out;
+	animation: show 2s ease-in-out;
 }
 
 .story-title {

@@ -26,6 +26,7 @@ btnCloseDetail.addEventListener("click", () => {
 	console.log("Cliked!");
 	sectionCharacters.classList.remove("container-mine-close");
 	sectionCharacters.classList.add("container-mine-show");
+	btnCloseDetail.classList.remove("btn-detail-show");
 });
 
 async function getData() {
@@ -101,6 +102,7 @@ async function getData() {
 				detailElementCharacter.classList.add("section-show");
 				sectionCharacters.classList.remove("container-mine-show");
 				sectionCharacters.classList.add("container-mine-close");
+				btnCloseDetail.classList.add("btn-detail-show");
 				data.docs.forEach((element) => {
 					if (element._id === eventId) {
 						localStorage.setItem("apiID", element._id);

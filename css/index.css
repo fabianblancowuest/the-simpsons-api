@@ -266,10 +266,6 @@ body {
 	display: none;
 }
 
-.btn-overlay {
-	width: fit-content;
-}
-
 .section-hidden {
 	display: none;
 }
@@ -288,18 +284,5 @@ body {
 
 	100% {
 		opacity: 1;
-	}
-}
-
-@keyframes out {
-	0% {
-		opacity: 1;
-	}
-	50% {
-		opacity: 0;
-	}
-
-	100% {
-		display: none;
 	}
 }
