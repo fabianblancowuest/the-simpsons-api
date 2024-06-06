@@ -257,8 +257,10 @@ body {
 	}
 }
 
+/* Story */
+
 .overlay {
-	display: none;
+	display: flex;
 	margin: 1em auto;
 	padding: 1em 1.5em;
 	/* max-width: 1000px; */

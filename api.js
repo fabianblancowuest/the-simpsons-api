@@ -5,28 +5,44 @@ const btnCLoseOverlay = document.getElementById("btn-close-overlay");
 const sectionCharacters = document.getElementById("section-characters");
 const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
 
+// Detail elements
+const detailElementCharacter = document.getElementById("character");
+const detailElementTitle = document.getElementById("character-title");
+const detailElementStory = document.getElementById("character-description");
+const detailElementImage = document.getElementById("character-image");
+const detailElementGenre = document.getElementById("character-genre");
+const detailElementState = document.getElementById("character-state");
+const detailElementEmployment = document.getElementById("character-employment");
+const btnCloseDetail = document.getElementById("btn-close");
+
+if (detailElementTitle.textContent.length > 30) {
+	detailElementTitle.style.fontSize = ".2rem !important";
+	detailElementTitle.textContent.length = 20;
+}
+
 let data;
 let characterId;
-const obj = {
-	name: "",
-	genre: "",
-	state: "",
-	employment: "",
-	story: "",
-};
 
-btnOverlay.addEventListener("click", () => {
-	overlay.classList.remove("overlay-close");
-	overlay.classList.add("overlay-show");
-	sectionCharacters.classList.remove("section-show");
-	sectionCharacters.classList.add("section-hidden");
+btnCloseDetail.addEventListener("click", () => {
+	detailElementCharacter.classList.remove("show");
+	detailElementCharacter.classList.add("character-close");
+	console.log("Cliked!");
+	sectionCharacters.classList.remove("container-mine-close");
+	sectionCharacters.classList.add("container-mine-show");
 });
 
-btnCLoseOverlay.addEventListener("click", () => {
-	overlay.classList.add("overlay-close");
-	sectionCharacters.classList.remove("section-show");
-	sectionCharacters.classList.add("section-show");
-});
+// btnOverlay.addEventListener("click", () => {
+// 	overlay.classList.remove("overlay-close");
+// 	overlay.classList.add("overlay-show");
+// 	sectionCharacters.classList.remove("section-show");
+// 	sectionCharacters.classList.add("section-hidden");
+// });
+
+// btnCLoseOverlay.addEventListener("click", () => {
+// 	overlay.classList.add("overlay-close");
+// 	sectionCharacters.classList.remove("section-show");
+// 	sectionCharacters.classList.add("section-show");
+// });
 
 async function getData() {
 	try {
@@ -94,15 +110,26 @@ async function getData() {
 				idElement = eventId;
 
 				for (let i = 0; i < links.length; i++) {
-					links[i].href = "/detail.html";
+					// links[i].href = "/detail.html";
 				}
 			}
 
 			if (idElement) {
+				detailElementCharacter.classList.remove("character-close");
+				detailElementCharacter.classList.add("show");
+				sectionCharacters.classList.remove("container-mine-show");
+				sectionCharacters.classList.add("container-mine-close");
 				data.docs.forEach((element) => {
 					if (element._id === eventId) {
 						localStorage.setItem("apiID", element._id);
 						console.log(element);
+						detailElementTitle.textContent = "Nombre | " + element.Nombre;
+						detailElementStory.textContent = "Historia | " + element.Historia;
+						detailElementImage.src = element.Imagen;
+						detailElementGenre.textContent = "Género | " + element.Genero;
+						detailElementState.textContent = "Estado | " + element.Estado;
+						detailElementEmployment.textContent =
+							"Ocupación | " + element.Ocupacion;
 					}
 				});
 			}

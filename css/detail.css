@@ -17,12 +17,29 @@ body {
 	width: 100vw;
 	max-width: 100%;
 	display: flex;
+	display: none;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 	animation: show 3s ease-in-out;
 	padding: 2em 1em;
+}
+
+.show {
+	display: flex;
+}
+
+/* Contenedor Index */
+.container-mine-close {
+	display: none;
+}
+.container-mine-show {
+	display: flex;
+}
+
+.character-close {
+	display: none;
 }
 
 .contenedor-info {
