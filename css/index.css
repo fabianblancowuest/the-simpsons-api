@@ -1,11 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
 :root {
 	color: black;
 	font-family: "Simpsonfont", sans-serif;
 	/* font-family: "Akbar", sans-serif; */
+	--yellow-color: rgb(254, 212, 32);
 }
 
 body {
 	margin: 0;
+	background-color: var(--yellow-color);
 }
 
 #title img {
@@ -25,11 +29,17 @@ body {
 	padding: 1rem;
 	display: flex;
 	justify-content: space-around;
+	letter-spacing: 0.1rem;
+	width: 100vw;
 }
 .navbar {
 	background-color: rgb(150, 212, 253) !important;
 	font-family: "Simpsonfont", sans-serif;
 	display: flex;
+}
+
+.nav-item a {
+	letter-spacing: 0.1rem;
 }
 
 .nav-links {
@@ -40,7 +50,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	gap: 4rem;
-	margin-left: 80%;
+	margin-left: 70%;
 	font-size: 1.2rem;
 	font-weight: bold;
 }
@@ -63,7 +73,7 @@ body {
 .nav a button {
 	font-size: 1rem;
 	font-family: "Simpsonfont", sans-serif;
-
+	letter-spacing: 0.1rem;
 	font-weight: bold;
 	letter-spacing: 0.1rem;
 	background-color: black;
@@ -127,7 +137,9 @@ body {
 	transition: 0.5s all;
 }
 
-.card-container h3 {
+.card-container .card-title,
+.card-state,
+.card-gender {
 	font-family: "Simpsonfont", sans-serif;
 	font-size: 1.5rem;
 	cursor: text;
@@ -136,6 +148,13 @@ body {
 	height: 11rem;
 	width: auto;
 	cursor: text;
+}
+
+.img-limit {
+	object-fit: cover;
+	max-width: 200px;
+	height: auto;
+	object-fit: cover;
 }
 
 .card-title {
@@ -155,6 +174,7 @@ body {
 
 .audio {
 	opacity: 0;
+	display: none;
 }
 
 .audio:hover {
@@ -169,6 +189,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+	.nav {
+		width: 100vw;
+	}
+
 	.card-container {
 		margin: 4em 0;
 		transform: scale(1.2);
@@ -208,5 +232,63 @@ body {
 
 	100% {
 		opacity: 1;
+	}
+}
+
+.overlay {
+	display: none;
+	margin: 3em auto;
+	max-width: 1000px;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--yellow-color);
+	font-family: "Quicksand", sans-serif;
+	animation: out 2s ease-in-out;
+}
+
+.overlay-show {
+	display: flex;
+	animation: show 2s ease-in-out;
+}
+
+.overlay-close {
+	display: none;
+}
+
+.btn-overlay {
+	width: fit-content;
+}
+
+.section-hidden {
+	display: none;
+}
+
+.section-show {
+	display: initial;
+}
+@keyframes show {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0.5;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes out {
+	0% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		display: none;
 	}
 }

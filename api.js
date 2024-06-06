@@ -1,5 +1,10 @@
 const list = document.getElementById("list");
+const btnOverlay = document.getElementById("btn-overlay");
+const overlay = document.getElementById("overlay");
+const btnCLoseOverlay = document.getElementById("btn-close-overlay");
+const sectionCharacters = document.getElementById("section-characters");
 const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
+
 let data;
 let characterId;
 const obj = {
@@ -9,6 +14,19 @@ const obj = {
 	employment: "",
 	story: "",
 };
+
+btnOverlay.addEventListener("click", () => {
+	overlay.classList.remove("overlay-close");
+	overlay.classList.add("overlay-show");
+	sectionCharacters.classList.remove("section-show");
+	sectionCharacters.classList.add("section-hidden");
+});
+
+btnCLoseOverlay.addEventListener("click", () => {
+	overlay.classList.add("overlay-close");
+	sectionCharacters.classList.remove("section-show");
+	sectionCharacters.classList.add("section-show");
+});
 
 async function getData() {
 	try {
@@ -30,7 +48,9 @@ async function getData() {
 			item.innerText = element.Nombre;
 			// item2.innerText = element.Ocupacion;
 			item3.innerText = element.Estado;
+			item3.className = "card-state";
 			item4.innerText = element.Genero;
+			item4.className = "card-gender";
 			image.src = element.Imagen;
 			container.className = "card-container";
 			image.className = "card-img";
@@ -44,7 +64,26 @@ async function getData() {
 		});
 		list.appendChild(fragment);
 		const links = document.querySelectorAll(".card-link-container");
-		const images = document.querySelectorAll("img");
+		const images = document.getElementsByClassName("card-img");
+		const cardsTitle = document.getElementsByClassName("card-title");
+		console.log(cardsTitle);
+
+		// to change texts size
+		for (let i = 0; i < cardsTitle.length; i++) {
+			if (cardsTitle[i].textContent.length > 20) {
+				cardsTitle[i].style.fontSize = "1.3rem";
+			}
+			if (cardsTitle[i].textContent.length > 25) {
+				cardsTitle[i].style.fontSize = "1rem";
+			}
+		}
+
+		// to change images size
+		for (let i = 0; i < images.length; i++) {
+			if (images[i].width > 200) {
+				images[i].classList.add("img-limit");
+			}
+		}
 
 		document.addEventListener("click", (event) => {
 			console.log("Hiciste click en ", event.target);

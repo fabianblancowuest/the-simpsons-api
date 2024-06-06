@@ -13,6 +13,11 @@ const apiID = localStorage.getItem("apiID");
 
 console.log(apiID);
 
+if (detailElementTitle.textContent.length > 30) {
+	detailElementTitle.style.fontSize = ".2rem !important";
+	detailElementTitle.textContent.length = 20;
+}
+
 fetch(url)
 	.then((response) => response.json())
 	.then((data) =>
@@ -27,3 +32,8 @@ fetch(url)
 			}
 		}),
 	);
+
+if (detailElementTitle.textContent.length > 30) {
+	detailElementTitle.style.fontSize = ".2rem !important";
+	detailElementTitle.textContent.length = 20;
+}
