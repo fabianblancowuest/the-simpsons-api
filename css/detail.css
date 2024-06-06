@@ -22,11 +22,11 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	animation: show 3s ease-in-out;
+	animation: show 2s ease-in-out;
 	padding: 2em 1em;
 }
 
-.show {
+.section-show {
 	display: flex;
 }
 
@@ -72,9 +72,6 @@ body {
 @keyframes show {
 	0% {
 		opacity: 0;
-	}
-	50% {
-		opacity: 0.5;
 	}
 
 	100% {

@@ -1,7 +1,4 @@
 const list = document.getElementById("list");
-const btnOverlay = document.getElementById("btn-overlay");
-const overlay = document.getElementById("overlay");
-const btnCLoseOverlay = document.getElementById("btn-close-overlay");
 const sectionCharacters = document.getElementById("section-characters");
 const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
 
@@ -13,7 +10,7 @@ const detailElementImage = document.getElementById("character-image");
 const detailElementGenre = document.getElementById("character-genre");
 const detailElementState = document.getElementById("character-state");
 const detailElementEmployment = document.getElementById("character-employment");
-const btnCloseDetail = document.getElementById("btn-close");
+const btnCloseDetail = document.getElementById("btn-close-detail");
 
 if (detailElementTitle.textContent.length > 30) {
 	detailElementTitle.style.fontSize = ".2rem !important";
@@ -24,25 +21,12 @@ let data;
 let characterId;
 
 btnCloseDetail.addEventListener("click", () => {
-	detailElementCharacter.classList.remove("show");
+	detailElementCharacter.classList.remove("section-show");
 	detailElementCharacter.classList.add("character-close");
 	console.log("Cliked!");
 	sectionCharacters.classList.remove("container-mine-close");
 	sectionCharacters.classList.add("container-mine-show");
 });
-
-// btnOverlay.addEventListener("click", () => {
-// 	overlay.classList.remove("overlay-close");
-// 	overlay.classList.add("overlay-show");
-// 	sectionCharacters.classList.remove("section-show");
-// 	sectionCharacters.classList.add("section-hidden");
-// });
-
-// btnCLoseOverlay.addEventListener("click", () => {
-// 	overlay.classList.add("overlay-close");
-// 	sectionCharacters.classList.remove("section-show");
-// 	sectionCharacters.classList.add("section-show");
-// });
 
 async function getData() {
 	try {
@@ -57,12 +41,10 @@ async function getData() {
 			const container = document.createElement("div");
 			const link = document.createElement("a");
 			const item = document.createElement("h3");
-			const item2 = document.createElement("h3");
 			const item3 = document.createElement("h3");
 			const item4 = document.createElement("h3");
 			const image = document.createElement("img");
 			item.innerText = element.Nombre;
-			// item2.innerText = element.Ocupacion;
 			item3.innerText = element.Estado;
 			item3.className = "card-state";
 			item4.innerText = element.Genero;
@@ -106,17 +88,17 @@ async function getData() {
 			console.log("id", event.target.id);
 			let eventId = event.target.id;
 			let idElement;
-			if (eventId.length > 10) {
+			if (eventId.length > 20) {
 				idElement = eventId;
 
-				for (let i = 0; i < links.length; i++) {
-					// links[i].href = "/detail.html";
-				}
+				// for (let i = 0; i < links.length; i++) {
+				// links[i].href = "/detail.html";
+				// }
 			}
 
 			if (idElement) {
 				detailElementCharacter.classList.remove("character-close");
-				detailElementCharacter.classList.add("show");
+				detailElementCharacter.classList.add("section-show");
 				sectionCharacters.classList.remove("container-mine-show");
 				sectionCharacters.classList.add("container-mine-close");
 				data.docs.forEach((element) => {
@@ -124,7 +106,7 @@ async function getData() {
 						localStorage.setItem("apiID", element._id);
 						console.log(element);
 						detailElementTitle.textContent = "Nombre | " + element.Nombre;
-						detailElementStory.textContent = "Historia | " + element.Historia;
+						detailElementStory.textContent = element.Historia;
 						detailElementImage.src = element.Imagen;
 						detailElementGenre.textContent = "Género | " + element.Genero;
 						detailElementState.textContent = "Estado | " + element.Estado;
