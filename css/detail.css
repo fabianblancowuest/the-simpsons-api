@@ -14,10 +14,10 @@ body {
 	color: black;
 	font-family: "Quicksand", sans-serif;
 	background-color: #fed420;
-	/* min-height: 100vh; */
 	height: fit-content;
-	width: 100vw;
 	max-width: 100%;
+	width: 1400px;
+	margin: 0 auto;
 	display: flex;
 	display: none;
 	flex-direction: row;
@@ -25,7 +25,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	animation: show 2s ease-in-out;
-	padding: 2em 1em;
+	padding: 1em;
 }
 
 .section-show {
@@ -64,6 +64,7 @@ body {
 
 .character-title {
 	white-space: pre-wrap;
+	text-transform: capitalize;
 }
 
 .character-title,
@@ -76,19 +77,39 @@ body {
 	margin: 0.5em 0;
 }
 
+.character-employment {
+	max-width: 900px;
+}
+
 .btn-detail {
 	display: none;
-	font-size: 1.2rem;
+	font-size: 1.3rem;
 	font-weight: bold;
 	padding: 0;
-	width: 40px;
+	width: 50px;
 	margin-left: auto;
-	margin-right: 200px;
 	animation: show 2s ease-in-out;
+	background-color: rgb(150, 212, 253);
 }
 
 .btn-detail-show {
 	display: unset;
+}
+
+.btn-detail-container {
+	max-width: 100%;
+	width: 1400px;
+	display: flex;
+	margin: 0 auto;
+	padding: 0 1em;
+}
+
+@media (max-width: 768px) {
+	.btn-detail-container {
+		/* max-width: 768px; */
+		width: 100%;
+		padding: 0.5em;
+	}
 }
 
 @keyframes show {
