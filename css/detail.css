@@ -114,6 +114,10 @@ body {
 }
 
 @media (max-width: 768px) {
+	.character {
+		margin-bottom: 2.5em;
+	}
+
 	.btn-detail-container {
 		/* max-width: 768px; */
 		width: 100%;
