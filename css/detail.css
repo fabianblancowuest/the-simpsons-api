@@ -63,8 +63,17 @@ body {
 }
 
 .character-title {
-	white-space: pre-wrap;
 	text-transform: capitalize;
+	max-width: 100%;
+}
+
+@media (max-width: 768px) {
+	.character-title {
+	}
+
+	.character-description {
+		max-width: 100%;
+	}
 }
 
 .character-title,

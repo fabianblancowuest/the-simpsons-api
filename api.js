@@ -12,6 +12,13 @@ const detailElementState = document.getElementById("character-state");
 const detailElementEmployment = document.getElementById("character-employment");
 const btnCloseDetail = document.getElementById("btn-close-detail");
 const allCardsTitle = document.getElementsByClassName("card-title");
+const allCardsState = document.getElementsByClassName("card-state");
+
+for (let i = 0; i < allCardsState.length; i++) {
+	if (allCardsState[i].textContent.length > 20) {
+		allCardsState[i].style.fontSize = "1rem";
+	}
+}
 
 if (detailElementTitle.textContent.length > 30) {
 	detailElementTitle.style.fontSize = ".2rem !important";
@@ -50,6 +57,12 @@ async function getData() {
 				const item4 = document.createElement("h3");
 				const image = document.createElement("img");
 				item.innerText = element.Nombre;
+
+				if (element._id === "63ec28715d30fabfe4502bf3") {
+					element.Estado = "Vivo";
+					element.Ocupacion =
+						"Empleado del DMV Anterior: Guardia de seguridad Anterior: Agente de la CIA";
+				}
 				item3.innerText = element.Estado;
 				item3.className = "card-state";
 				item4.innerText = element.Genero;
@@ -116,7 +129,7 @@ async function getData() {
 				cardsTitle[i].style.fontSize = "1rem";
 			}
 			// if (cardsTitle[i].textContent.length > 30) {
-			// 	cardsTitle[i].textContent.length = 27 + "...";
+			// 	cardsTitle[i].textContent.substring(0, 27);
 			// }
 		}
 
@@ -124,6 +137,13 @@ async function getData() {
 		for (let i = 0; i < images.length; i++) {
 			if (images[i].width > 200) {
 				images[i].classList.add("img-limit");
+			}
+		}
+
+		// To change text states size
+		for (let i = 0; i < allCardsState.length; i++) {
+			if (allCardsState[i].textContent.length > 20) {
+				allCardsState[i].style.fontSize = "1rem";
 			}
 		}
 
