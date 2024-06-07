@@ -114,9 +114,9 @@ body {
 }
 
 @media (max-width: 768px) {
-	.character {
+	/* .character {
 		margin-bottom: 2.5em;
-	}
+	} */
 
 	.btn-detail-container {
 		/* max-width: 768px; */

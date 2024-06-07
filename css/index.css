@@ -218,7 +218,8 @@ body {
 }
 
 .copyright {
-	background-color: rgba(150, 212, 253, 0.5);
+	/* background-color: rgba(150, 212, 253, 0.5); */
+	display: none;
 	text-align: center;
 	position: fixed;
 	font-weight: bold;
