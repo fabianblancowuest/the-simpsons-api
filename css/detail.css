@@ -110,6 +110,13 @@ body {
 		width: 100%;
 		padding: 0.5em;
 	}
+
+	.character-image {
+		max-width: 100%;
+		max-height: 23rem;
+		height: auto;
+		width: auto;
+	}
 }
 
 @keyframes show {

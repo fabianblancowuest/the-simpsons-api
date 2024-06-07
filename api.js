@@ -11,6 +11,7 @@ const detailElementGenre = document.getElementById("character-genre");
 const detailElementState = document.getElementById("character-state");
 const detailElementEmployment = document.getElementById("character-employment");
 const btnCloseDetail = document.getElementById("btn-close-detail");
+const allCardsTitle = document.getElementsByClassName("card-title");
 
 if (detailElementTitle.textContent.length > 30) {
 	detailElementTitle.style.fontSize = ".2rem !important";
@@ -29,6 +30,8 @@ btnCloseDetail.addEventListener("click", () => {
 	btnCloseDetail.classList.remove("btn-detail-show");
 });
 
+let imagesError = [];
+
 async function getData() {
 	try {
 		// Here consume data from the api
@@ -38,34 +41,71 @@ async function getData() {
 		const fragment = document.createDocumentFragment();
 
 		// Here the html cards are created dynamically.
-		data.docs.forEach((element) => {
-			const container = document.createElement("div");
-			const link = document.createElement("a");
-			const item = document.createElement("h3");
-			const item3 = document.createElement("h3");
-			const item4 = document.createElement("h3");
-			const image = document.createElement("img");
-			item.innerText = element.Nombre;
-			item3.innerText = element.Estado;
-			item3.className = "card-state";
-			item4.innerText = element.Genero;
-			item4.className = "card-gender";
-			image.src = element.Imagen;
-			container.className = "card-container";
-			image.className = "card-img";
-			item.className = "card-title";
-			container.append(item, image, item3, item4);
-			container.id = element._id;
-			link.append(container);
-			link.id = element._id;
-			link.className = "card-link-container";
-			fragment.append(link);
+		const cardsPromises = data.docs.map((element) => {
+			return new Promise((resolve) => {
+				const container = document.createElement("div");
+				const link = document.createElement("a");
+				const item = document.createElement("h3");
+				const item3 = document.createElement("h3");
+				const item4 = document.createElement("h3");
+				const image = document.createElement("img");
+				item.innerText = element.Nombre;
+				item3.innerText = element.Estado;
+				item3.className = "card-state";
+				item4.innerText = element.Genero;
+				item4.className = "card-gender";
+				image.src = element.Imagen;
+
+				// If there is not image
+				image.onerror = () => {
+					imagesError.push(element);
+				};
+
+				const missingImages = {
+					"63e337e7edf49032166d9652":
+						"./assets/img/imagenes-faltantes/larry.webp",
+					"63e455d87de1feab294249c8":
+						"./assets/img/imagenes-faltantes/jefe_de_la_tribu_.png",
+					"63e477937de1feab294269de":
+						"./assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp",
+					"63e485aa7de1feab2942740e":
+						"./assets/img/imagenes-faltantes/Mr_Lacost_Tapped_Out.webp",
+					"63e3349cedf49032166d5ed8":
+						"./assets/img/imagenes-faltantes/artie_ziff.png",
+					"63e3298eedf49032166ca2b3":
+						"./assets/img/imagenes-faltantes/superintendente-chalmers.webp",
+				};
+
+				if (missingImages[element._id]) {
+					image.src = missingImages[element._id];
+				}
+
+				container.className = "card-container";
+				image.className = "card-img";
+				item.className = "card-title";
+				container.append(item, image, item3, item4);
+				container.id = element._id;
+				link.append(container);
+				link.id = element._id;
+				link.className = "card-link-container";
+				fragment.append(link);
+				resolve();
+			});
 		});
+
+		await Promise.all(cardsPromises);
+
+		const imagesRoutes = [
+			"./assets/img/imagenes-faltantes/larry.webp",
+			"./assets/img/imagenes-faltantes/jefe de la tribu .jpeg",
+		];
+
 		list.appendChild(fragment);
 		const links = document.querySelectorAll(".card-link-container");
 		const images = document.getElementsByClassName("card-img");
 		const cardsTitle = document.getElementsByClassName("card-title");
 		console.log(cardsTitle);
+		console.log(imagesError);
 
 		// to change texts size
 		for (let i = 0; i < cardsTitle.length; i++) {
@@ -75,6 +115,9 @@ async function getData() {
 			if (cardsTitle[i].textContent.length > 25) {
 				cardsTitle[i].style.fontSize = "1rem";
 			}
+			// if (cardsTitle[i].textContent.length > 30) {
+			// 	cardsTitle[i].textContent.length = 27 + "...";
+			// }
 		}
 
 		// to change images size
@@ -110,6 +153,29 @@ async function getData() {
 						detailElementTitle.textContent = "Nombre | " + element.Nombre;
 						detailElementStory.textContent = element.Historia;
 						detailElementImage.src = element.Imagen;
+						// // elementos con imágenes faltantes
+						// for (let i = 0; i < imagesError.length; i++) {
+						// 	if(imagesError[i].Nombre)
+						// }
+
+						switch (element._id) {
+							case "63e337e7edf49032166d9652":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/larry.webp";
+							case "63e455d87de1feab294249c8":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/jefe_de_la_tribu_.png";
+							case "63e477937de1feab294269de":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp";
+							case "63e3349cedf49032166d5ed8":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/artie_ziff.png";
+							case "63e3298eedf49032166ca2b3":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/superintendente-chalmers.webp";
+						}
+
 						detailElementGenre.textContent = "Género | " + element.Genero;
 						detailElementState.textContent = "Estado | " + element.Estado;
 						detailElementEmployment.textContent =

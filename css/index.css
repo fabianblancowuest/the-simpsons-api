@@ -167,7 +167,10 @@ body {
 	cursor: text;
 }
 .card-img {
+	max-height: 11rem;
 	height: 11rem;
+	max-width: 100%;
+	height: auto;
 	width: auto;
 	cursor: text;
 }
