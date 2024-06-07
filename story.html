@@ -51,11 +51,11 @@
             </div>
         </div>
     </nav>
-    <section id="overlay" class="story">
+    <section class="story">
         <div class="story-texts">
             <h2 class="story-title">Un poco de historia</h2>
-            <p>
-                Los Simpson —en inglés: The Simpsons— es una serie estadounidense de comedia en formato de animación,
+            <p class="story-item">
+                Los Simpsons es una serie estadounidense de comedia en formato de animación,
                 creada
                 por
 
@@ -67,7 +67,11 @@
                 miembros son Homer, Marge, Bart, Lisa y Maggie Simpson— que vive en un pueblo ficticio llamado
                 Springfield.
             </p>
-            <p>
+            <div class="story-image-container">
+                <img class="story-image story-item" src="./assets/img/the-simpsons.jpg" alt="Los simpsons">
+
+            </div>
+            <p class="story-item">
 
                 La familia fue creada por Groening y poco después debutó en una serie de cortos de animación producidos
                 por
@@ -85,7 +89,7 @@
                 Estados
                 Unidos.
             </p>
-            <p>
+            <p class="story-item">
 
                 Desde su debut el 17 de diciembre de 1989, se han emitido más de 700 episodios,​ habiendo finalizado su
                 trigesimocuarta temporada.​ En el final de la decimoctava temporada, el 20 de mayo de 2007, se emitió en
@@ -97,7 +101,11 @@
                 el
                 mundo.
             </p>
-            <p>
+            <div class="story-image-container">
+                <img class="story-image story-item" src="./assets/img/sky.jpg" alt="Los simpsons">
+
+            </div>
+            <p class="story-item">
 
                 Los Simpson ha ganado numerosos premios desde su estreno como serie, incluyendo 33 premios Emmy, 32
                 premios
@@ -114,16 +122,33 @@
 
                 El 26 de enero de 2023, Fox renovó la serie para una trigesimoquinta y trigesimosexta temporada.
             </p>
-            <!-- <div class="text-center">
-                <btn id="btn-close-overlay" class="btn btn-info btn-overlay">Ocultar historia</btn>
-            </div> -->
+            <blackquote cite="https://es.wikipedia.org/wiki/Los_Simpson" class="cite">
+                Fuente: Wikipedia<cite href="https://es.wikipedia.org/wiki/Los_Simpson"></cite>
+            </blackquote>
         </div>
-        <div class="story-image-container">
-            <img class="story-image" src="./assets/img/sky.jpg">
-            <img class="story-image" src="./assets/img/the-simpsons.jpg" alt="">
 
-        </div>
+
+
     </section>
+    <!-- Scripts -->
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <!-- Own -->
+    <!-- <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            if (window.innerWidth <= 768) {
+                const firstParagraph = document.querySelector(".story-texts .story-item:nth-of-type(1)");
+                const secondParagraph = document.querySelector(".story-texts .story-item:nth-of-type(2)");
+                const firstImage = document.querySelector(".story-image-container .story-image:nth-of-type(1)");
+                const secondImage = document.querySelector(".story-image-container .story-image:nth-of-type(2)");
+
+                firstParagraph.after(firstImage);
+                secondParagraph.after(secondImage);
+            }
+        });
+    </script> -->
 </body>
 
 </html>

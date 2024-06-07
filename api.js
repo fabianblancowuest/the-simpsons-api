@@ -87,6 +87,10 @@ async function getData() {
 						"./assets/img/imagenes-faltantes/artie_ziff.png",
 					"63e3298eedf49032166ca2b3":
 						"./assets/img/imagenes-faltantes/superintendente-chalmers.webp",
+					"63ec504f8b142917b4a270dc":
+						"./assets/img/imagenes-faltantes/TemperanceBarrow.webp",
+					"63e57ff66b08a3edb56c252e":
+						"./assets/img/imagenes-faltantes/duncan.png",
 				};
 
 				if (missingImages[element._id]) {
@@ -194,6 +198,12 @@ async function getData() {
 							case "63e3298eedf49032166ca2b3":
 								detailElementImage.src =
 									"./assets/img/imagenes-faltantes/superintendente-chalmers.webp";
+							case "63ec504f8b142917b4a270dc":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/TemperanceBarrow.webp";
+							case "63e57ff66b08a3edb56c252e":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/duncan.png";
 						}
 
 						detailElementGenre.textContent = "Género | " + element.Genero;
