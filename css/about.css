@@ -157,9 +157,11 @@ h5 {
 
 	.about {
 		overflow-y: auto;
+		padding-bottom: 1em;
 	}
 	.info {
 		margin-left: 0;
+		padding-bottom: 2em;
 	}
 
 	.ul {
