@@ -200,43 +200,6 @@ body {
 	cursor: pointer;
 }
 
-@media screen and (max-width: 766px) {
-	.info img {
-		width: 20%;
-		border-radius: 50%;
-	}
-}
-
-@media screen and (max-width: 600px) {
-	.nav {
-		width: 100vw;
-	}
-
-	.about {
-		overflow-y: auto;
-	}
-	.info {
-		margin-left: 0;
-		width: 100vw;
-	}
-
-	.info img {
-		width: 90vw;
-		border-radius: 50%;
-	}
-
-	.ul {
-		width: 90vw;
-		font-size: 1rem;
-		flex-wrap: wrap;
-	}
-
-	.buttons {
-		gap: 1rem;
-		margin-left: 1rem;
-	}
-}
-
 .overlay-show {
 	display: flex;
 	animation: show 2s ease-in-out;
@@ -252,6 +215,16 @@ body {
 
 .section-show {
 	display: initial;
+}
+
+.copyright {
+	background-color: rgba(150, 212, 253, 0.5);
+	text-align: center;
+	position: fixed;
+	font-weight: bold;
+	bottom: 0;
+	padding: 1em;
+	width: 100%;
 }
 
 @keyframes show {
