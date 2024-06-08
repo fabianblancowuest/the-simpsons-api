@@ -27,13 +27,7 @@ body {
 }
 
 /* NavBar */
-.nav {
-	padding: 0.9rem;
-	display: flex;
-	justify-content: space-around;
-	letter-spacing: 0.1rem;
-	width: 100vw;
-}
+
 .navbar {
 	background-color: rgb(150, 212, 253) !important;
 	font-family: "Simpsonfont", sans-serif;

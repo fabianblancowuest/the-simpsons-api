@@ -7,47 +7,35 @@
 body {
 	margin: 0;
 	padding: 0;
+	background-color: rgb(0, 0, 0) !important;
 }
 
+h1,
 h2,
 h3,
 h4,
 h5 {
 	text-align: center;
-	color: black;
+	color: white;
 	margin-top: 2rem;
-}
-.article {
-	background-image: url(/assets/img/los-simpson-homer-simpson-donut-17o8k0xjab9bivw6.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 100vh;
-	width: 100vw;
 }
 
 .about {
+	background-image: url(/assets/img/HD-wallpaper-the-simpsons-homer.jpg);
 	display: flex;
-	flex-direction: column;
-	background-image: url("./assets/about-background2.jpg");
-	background-size: cover;
+	flex-direction: row;
+	background-size: 30%;
 	background-repeat: no-repeat;
-	background-position: center;
-	height: 100vh;
+	background-position: bottom right;
 	animation: aparecer 10s ease-in-out;
+	height: 100vh;
 }
 
 .container {
 	margin-top: 3rem;
+	margin-left: auto;
 	max-width: 600px;
 	font-family: "Simpsonfont", sans-serif;
-}
-
-.info {
-	margin-left: 30%;
-	width: fit-content;
-	height: 50vh;
-	font-size: 1.3vw;
 }
 
 .perfil-image {
@@ -64,7 +52,7 @@ h5 {
 .social-media-container {
 	display: flex;
 	justify-content: center;
-	gap: 6rem;
+	gap: 0 3rem;
 }
 
 .social-media-container {
@@ -84,56 +72,11 @@ h5 {
 	justify-content: space-between;
 	gap: 2rem;
 	list-style: none;
-	color: black;
+	color: white;
 }
 
 .img:hover {
 	box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
-}
-
-.nav {
-	padding: 1rem;
-	display: flex;
-	justify-content: space-around;
-}
-.navbar {
-	background-color: rgb(150, 212, 253) !important;
-	font-family: "Simpsonfont", sans-serif;
-	display: flex;
-}
-
-.buttons {
-	display: flex;
-	justify-content: space-between;
-	gap: 4rem;
-	margin-left: 3rem;
-	font-size: 1.1rem;
-	font-weight: bold;
-}
-.nav a button {
-	font-size: 1rem;
-	font-family: "Simpsonfont", sans-serif;
-
-	font-weight: bold;
-	letter-spacing: 0.1rem;
-	background-color: black;
-	color: aliceblue;
-}
-
-.logo-app img {
-	max-width: 90px;
-	margin-left: 2rem;
-}
-
-.btn {
-	font-size: 1rem;
-	padding: 0.3rem;
-	width: 5rem;
-}
-.btn:hover {
-	background-color: black;
-	color: aliceblue;
-	cursor: pointer;
 }
 
 @keyframes aparecer {
@@ -157,36 +100,29 @@ h5 {
 
 	.about {
 		overflow-y: auto;
-		padding-bottom: 1em;
 	}
 	.info {
 		margin-left: 0;
-		padding-bottom: 2em;
+		/* font-size: 0.9rem !important; */
 	}
 
 	.ul {
 		width: 90vw;
-		font-size: 1rem;
 		flex-wrap: wrap;
 	}
 
-	.buttons {
-		gap: 1rem;
-		margin-left: 1rem;
+	.about {
+		background-image: none;
 	}
 }
 
 @media screen and (max-width: 600px) {
-	.nav {
-		width: 100vw;
-	}
-
 	.about {
 		overflow-y: auto;
 	}
 	.info {
-		margin-left: 0;
-		width: 100vw;
+		margin: 0 auto;
+		width: 90vw;
 		text-align: center;
 	}
 
@@ -195,16 +131,5 @@ h5 {
 		width: 50vw;
 		border-radius: 50%;
 		margin: 0 auto;
-	}
-
-	.ul {
-		width: 90vw;
-		font-size: 1rem;
-		flex-wrap: wrap;
-	}
-
-	.buttons {
-		gap: 1rem;
-		margin-left: 1rem;
 	}
 }
