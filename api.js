@@ -204,6 +204,9 @@ async function getData() {
 							case "63e57ff66b08a3edb56c252e":
 								detailElementImage.src =
 									"./assets/img/imagenes-faltantes/duncan.png";
+							case "63e485aa7de1feab2942740e":
+								detailElementImage.src =
+									"./assets/img/imagenes-faltantes/Mr_Lacost_Tapped_Out.webp";
 						}
 
 						detailElementGenre.textContent = "Género | " + element.Genero;
