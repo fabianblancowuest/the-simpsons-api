@@ -28,7 +28,7 @@ body {
 
 /* NavBar */
 .nav {
-	padding: 1rem;
+	padding: 0.9rem;
 	display: flex;
 	justify-content: space-around;
 	letter-spacing: 0.1rem;
@@ -40,12 +40,20 @@ body {
 	display: flex;
 }
 
+.navbar-expand-lg {
+	/* margin-left: auto; */
+}
 .nav-item a {
 	letter-spacing: 0.1rem;
 }
 
 .nav-links {
-	margin-left: auto;
+	margin-left: auto !important;
+}
+
+.nav-link {
+	width: 100px;
+	text-align: center;
 }
 
 .nav a button {
@@ -168,14 +176,14 @@ body {
 	display: flex;
 	justify-content: space-between;
 	gap: 4rem;
-	margin-left: 70%;
+	margin-left: auto;
 	font-size: 1.2rem;
 	font-weight: bold;
 }
 
 @media (max-width: 1200px) {
 	.buttons {
-		margin-left: 0;
+		margin-left: auto;
 		min-height: fit-content;
 		height: fit-content;
 		gap: 1rem;
@@ -183,6 +191,10 @@ body {
 }
 
 @media (max-width: 1000px) {
+	.buttons {
+		justify-content: center;
+		align-items: center;
+	}
 	.buttons li {
 		text-align: center;
 	}

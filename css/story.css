@@ -52,8 +52,8 @@
 	.story-image-container {
 		display: flex;
 		flex-direction: column;
-		padding-left: 1em;
-		padding-right: 1em;
+		padding-left: 0.5em;
+		padding-right: 0.5em;
 	}
 
 	.story-image {

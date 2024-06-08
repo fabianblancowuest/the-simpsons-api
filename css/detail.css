@@ -94,8 +94,8 @@ body {
 	display: none;
 	font-size: 1.3rem;
 	font-weight: bold;
-	padding: 0;
-	width: 50px;
+	/* padding: 0.2em 0; */
+	width: 60px;
 	margin-left: auto;
 	animation: show 2s ease-in-out;
 	background-color: rgb(150, 212, 253);
