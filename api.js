@@ -2,6 +2,13 @@ const list = document.getElementById("list");
 const sectionCharacters = document.getElementById("section-characters");
 const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
 
+const textCardsSearched = document.createElement("h5");
+textCardsSearched.className = "text-searched";
+
+const btnAllCards = document.createElement("button");
+btnAllCards.textContent = "Todos los personajes";
+btnAllCards.className = "btn-all-cards";
+
 // Detail elements
 const detailElementCharacter = document.getElementById("character");
 const detailElementTitle = document.getElementById("character-title");
@@ -13,6 +20,12 @@ const detailElementEmployment = document.getElementById("character-employment");
 const btnCloseDetail = document.getElementById("btn-close-detail");
 const allCardsTitle = document.getElementsByClassName("card-title");
 const allCardsState = document.getElementsByClassName("card-state");
+const formSearch = document.getElementById("form-search");
+const inputSearch = document.getElementById("input-search");
+const btnSearch = document.getElementById("btn-search");
+const footer = document.getElementById("footer");
+const containerNavLinks = document.getElementById("container-nav-links");
+const searchResultsText = document.getElementById("search-results-text");
 
 for (let i = 0; i < allCardsState.length; i++) {
 	if (allCardsState[i].textContent.length > 20) {
@@ -35,6 +48,8 @@ btnCloseDetail.addEventListener("click", () => {
 	sectionCharacters.classList.remove("container-mine-close");
 	sectionCharacters.classList.add("container-mine-show");
 	btnCloseDetail.classList.remove("btn-detail-show");
+	formSearch.classList.remove("section-hidden");
+	formSearch.classList.add("form-control-show");
 });
 
 let imagesError = [];
@@ -100,6 +115,10 @@ async function getData() {
 				container.className = "card-container";
 				image.className = "card-img";
 				item.className = "card-title";
+				image.id = element._id;
+				item.id = element._id;
+				item3.id = element._id;
+				item4.id = element._id;
 				container.append(item, image, item3, item4);
 				container.id = element._id;
 				link.append(container);
@@ -112,18 +131,12 @@ async function getData() {
 
 		await Promise.all(cardsPromises);
 
-		const imagesRoutes = [
-			"./assets/img/imagenes-faltantes/larry.webp",
-			"./assets/img/imagenes-faltantes/jefe de la tribu .jpeg",
-		];
-
 		list.appendChild(fragment);
 		const links = document.querySelectorAll(".card-link-container");
 		const images = document.getElementsByClassName("card-img");
 		const cardsTitle = document.getElementsByClassName("card-title");
-		console.log(cardsTitle);
-		console.log(imagesError);
 
+		const allCards = Array.from(list.children);
 		// to change texts size
 		for (let i = 0; i < cardsTitle.length; i++) {
 			if (cardsTitle[i].textContent.length > 20) {
@@ -152,8 +165,6 @@ async function getData() {
 		}
 
 		document.addEventListener("click", (event) => {
-			console.log("Hiciste click en ", event.target);
-			console.log("id", event.target.id);
 			let eventId = event.target.id;
 			let idElement;
 			if (eventId.length > 20) {
@@ -170,6 +181,9 @@ async function getData() {
 				sectionCharacters.classList.remove("container-mine-show");
 				sectionCharacters.classList.add("container-mine-close");
 				btnCloseDetail.classList.add("btn-detail-show");
+				formSearch.classList.remove("form-control-show");
+				formSearch.classList.add("section-hidden");
+
 				data.docs.forEach((element) => {
 					if (element._id === eventId) {
 						localStorage.setItem("apiID", element._id);
@@ -216,6 +230,61 @@ async function getData() {
 					}
 				});
 			}
+		});
+
+		console.log(allCards);
+
+		btnSearch.addEventListener("click", (event) => {
+			event.preventDefault();
+			let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
+			console.log(searched);
+
+			// Vaciar el div contenedor
+			list.innerHTML = "";
+
+			// Filtrar y mostrar solo las tarjetas que coinciden con la búsqueda
+			let found = false;
+			for (let card of allCards) {
+				let cardTitle = card
+					.querySelector(".card-title")
+					.textContent.toLowerCase(); // Asumiendo que el título tiene la clase 'card-title'
+				if (cardTitle.includes(searched)) {
+					searchResultsText.appendChild(textCardsSearched);
+					list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
+					card.scrollIntoView({
+						behavior: "smooth",
+						block: "center",
+					});
+					found = true;
+				}
+				// else {
+				// 	found = false;
+				// 	list.innerHTML = "";
+				// }
+			}
+
+			// Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
+			if (!found) {
+				textCardsSearched.textContent = "No se encontraron coincidencias...";
+				searchResultsText.appendChild(textCardsSearched);
+			} else {
+				textCardsSearched.textContent =
+					"Mostrando todas las coincidencias encontradas...";
+			}
+
+			btnAllCards.classList.remove("section-hidden");
+			btnAllCards.classList.add("section-show");
+			containerNavLinks.appendChild(btnAllCards);
+
+			btnAllCards.addEventListener("click", () => {
+				for (let card of allCards) {
+					list.appendChild(card);
+				}
+
+				btnAllCards.classList.add("section-hidden");
+
+				textCardsSearched.removeChild(textCardsSearched);
+			});
 		});
 	} catch (error) {
 		alert({ error: error.message });

@@ -35,7 +35,7 @@
                 <img src="assets/img/logo.svg" alt="The Simpsons Logo">
             </div>
             <div class="collapse navbar-collapse nav-links" id="navbarScroll">
-                <ul class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
+                <ul id="container-nav-links" class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
                     style="--bs-scroll-height: 100px;">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
@@ -50,10 +50,12 @@
                         <a class="nav-link active" aria-current="page" href="./detail.html">Detail</a>
                     </li> -->
                 </ul>
-                <!-- <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                </form> -->
+                <form id="form-search" class="form-search" role="search">
+                    <div id="container-btn-all-cards"></div>
+                    <input id="input-search" class="form-control me-2" type="search" placeholder="Search"
+                        aria-label="Search">
+                    <button id="btn-search" class="btn btn-outline-success" type="submit">Search</button>
+                </form>
             </div>
         </div>
     </nav>
@@ -61,7 +63,7 @@
 
     <!-- Detail Section -->
     <div class="btn-detail-container">
-        <btn id="btn-close-detail" class="btn btn-info btn-detail">
+        <btn id="btn-close-detail" class="btn btn-detail">
             <i class="bi bi-x-lg">
             </i>
         </btn>
@@ -87,8 +89,12 @@
         </div>
     </section>
     <!-- Footer -->
-    <footer>
-        <div class="copyright">Created by Fabian Blanco Wuest (2024) &#169;
+    <footer id="footer" class="footer">
+        <div id="search-results-text" class="search-results-text"></div>
+        <div class="copyright">
+            <p>
+                Created by Fabian Blanco Wuest (2024) &#169;
+            </p>
         </div>
     </footer>
     <!-- Scripts -->
