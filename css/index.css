@@ -5,6 +5,7 @@
 	font-family: "Simpsonfont", sans-serif;
 	/* font-family: "Akbar", sans-serif; */
 	--yellow-color: rgb(254, 212, 32);
+	--green-color: #198754;
 }
 
 body {
@@ -58,6 +59,10 @@ body {
 	letter-spacing: 0.1rem;
 	background-color: black;
 	color: aliceblue;
+}
+
+.navbar-nav a:hover {
+	color: var(--green-color) !important;
 }
 
 .logo-app img {
@@ -242,6 +247,14 @@ body {
 .btn-all-cards {
 	border-radius: 10px;
 	display: none;
+	align-items: center;
+	border: none;
+}
+
+.btn-all-cards:hover {
+	background-color: #198754;
+	transition: 0.5s all;
+	color: white;
 }
 
 @keyframes show {

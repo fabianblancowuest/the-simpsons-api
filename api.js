@@ -229,6 +229,7 @@ async function getData() {
 							"Ocupación | " + element.Ocupacion;
 					}
 				});
+				searchResultsText.removeChild(textCardsSearched);
 			}
 		});
 
@@ -238,6 +239,11 @@ async function getData() {
 			event.preventDefault();
 			let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
 			console.log(searched);
+
+			const allCardsContainer =
+				document.getElementsByClassName("card-container");
+
+			// console.log(allCards);
 
 			// Vaciar el div contenedor
 			list.innerHTML = "";
@@ -251,10 +257,10 @@ async function getData() {
 				if (cardTitle.includes(searched)) {
 					searchResultsText.appendChild(textCardsSearched);
 					list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
-					card.scrollIntoView({
-						behavior: "smooth",
-						block: "center",
-					});
+					// card.scrollIntoView({
+					// 	behavior: "smooth",
+					// 	block: "center",
+					// });
 					found = true;
 				}
 				// else {
@@ -268,8 +274,7 @@ async function getData() {
 				textCardsSearched.textContent = "No se encontraron coincidencias...";
 				searchResultsText.appendChild(textCardsSearched);
 			} else {
-				textCardsSearched.textContent =
-					"Mostrando todas las coincidencias encontradas...";
+				textCardsSearched.textContent = `Se encontraron ${allCardsContainer.length} coincidencias...`;
 			}
 
 			btnAllCards.classList.remove("section-hidden");
@@ -283,7 +288,8 @@ async function getData() {
 
 				btnAllCards.classList.add("section-hidden");
 
-				textCardsSearched.removeChild(textCardsSearched);
+				searchResultsText.removeChild(textCardsSearched);
+				inputSearch.value = "";
 			});
 		});
 	} catch (error) {
