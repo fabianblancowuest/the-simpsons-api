@@ -27,49 +27,6 @@ body {
 	}
 }
 
-/* NavBar */
-
-.navbar {
-	background-color: rgb(150, 212, 253) !important;
-	font-family: "Simpsonfont", sans-serif;
-	display: flex;
-}
-
-.navbar-expand-lg {
-	/* margin-left: auto; */
-}
-.nav-item a {
-	letter-spacing: 0.1rem;
-}
-
-.nav-links {
-	margin-left: auto !important;
-}
-
-.nav-link {
-	width: 135px;
-	text-align: center;
-}
-
-.nav a button {
-	font-size: 1rem;
-	font-family: "Simpsonfont", sans-serif;
-	letter-spacing: 0.1rem;
-	font-weight: bold;
-	letter-spacing: 0.1rem;
-	background-color: black;
-	color: aliceblue;
-}
-
-.navbar-nav a:hover {
-	color: var(--green-color) !important;
-}
-
-.logo-app img {
-	max-width: 90px;
-	margin-left: 2rem;
-}
-
 .cards-container {
 	animation: show 2s;
 	background-image: url(/assets/img/background-bart.png);
@@ -85,6 +42,7 @@ body {
 
 /* Hero  */
 .container-mine {
+	max-width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
@@ -129,6 +87,7 @@ body {
 	justify-content: center;
 	font-size: 1rem;
 	height: 23rem;
+	max-width: 100%;
 	width: 13rem;
 	border-radius: 1rem;
 	box-shadow: 0.1rem 0.1rem 0.5rem black;
@@ -161,7 +120,7 @@ body {
 		margin: 0;
 		width: 14rem;
 		height: 23rem;
-		transform: scale(1.2);
+		/* transform: scale(1.2); */
 		margin: 2em;
 	}
 
@@ -186,16 +145,6 @@ body {
 		min-height: fit-content;
 		height: fit-content;
 		gap: 1rem;
-	}
-}
-
-@media (max-width: 1000px) {
-	.buttons {
-		justify-content: center;
-		align-items: center;
-	}
-	.buttons li {
-		text-align: center;
 	}
 }
 
@@ -232,29 +181,12 @@ body {
 	text-align: center;
 }
 
-.form-search {
-	display: flex;
-}
-
 .copyright {
 	/* background-color: rgba(150, 212, 253, 0.5); */
 	text-align: center;
 	font-weight: bold;
 	padding: 1em;
 	width: 100%;
-}
-
-.btn-all-cards {
-	border-radius: 10px;
-	display: none;
-	align-items: center;
-	border: none;
-}
-
-.btn-all-cards:hover {
-	background-color: #198754;
-	transition: 0.5s all;
-	color: white;
 }
 
 @keyframes show {

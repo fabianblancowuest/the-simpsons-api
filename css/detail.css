@@ -92,13 +92,17 @@ body {
 
 .btn-detail {
 	display: none;
-	font-size: 1.3rem;
 	font-weight: bold;
 	/* padding: 0.2em 0; */
-	width: 60px;
+	width: 50px;
 	margin-left: auto;
 	animation: show 2s ease-in-out;
 	background-color: rgb(150, 212, 253);
+}
+
+.btn-detail i {
+	font-weight: bold;
+	font-size: 1.5rem;
 }
 
 .btn-detail-show {

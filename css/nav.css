@@ -1,0 +1,67 @@
+/* NavBar */
+
+.navbar {
+	background-color: rgb(150, 212, 253) !important;
+	font-family: "Simpsonfont", sans-serif;
+	display: flex;
+	width: 100%;
+}
+
+.nav-item a {
+	letter-spacing: 0.1rem;
+}
+
+.nav-links {
+	margin-left: auto !important;
+}
+
+.nav-link {
+	width: 135px;
+	text-align: center;
+}
+
+.nav a button {
+	font-size: 1rem;
+	font-family: "Simpsonfont", sans-serif;
+	letter-spacing: 0.1rem;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	background-color: black;
+	color: aliceblue;
+}
+
+.navbar-nav a:hover {
+	color: var(--green-color) !important;
+}
+
+.logo-app img {
+	max-width: 90px;
+	margin-left: 2rem;
+}
+
+.btn-all-cards {
+	border-radius: 10px;
+	display: none;
+	align-items: center;
+	border: none;
+}
+
+.btn-all-cards:hover {
+	background-color: #198754;
+	transition: 0.5s all;
+	color: white;
+}
+
+.form-search {
+	display: flex;
+}
+
+@media (max-width: 1000px) {
+	.buttons {
+		justify-content: center;
+		align-items: center;
+	}
+	.buttons li {
+		text-align: center;
+	}
+}
