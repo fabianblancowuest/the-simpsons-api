@@ -274,7 +274,7 @@ async function getData() {
 				textCardsSearched.textContent = "No se encontraron coincidencias...";
 				searchResultsText.appendChild(textCardsSearched);
 			} else {
-				textCardsSearched.textContent = `Mostrando todas las coincidencias(${allCardsContainer.length}) encontradas...`;
+				textCardsSearched.textContent = `Mostrando todas las coincidencias encontradas(${allCardsContainer.length})...`;
 			}
 
 			btnAllCards.classList.remove("section-hidden");
