@@ -26,6 +26,7 @@ const btnSearch = document.getElementById("btn-search");
 const footer = document.getElementById("footer");
 const containerNavLinks = document.getElementById("container-nav-links");
 const searchResultsText = document.getElementById("search-results-text");
+const filledDiv = document.getElementById("filled");
 
 for (let i = 0; i < allCardsState.length; i++) {
 	if (allCardsState[i].textContent.length > 20) {
@@ -50,6 +51,8 @@ btnCloseDetail.addEventListener("click", () => {
 	btnCloseDetail.classList.remove("btn-detail-show");
 	formSearch.classList.remove("section-hidden");
 	formSearch.classList.add("form-control-show");
+	filledDiv.classList.remove("section-show");
+	filledDiv.classList.add("section-hidden");
 });
 
 let imagesError = [];
@@ -183,6 +186,8 @@ async function getData() {
 				btnCloseDetail.classList.add("btn-detail-show");
 				formSearch.classList.remove("form-control-show");
 				formSearch.classList.add("section-hidden");
+				filledDiv.classList.remove("section-hidden");
+				filledDiv.classList.add("section-show");
 
 				data.docs.forEach((element) => {
 					if (element._id === eventId) {
@@ -232,8 +237,6 @@ async function getData() {
 				searchResultsText.removeChild(textCardsSearched);
 			}
 		});
-
-		console.log(allCards);
 
 		btnSearch.addEventListener("click", (event) => {
 			event.preventDefault();
@@ -299,5 +302,3 @@ async function getData() {
 
 // Execution function
 getData();
-
-export { getData, characterId };

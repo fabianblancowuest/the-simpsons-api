@@ -187,6 +187,7 @@ body {
 	font-weight: bold;
 	padding: 1em;
 	width: 100%;
+	max-width: 100%;
 }
 
 @keyframes show {
