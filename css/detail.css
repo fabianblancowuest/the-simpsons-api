@@ -54,7 +54,9 @@ body {
 .character-description {
 	max-width: 900px;
 	font-size: 1.5rem;
-	text-align: center;
+	text-align: justify;
+	padding: 1em;
+	margin: 0;
 }
 
 .character-image {
@@ -68,9 +70,6 @@ body {
 }
 
 @media (max-width: 768px) {
-	.character-title {
-	}
-
 	.character-description {
 		max-width: 100%;
 	}
@@ -93,7 +92,6 @@ body {
 .btn-detail {
 	display: none;
 	font-weight: bold;
-	/* padding: 0.2em 0; */
 	width: 50px;
 	margin-left: auto;
 	animation: show 2s ease-in-out;
@@ -118,12 +116,7 @@ body {
 }
 
 @media (max-width: 768px) {
-	/* .character {
-		margin-bottom: 2.5em;
-	} */
-
 	.btn-detail-container {
-		/* max-width: 768px; */
 		width: 100%;
 		padding: 0.5em;
 	}
@@ -133,6 +126,11 @@ body {
 		max-height: 23rem;
 		height: auto;
 		width: auto;
+	}
+
+	.character-description {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
 	}
 }
 

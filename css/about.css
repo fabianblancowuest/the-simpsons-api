@@ -11,11 +11,9 @@ body {
 	background-color: rgba(0, 0, 0, 1) !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
+.about-title,
+.about-subtitle,
+.about-text {
 	text-align: center;
 	color: white;
 	margin-top: 2rem;
