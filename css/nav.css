@@ -1,95 +1,112 @@
 /* NavBar */
 
 .navbar {
-	background-color: rgb(150, 212, 253) !important;
-	font-family: "Simpsonfont", sans-serif;
-	display: flex;
-	width: 100%;
+    background-color: rgb(150, 212, 253) !important;
+    font-family: "Simpsonfont", sans-serif;
+    display: flex;
+    width: 100%;
 }
 
 .nav-item a {
-	letter-spacing: 0.1rem;
+    letter-spacing: 0.1rem;
 }
 
 .nav-links {
-	margin-left: auto !important;
+    margin-left: auto !important;
 }
 
 .nav-link {
-	width: 135px;
-	text-align: center;
+    width: 135px;
+    text-align: center;
 }
 
 .active-link {
-	color: var(--green-color) !important;
+    color: var(--green-color) !important;
 }
 
 .nav a button {
-	font-size: 1rem;
-	font-family: "Simpsonfont", sans-serif;
-	letter-spacing: 0.1rem;
-	font-weight: bold;
-	letter-spacing: 0.1rem;
-	background-color: black;
-	color: aliceblue;
+    font-size: 1rem;
+    font-family: "Simpsonfont", sans-serif;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    background-color: black;
+    color: aliceblue;
 }
 
 .navbar-nav a:hover {
-	color: rgba(0, 0, 0, 0.7) !important;
+    color: rgba(0, 0, 0, 0.7) !important;
 }
 
 .logo-app {
-	width: 316px;
+    width: 316px;
 }
 
 @media (max-width: 768px) {
-	.logo-app {
-		width: auto;
-	}
+    .logo-app {
+        width: auto;
+    }
 }
 
 .logo-app img {
-	max-width: 90px;
-	margin-left: 2rem;
+    max-width: 90px;
+    margin-left: 2rem;
 }
 
 .btn-all-cards {
-	border-radius: 10px;
-	display: none;
-	align-items: center;
-	border: none;
+    border-radius: 10px;
+    display: none;
+    align-items: center;
+    border: none;
 }
 
 .btn-all-cards:hover {
-	background-color: #198754;
-	transition: 0.5s all;
-	color: white;
+    background-color: #198754;
+    transition: 0.5s all;
+    color: white;
 }
 
 .form-search {
-	display: flex;
+    display: flex;
 }
 
 .filled {
-	width: 316px;
+    width: 316px;
 }
 
 .filled-hidden {
-	display: none;
+    display: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 4rem;
+    margin-left: auto;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+    .buttons {
+        margin-left: auto;
+        min-height: fit-content;
+        height: fit-content;
+        gap: 1rem;
+    }
 }
 
 @media (max-width: 1000px) {
-	.navbar-nav-scroll {
-		height: 100%;
-		max-height: fit-content;
-		text-align: center;
-	}
+    .buttons {
+        justify-content: center;
+        align-items: center;
+        max-height: fit-content;
+    }
+    .buttons li {
+        text-align: center;
+    }
 
-	.buttons {
-		justify-content: center;
-		align-items: center;
-	}
-	.buttons li {
-		text-align: center;
-	}
+    .filled {
+        display: none;
+    }
 }
