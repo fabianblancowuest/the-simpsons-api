@@ -21,7 +21,7 @@
 }
 
 .active-link {
-    color: var(--green-color) !important;
+    color: rgb(13, 110, 253) !important;
 }
 
 .nav a button {
@@ -89,18 +89,18 @@
 
 @media (max-width: 1200px) {
     .buttons {
-        margin-left: auto;
-        min-height: fit-content;
-        height: fit-content;
         gap: 1rem;
     }
 }
 
 @media (max-width: 1000px) {
     .buttons {
-        justify-content: center;
-        align-items: center;
         max-height: fit-content;
+        height: 180px;
+        /* justify-content: center; */
+        align-items: center;
+        /* max-height: fit-content; */
+        overflow-y: visible;
     }
     .buttons li {
         text-align: center;

@@ -199,11 +199,6 @@ async function getData() {
                         detailElementTitle.textContent =
                             "Nombre | " + element.Nombre;
                         detailElementStory.textContent = element.Historia;
-                        detailElementImage.src = element.Imagen;
-                        // // elementos con imágenes faltantes
-                        // for (let i = 0; i < imagesError.length; i++) {
-                        // 	if(imagesError[i].Nombre)
-                        // }
 
                         switch (element._id) {
                             case "63e337e7edf49032166d9652":
@@ -232,6 +227,7 @@ async function getData() {
                                     "./assets/img/imagenes-faltantes/Mr_Lacost_Tapped_Out.webp";
                         }
 
+                        detailElementImage.src = element.Imagen;
                         detailElementGenre.textContent =
                             "Género | " + element.Genero;
                         detailElementState.textContent =
