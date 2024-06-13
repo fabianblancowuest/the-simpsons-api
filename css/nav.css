@@ -111,6 +111,11 @@
     }
 
     .btn-all-cards {
-        display: none !important;
+        margin-bottom: 1em;
+        padding: 0.5em;
+    }
+
+    .buttons {
+        height: fit-content;
     }
 }
