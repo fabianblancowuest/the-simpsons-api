@@ -109,4 +109,8 @@
     .filled {
         display: none;
     }
+
+    .btn-all-cards {
+        display: none !important;
+    }
 }
