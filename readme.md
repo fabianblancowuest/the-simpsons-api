@@ -1,7 +1,7 @@
 <h1>The Simpsons App</h1>
 
 <p>Apliación 100% responsive con temática de Los Simpsons. La app consume datos desde una api de Los Simpsons y los presenta en forma de cartas en el DOM. No se usaron frameworks ni librerías de JS.</p>
-<p>Desarrollada completamente con Vanilla JavaScript</p>
+<p>Desarrollada completamente con Vanilla JavaScript.</p>
 <p>Al hacer click en cada tarjeta se puede acceder al detalle de ese personaje.</p>
 
 <h2>Tecnologías utilizadas:</h2>
