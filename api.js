@@ -273,7 +273,6 @@ async function getData() {
                 // 	list.innerHTML = "";
                 // }
             }
-
             // Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
             if (!found) {
                 textCardsSearched.textContent =

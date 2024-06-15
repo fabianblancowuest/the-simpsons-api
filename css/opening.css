@@ -63,8 +63,12 @@
     margin-left: 5px;
 }
 
-/* @media screen and (max-width: 768px) {
-    .video {
-        object-fit: contain;
+@media screen and (max-width: 768px) {
+    .opening {
+        overflow-y: hidden;
     }
-} */
+
+    .video {
+        overflow-y: hidden;
+    }
+}

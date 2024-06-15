@@ -63,7 +63,7 @@ body {
     margin: 1em 0;
 }
 
-.card-container .card-title,
+.card-title,
 .card-state,
 .card-gender {
     font-family: "Simpsonfont", sans-serif;
@@ -108,6 +108,9 @@ body {
 
 .card-title {
     text-align: center;
+    word-wrap: break-word; /* Ensures the word breaks to fit within the container */
+    overflow-wrap: break-word; /* Alternative property to ensure word breaks */
+    hyphens: auto; /* Allows hyphenation of long words */
 }
 
 .card-container:hover {
@@ -171,11 +174,15 @@ body {
 }
 
 .text-searched {
+    display: block;
+    width: 100%;
     text-align: center;
 }
 
 .footer {
-    display: none;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 
 .copyright {

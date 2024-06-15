@@ -103,7 +103,17 @@ body {
         flex-wrap: wrap;
     }
     .about {
-        background-image: none;
+        background-image: url(/assets/img/mobile/homer-alone-sky.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .about-title,
+    .about-subtitle,
+    .about-text,
+    .ul {
+        text-shadow: 2px 2px 4px black;
     }
 }
 @media screen and (max-width: 600px) {

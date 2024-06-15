@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const title = document.getElementById("title");
     const nav = document.getElementById("nav");
     const footer = document.getElementById("footer");
+    const btnDetailContainer = document.getElementById("btn-detail-container");
 
     let videoPlayedOnce = false;
 
@@ -63,5 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
         footer.classList.add("section-show");
         nav.classList.remove("section-hidden");
         nav.classList.add("section-show");
+        btnDetailContainer.classList.remove("section-hidden");
+        btnDetailContainer.classList.add("section-show");
     }
 });
