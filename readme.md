@@ -2,7 +2,7 @@
 
 <p>Apliación 100% responsive con temática de Los Simpsons. La app consume datos desde una api de Los Simpsons y los presenta en forma de cartas en el DOM. No se usaron frameworks ni librerías de JS.</p>
 <p>Desarrollada completamente con Vanilla JavaScript.</p>
-<p>Al hacer click en cada tarjeta se puede acceder al detalle de ese personaje.</p>
+<p>La aplicación renderiza las cartas de los personajes de la serie, al hacer click en cada tarjeta se puede acceder al detalle de cada personaje, cuenta con una barra de búsqueda, donde se introduce el nombre del personaje a buscar que luego será presentado en la pantalla. Ademá la aplicación cuenta con la sección Historia donde se detalla una breve historia de la serie y Acerca de, donde me presento yo.</p>
 
 <h2>Tecnologías utilizadas:</h2>
 
