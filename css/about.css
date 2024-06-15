@@ -20,14 +20,16 @@ body {
 }
 
 .about {
-    background-image: url(/assets/img/HD-wallpaper-the-simpsons-homer.jpg);
+    background-image: url(/assets/img/night-stars-space-copy.png);
     display: flex;
     flex-direction: row;
-    background-size: 30%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: top;
     animation: aparecer 10s ease-in-out;
     height: 100vh;
+    width: 100%;
+    overflow-y: hidden;
 }
 
 .container {
@@ -77,6 +79,13 @@ body {
     box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
 }
 
+.about-title,
+.about-subtitle,
+.about-text,
+.ul {
+    text-shadow: 2px 2px 4px black;
+}
+
 @keyframes aparecer {
     0% {
         opacity: 0;
@@ -107,13 +116,6 @@ body {
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-    }
-
-    .about-title,
-    .about-subtitle,
-    .about-text,
-    .ul {
-        text-shadow: 2px 2px 4px black;
     }
 }
 @media screen and (max-width: 600px) {
