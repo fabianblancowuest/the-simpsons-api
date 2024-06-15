@@ -38,6 +38,17 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    display: none;
+}
+
+.title {
+    display: none;
+    text-align: center;
+}
+
+.title img {
+    display: block;
+    margin: 0 auto;
 }
 
 /* Hero  */
@@ -161,6 +172,10 @@ body {
 
 .text-searched {
     text-align: center;
+}
+
+.footer {
+    display: none;
 }
 
 .copyright {

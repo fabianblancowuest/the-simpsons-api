@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/detail.css">
+    <link rel="stylesheet" href="css/opening.css">
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.cdnfonts.com">
     <link href="https://fonts.cdnfonts.com/css/simpsonfont" rel="stylesheet">
@@ -32,7 +33,7 @@
     <header>
 
         <!-- Nav -->
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav id="nav" class="navbar navbar-expand-lg bg-body-tertiary section-hidden">
             <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
                     aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,11 +68,21 @@
                 </div>
             </div>
         </nav>
-        <h1 id="title"><img src="/assets/img/logo.svg" alt=""></h1>
+        <h1 id="title" class="title"><img src="/assets/img/logo.svg" alt="title-los-simpsons"></h1>
     </header>
 
     <!-- Principal Content -->
     <main>
+
+        <section id="opening" class="opening">
+            <div id="video-container" class="video-container">
+                <video id="video" class="video" src="/assets/video/opening.mp4" alt="video-opening"></video>
+            </div>
+            <button id="btn-start" class="btn-start">
+                Start <img class="btn-image" src="/assets/img/icons/play-button.png" alt="play-button">
+            </button>
+            <button id="skip-button" class="skip-button">Skip intro</button>
+        </section>
 
         <!-- Home Section -->
         <section id="section-characters" class="cards-container">
