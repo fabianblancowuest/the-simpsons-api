@@ -38,7 +38,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    display: none;
+    /* display: none; */
 }
 
 .title {
