@@ -1,70 +1,74 @@
 /* Story */
 
+body {
+    font-family: "Quicksand", sans-serif;
+}
+
 .story {
-	display: flex;
-	margin: 1em auto;
-	padding: 1em 1.5em;
-	max-width: 100%;
-	align-items: center;
-	justify-content: center;
-	background-color: var(--yellow-color);
-	font-family: "Quicksand", sans-serif;
-	animation: show 2s ease-in-out;
+    display: flex;
+    margin: 1em auto;
+    padding: 1em 1.5em;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--yellow-color);
+    font-family: "Quicksand", sans-serif;
+    animation: show 2s ease-in-out;
 }
 
 .story-title {
-	font-size: 2.3rem;
-	margin-bottom: 1em;
-	text-align: center;
+    font-size: 2.3rem;
+    margin-bottom: 1em;
+    text-align: center;
 }
 
 .story-image {
-	width: 500px;
-	margin: 2em 0;
-	border-radius: 5px;
+    width: 500px;
+    margin: 2em 0;
+    border-radius: 5px;
 }
-.story p {
-	font-size: 1.2rem;
-	text-align: justify;
+.story-item {
+    font-size: 1.2rem;
+    text-align: justify;
 }
 
 .story-texts {
-	padding-left: 5em;
-	padding-right: 5em;
-	max-width: 1200px;
+    padding-left: 5em;
+    padding-right: 5em;
+    max-width: 1200px;
 }
 
 .story-image-container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	/* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
 }
 
 @media (max-width: 768px) {
-	.story {
-		flex-direction: column;
-	}
+    .story {
+        flex-direction: column;
+    }
 
-	.story-texts {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
+    .story-texts {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
 
-	.story-image-container {
-		display: flex;
-		flex-direction: column;
-		padding-left: 0.5em;
-		padding-right: 0.5em;
-	}
+    .story-image-container {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
 
-	.story-image {
-		width: 100%;
-		margin: 2em 0;
-		border-radius: 5px;
-	}
+    .story-image {
+        width: 100%;
+        margin: 2em 0;
+        border-radius: 5px;
+    }
 
-	/* .story-item,
+    /* .story-item,
 	.story-image {
 		order: 0;
 	}
