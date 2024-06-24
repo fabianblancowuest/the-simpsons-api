@@ -23,6 +23,8 @@ body {
     background-image: url(/assets/img/night-stars-space-copy.png);
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
