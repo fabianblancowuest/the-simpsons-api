@@ -1,6 +1,7 @@
 // Cambiar el color los enlaces de la nav y también deshabilitarlos
 
 document.addEventListener("DOMContentLoaded", function () {
+    // Para rotar la imagen del nav
     const navLogo = document.getElementById("nav-logo");
 
     setInterval(() => {
