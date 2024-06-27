@@ -62,6 +62,10 @@ let imagesError = [];
 
 async function getData() {
     try {
+        // Muestra el spinner
+        spinner.classList.remove("spinner-hidden");
+        spinner.classList.add("spinner-show");
+
         // Here consume data from the api
         const response = await fetch(url);
         data = await response.json();
@@ -298,6 +302,10 @@ async function getData() {
         });
     } catch (error) {
         alert({ error: error.message });
+    } finally {
+        // Oculta el spinner
+        spinner.classList.remove("spinner-show");
+        spinner.classList.add("spinner-hidden");
     }
 }
 
