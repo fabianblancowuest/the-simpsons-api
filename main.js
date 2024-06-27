@@ -1,4 +1,4 @@
-// Cambiar el color los enlaces de la nav
+// Cambiar el color los enlaces de la nav y también deshabilitarlos
 
 document.addEventListener("DOMContentLoaded", function () {
     const links = document.getElementsByClassName("nav-link");
