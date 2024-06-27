@@ -24,6 +24,11 @@
     color: rgb(13, 110, 253) !important;
 }
 
+.disabled-link {
+    pointer-events: none;
+    color: gray;
+}
+
 .nav a button {
     font-size: 1rem;
     font-family: "Simpsonfont", sans-serif;

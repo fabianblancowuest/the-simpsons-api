@@ -3,11 +3,25 @@ document.addEventListener("DOMContentLoaded", function () {
     // To detect the active link
     const currentPageUrl = window.location.href;
 
+    // Obtener la URL actual
+    const currentURL = window.location.pathname;
+
     for (let i = 0; i < links.length; i++) {
         const linkUrl = links[i].href;
 
         if (currentPageUrl === linkUrl) {
             links[i].classList.add("active-link");
+            links[i].style.cursor = "not-allowed";
+            links[i].disabled = true;
+        }
+
+        const tempAnchor = document.createElement("a");
+        tempAnchor.href = links[i].href;
+
+        if (tempAnchor.pathname === currentURL) {
+            // Si la ruta coincide, deshabilitar el enlace
+            links[i].classList.add("disabled-link");
+            links[i].removeAttribute("href");
         }
 
         console.log(links[i]);
