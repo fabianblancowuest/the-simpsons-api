@@ -21,6 +21,8 @@
     <link href="https://fonts.cdnfonts.com/css/simpsonfont" rel="stylesheet" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="./assets/img/icons8-bart-simpson.svg" type="image/x-icon" />
+    <!-- Preload image -->
+    <link rel="preload" href="/assets/img/night-stars-space.png" as="image">
     <title>The Simpsons App - Acerca de </title>
 </head>
 
@@ -59,7 +61,7 @@
     </header>
 
     <!-- Pincipal Content -->
-    <section class="about">
+    <section id="about" class="about">
         <div class="container">
             <div class="info">
                 <div class="perfil-image">
@@ -106,6 +108,13 @@
             fragment.append(li);
         });
         ul.append(fragment);
+
+        // Precarga de imagen con js
+        const img = new Image()
+        img.src = "/assets/img/night-stars-space.png"
+        img.onload = () => {
+            document.getElementById("about").style.backgroundImage = `url(${img.src})`
+        }
     </script>
 
     <script src="js/main.js" defer></script>
