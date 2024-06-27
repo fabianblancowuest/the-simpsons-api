@@ -135,6 +135,7 @@ async function getData() {
                 link.id = element._id;
                 link.className = "card-link-container";
                 fragment.append(link);
+
                 resolve();
             });
         });

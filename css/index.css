@@ -29,6 +29,27 @@ body {
     color: #000;
 }
 
+/* Progress bar */
+#progress-container {
+    width: 100%;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    margin: 20px 0;
+    height: 20px;
+    overflow: hidden;
+    display: none;
+}
+
+#progress-bar {
+    height: 100%;
+    width: 0;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
 #title {
     text-align: center;
 }
