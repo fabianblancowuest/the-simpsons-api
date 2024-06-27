@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 
+// Video Intro
 // document.addEventListener("DOMContentLoaded", function () {
 //     const opening = document.getElementById("opening");
 //     const btnStart = document.getElementById("btn-start");
