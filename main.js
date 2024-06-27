@@ -5,8 +5,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const navLogo = document.getElementById("nav-logo");
 
     setInterval(() => {
-        navLogo.classList.toggle("rotate");
-    }, 3000);
+        navLogo.classList.add("rotateY");
+        setTimeout(() => {
+            navLogo.classList.remove("rotateY");
+        }, 6000); // Duración de la animación
+    }, 7000); // Intervalo para reiniciar la animación
 
     const links = document.getElementsByClassName("nav-link");
     // To detect the active link
