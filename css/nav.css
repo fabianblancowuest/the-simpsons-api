@@ -65,13 +65,14 @@
     50% {
         transform: rotateY(360deg);
     }
+
     100% {
         transform: rotateY(0deg);
     }
 }
 
 .rotateY {
-    animation: rotateY 6s ease-in-out infinite;
+    animation: rotateY 9s ease-in-out infinite;
 }
 
 .btn-all-cards {
