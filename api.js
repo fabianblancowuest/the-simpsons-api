@@ -66,6 +66,21 @@ async function getData() {
         spinner.classList.remove("spinner-hidden");
         spinner.classList.add("spinner-show");
 
+        // Verificar si ya hay datos almacenados en localStorage
+        let storedData = localStorage.getItem("storedCharacters");
+
+        if (storedData) {
+            // Si hay datos almacenados, usar esos datos en lugar de hacer otra solicitud
+            data = JSON.parse(storedData);
+        } else {
+            // Si no hay datos almacenados, hacer la solicitud a la API
+            const response = await fetch(url);
+            data = await response.json();
+
+            // Guardar los datos en localStorage para futuras visitas
+            localStorage.setItem("storedCharacters", JSON.stringify(data));
+        }
+
         // Here consume data from the api
         const response = await fetch(url);
         data = await response.json();
