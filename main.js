@@ -1,6 +1,12 @@
 // Cambiar el color los enlaces de la nav y también deshabilitarlos
 
 document.addEventListener("DOMContentLoaded", function () {
+    const navLogo = document.getElementById("nav-logo");
+
+    setInterval(() => {
+        navLogo.classList.toggle("rotate");
+    }, 3000);
+
     const links = document.getElementsByClassName("nav-link");
     // To detect the active link
     const currentPageUrl = window.location.href;

@@ -58,6 +58,19 @@
     margin-left: 2rem;
 }
 
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rotate {
+    animation: rotate 3s linear infinite;
+}
+
 .btn-all-cards {
     border-radius: 10px;
     display: none;
