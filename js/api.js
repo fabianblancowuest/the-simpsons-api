@@ -314,6 +314,7 @@ async function getData() {
 
                 searchResultsText.removeChild(textCardsSearched);
                 inputSearch.value = "";
+                inputSearch = "";
             });
         });
     } catch (error) {
