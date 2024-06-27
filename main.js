@@ -1,3 +1,5 @@
+// Cambiar el color los enlaces de la nav
+
 document.addEventListener("DOMContentLoaded", function () {
     const links = document.getElementsByClassName("nav-link");
     // To detect the active link
