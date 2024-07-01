@@ -27,6 +27,14 @@ body {
     margin: 2em 0;
     border-radius: 5px;
 }
+
+.topic {
+    margin: 2em 0;
+}
+
+.topic-title {
+    margin-bottom: 1em;
+}
 .story-item {
     font-size: 1.2rem;
     text-align: justify;
@@ -51,15 +59,15 @@ body {
     }
 
     .story-texts {
-        padding-left: 1em;
-        padding-right: 1em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
     }
 
     .story-image-container {
         display: flex;
         flex-direction: column;
-        padding-left: 0.5em;
-        padding-right: 0.5em;
+        /* padding-left: 0.5em; */
+        /* padding-right: 0.5em; */
     }
 
     .story-image {
