@@ -17,10 +17,11 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     padding: 0 1em;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
 }
 
 .nav-story ul {
+    margin-top: 90px;
     display: flex;
     flex-direction: column;
     padding-left: 0;
@@ -49,6 +50,13 @@ body {
 
 .nav-story a:hover {
     transform: scale(1.05);
+}
+
+.nav-story-img {
+    max-width: 100%;
+    height: 300px;
+    margin-top: auto;
+    /* margin-bottom: 200px; */
 }
 
 .story {
