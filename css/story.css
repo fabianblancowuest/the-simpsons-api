@@ -9,11 +9,26 @@ body {
     background-repeat: no-repeat; */
 }
 
+.nav-story {
+    position: fixed;
+}
+
+.nav-story ul {
+    display: flex;
+    flex-direction: column;
+}
+
 .nav-story li {
+    list-style: none;
+}
+
+.nav-story a {
     display: flex;
     align-items: center;
     justify-content: center;
-    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
     background-color: #96d4fd;
     width: 150px;
     height: 40px;
@@ -21,10 +36,6 @@ body {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s all;
-}
-
-.nav-story a {
-    text-decoration: none;
 }
 
 .nav-story li:hover {
@@ -112,4 +123,8 @@ body {
 	.story-image:nth-of-type(2) {
 		order: 1;
 	} */
+
+    .nav-story ul {
+        flex-direction: row;
+    }
 }
