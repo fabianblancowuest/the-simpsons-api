@@ -32,13 +32,13 @@ body {
     background-color: #96d4fd;
     width: 150px;
     height: 40px;
-    margin: 15px 0;
+    margin: 10px 0;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s all;
 }
 
-.nav-story li:hover {
+.nav-story a:hover {
     transform: scale(1.05);
 }
 
@@ -124,7 +124,7 @@ body {
 		order: 1;
 	} */
 
-    .nav-story ul {
-        flex-direction: row;
+    .nav-story {
+        display: none;
     }
 }
