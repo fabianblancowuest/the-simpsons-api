@@ -9,6 +9,28 @@ body {
     background-repeat: no-repeat; */
 }
 
+.nav-story li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    background-color: #96d4fd;
+    width: 150px;
+    height: 40px;
+    margin: 15px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s all;
+}
+
+.nav-story a {
+    text-decoration: none;
+}
+
+.nav-story li:hover {
+    transform: scale(1.05);
+}
+
 .story {
     background-color: var(--yellow-color);
     display: flex;
