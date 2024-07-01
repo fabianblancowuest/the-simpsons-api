@@ -52,16 +52,8 @@ body {
     justify-content: center;
 }
 
-.character-description {
-    max-width: 900px;
-    font-size: 1.5rem;
-    text-align: justify;
-    padding: 1em;
-    margin: 0;
-}
-
 .character-image {
-    max-height: 300px;
+    max-height: 400px;
     /* display: block; */
     /* max-width: 150px; */
 }
@@ -70,14 +62,26 @@ body {
     text-transform: capitalize;
 }
 
+.character-description {
+    font-size: 20px;
+}
+
 .character-title,
 .character-description,
 .character-employment,
 .character-genre {
-    max-width: 90%;
+    max-width: 95%;
     word-wrap: break-word; /* Ensures the word breaks to fit within the container */
     overflow-wrap: break-word; /* Alternative property to ensure word breaks */
     hyphens: auto; /* Allows hyphenation of long words */
+}
+
+.character-description {
+    max-width: 1000px;
+    font-size: 1.5rem;
+    text-align: justify;
+    padding: 1em;
+    margin: 0;
 }
 
 @media (max-width: 768px) {
