@@ -80,7 +80,7 @@ body {
 
 @media (max-width: 768px) {
     .character-description {
-        max-width: 90%;
+        max-width: 100%;
     }
 }
 
