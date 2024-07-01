@@ -135,6 +135,18 @@ body {
         background-repeat: no-repeat;
         background-position: center;
     }
+
+    .about-title,
+    .about-subtitle,
+    .about-text,
+    .ul {
+        text-shadow: 2px 2px 4px black;
+        color: white;
+    }
+
+    .social-media i {
+        color: rgb(255, 215, 29);
+    }
 }
 @media screen and (max-width: 600px) {
     .about {
