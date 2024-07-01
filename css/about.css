@@ -9,18 +9,24 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 1) !important;
+    background-image: url(/assets//img/background-the-simpsons-copy.jpg);
+    background-position: center;
+    background-size: cover;
+    background-position: 100% -25%;
+    background-repeat: no-repeat;
 }
 
 .about-title,
 .about-subtitle,
 .about-text {
     text-align: center;
-    color: white;
+    /* color: white; */
     margin-top: 2rem;
 }
 
 .about {
-    background-image: url(/assets/img/night-stars-space.png);
+    /* background-image: url(/assets/img/night-stars-space.png); */
+
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -69,7 +75,8 @@ body {
     font-size: 3rem;
 }
 .social-media i {
-    color: rgb(255, 215, 29);
+    /* color: rgb(255, 215, 29); */
+    color: black;
     transition: all 2s ease-in-out;
 }
 
@@ -84,7 +91,7 @@ body {
     justify-content: space-between;
     gap: 2rem;
     list-style: none;
-    color: white;
+    /* color: white; */
 }
 .img:hover {
     box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
@@ -94,7 +101,7 @@ body {
 .about-subtitle,
 .about-text,
 .ul {
-    text-shadow: 2px 2px 4px black;
+    /* text-shadow: 2px 2px 4px black; */
 }
 
 @keyframes aparecer {
