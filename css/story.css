@@ -12,6 +12,12 @@ body {
 .nav-story {
     position: fixed;
     left: 0;
+    top: 0;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 0 1em;
+    display: flex;
+    align-items: center;
 }
 
 .nav-story ul {
@@ -37,8 +43,6 @@ body {
     width: 150px;
     height: 40px;
     border-radius: 5px;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
     cursor: pointer;
     transition: 0.3s all;
 }

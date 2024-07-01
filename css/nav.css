@@ -5,6 +5,7 @@
     font-family: "Simpsonfont", sans-serif;
     display: flex;
     width: 100%;
+    z-index: 1;
 }
 
 .nav-item a {
