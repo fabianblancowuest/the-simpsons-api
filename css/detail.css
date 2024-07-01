@@ -63,6 +63,7 @@ body {
 .character-image {
     max-height: 300px;
     /* display: block; */
+    /* max-width: 150px; */
 }
 
 .character-title {

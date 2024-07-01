@@ -70,10 +70,11 @@ body {
 }
 .social-media i {
     color: rgb(255, 215, 29);
+    transition: all 2s ease-in-out;
 }
 
 .social-media:hover {
-    transform: scale(1.3);
+    transform: scale(1.1);
     opacity: 1;
 }
 
