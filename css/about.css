@@ -20,13 +20,11 @@ body {
 .about-subtitle,
 .about-text {
     text-align: center;
-    /* color: white; */
     margin-top: 2rem;
 }
 
 .about {
     /* background-image: url(/assets/img/night-stars-space.png); */
-
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -91,7 +89,6 @@ body {
     justify-content: space-between;
     gap: 2rem;
     list-style: none;
-    /* color: white; */
 }
 .img:hover {
     box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
@@ -102,6 +99,7 @@ body {
 .about-text,
 .ul {
     /* text-shadow: 2px 2px 4px black; */
+    /* color: white; */
 }
 
 @keyframes aparecer {
