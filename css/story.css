@@ -46,11 +46,13 @@ body {
     height: 40px;
     border-radius: 5px;
     cursor: pointer;
-    transition: 0.3s all;
+    transition: all 0.3s ease;
 }
 
 .nav-story a:hover {
     transform: scale(1.05);
+    background-color: #74c0f0;
+    color: white;
 }
 
 .nav-story-img {
