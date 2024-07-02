@@ -98,12 +98,6 @@ async function getData() {
                 const image = document.createElement("img");
                 item.innerText = element.Nombre;
 
-                if (element._id === "63ec28715d30fabfe4502bf3") {
-                    element.Estado = "Vivo";
-                    element.Ocupacion =
-                        "Empleado del DMV Anterior: Guardia de seguridad Anterior: Agente de la CIA";
-                }
-
                 switch (element._id) {
                     case "63ec25f45d30fabfe4502beb":
                         element.Nombre = "Homero Conductor de Monorriel";
@@ -111,11 +105,12 @@ async function getData() {
                         element.Ocupacion = "Conductor de Monorriel ";
                         element.Historia =
                             "Homero Simpson se convierte en conductor del monorriel en el episodio “Marge vs. the Monorail” de la cuarta temporada de Los Simpson. Después de ver un anuncio en la televisión, Homero se entusiasma con la idea de ser conductor del monorriel y decide tomar un curso intensivo de tres semanas para aprender a operar el sistema de transporte. Aunque Marge se siente preocupada por la seguridad del monorriel, Homero es nombrado conductor y comienza a trabajar en el sistema.";
-                        element.break;
-
-                    default:
-                        break;
+                    case "63ec28715d30fabfe4502bf3":
+                        element.Estado = "Vivo";
+                        element.Ocupacion =
+                            "Empleado del DMV Anterior: Guardia de seguridad Anterior: Agente de la CIA";
                 }
+
                 item3.innerText = element.Estado;
                 item3.className = "card-state";
                 item4.innerText = element.Genero;
