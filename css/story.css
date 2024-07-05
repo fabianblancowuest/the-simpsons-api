@@ -75,9 +75,10 @@ body {
 }
 
 .story-title {
-    font-size: 2.3rem;
+    font-size: 2.5rem;
     margin-bottom: 1em;
     text-align: center;
+    font-family: "Simpsonfont", sans-serif;
 }
 
 .story-image {
@@ -92,6 +93,8 @@ body {
 
 .topic-title {
     margin-bottom: 1em;
+    font-family: "Simpsonfont", sans-serif;
+    font-size: 2.2rem;
 }
 .story-item {
     font-size: 1.2rem;
