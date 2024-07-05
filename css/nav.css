@@ -1,7 +1,12 @@
 /* NavBar */
 
+:root {
+    --navbar-color: #034471;
+    --navbar-alt-color: rgb(150, 212, 253);
+}
+
 .navbar {
-    background-color: rgb(150, 212, 253) !important;
+    background-color: var(--navbar-alt-color) !important;
     font-family: "Simpsonfont", sans-serif;
     display: flex;
     width: 100%;
