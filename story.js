@@ -10,11 +10,25 @@ const sectionCharacters = [
     "La serie incluye además un nutrido grupo de personajes secundarios: compañeros de trabajo,profesores, otros familiares, amigos de la familia, gela ciudad y estrellas locales.SegúnMatt Groening, la serie tomó la idea de incluir un gran reparto de la telecomedia canadienseSecondCity Television.",
 ];
 
+const sectionScenery = [
+    "Los Simpson tiene lugar en la ficticia ciudad estadounidense de Springfield, sin coordenadas geográficas o localizaciones concretas que permitan conocer en qué estado de Estados Unidos se encuentra. A pesar de esto, los fans de la serie han tratado de identificar la localización de la ciudad prestando atención al paisaje, vecindario, marcas geográficas y otras pistas. Como respuesta, la serie se muestra intencionalmente evasiva a facilitar la localización. El nombre /Springfield/ es tan común en Estados Unidos que aparece en la mitad de los estados. La geografía de Springfield y alrededores contiene costas desiertos, zonas agrícolas extensas, altas montañas y cualquier elemento necesario para el desarrollo del argumento o de los chistes. De todas formas, Groening ha dicho que Springfield tiene mucho en común con Portland, Oregon, la ciudad donde creció.",
+    "La familia Simpson vive en el 742 de Evergreen Terrace (en Hispanoamérica: Avenida Siempreviva 742), Springfield, en honor a la calle donde vivía Matt Groening cuando era niño. Se dan varios números alternativos de la casa Simpson en varios episodios, entre ellos: 59 Lisa Goes to Washington/), 94 (/Blood Feud/ y /Bart, el amante/), 723 (/Homer the Vigilante/), 743 (/Beyond Blunderdome/) y 1094 (/New Kid on the Block/), además de /Spalding Way 430/ (/Kamp Krusty/). El hecho se usa repetidamente para evitar ubicar específicamente a Springfield so mapa de los Estados Unidos. Se ha sugerido que la dirección usada en /Kamp Krusty/ apunta al actor y comediante Spalding Gray.",
+];
+
+const sectionTopic = [
+    "Los Simpson usa la fórmula de la comedia de situación o sitcom. Se centra en las aventuras de una familia media estadounidense. Sin embargo, dado su carácter de animación, el ámbito es mayor que el de una comedia de situación común. La ciudad de Springfield actúa como un universo completo que permite a los personajes enfrentarse a los problemas de la sociedad moderna. El tener a Homer trabajando en una central nuclear permite comentar el estado del medio ambiente. Seguir los años de Bart y Lisa por la Escuela Primaria de Springfield permite a los guionistas de la serie ilustrar asuntos controvertidos sobre el tema de la educación. La ciudad posee, además, un amplio número emisoras de televisión que permite a los realizadores hacer chistes sobre sí mismos y el mundo del entretenimiento.",
+    "Algunos comentaristas han notado que la serie es política en su naturaleza y susceptible de un sesgo de izquierdas. Al Jean admitió en una entrevista que «Nosotros [la serie] somos de inclinación liberal». Los guionistas a menudo evidencian su inclinación por ideas progresistas, aunque hacen chistes con todo el espectro político. La serie, a menudo, presenta gobiernos y grandes empresas como entidades insensibles dispuestas a aprovecharse del trabajador medio. Por tanto, los guionistas frecuentemente presentan a las figuras de la autoridad con una luz oscura y desfavorable. En Los Simpson, los políticos son corruptos, los ministros eclesiásticos como Reverend Lovejoy se muestran indiferentes hacia los feligreses y los policías locales son unos incompetentes.",
+    "La religión es otro de los temas principales; en tiempos de crisis, la familia frecuentemente vuelve sus ojos a Dios, y la serie se ha ocupado de la mayoría de las religiones mayoritarias (como el cristianismo, judaísmo o hinduismo, entre otras).",
+];
+
 const topicStory = document.getElementById("topic-story");
 const topicStoryItems = topicStory.getElementsByClassName("story-item");
 const storyCharacters = document.querySelectorAll(
     "#story-characters .story-item"
 );
+
+const storyScenery = document.querySelectorAll("#scenery .story-item");
+const storyTopic = document.querySelectorAll("#topics .story-item");
 
 for (let i = 0; i < topicStoryItems.length; i++) {
     if (topicStoryItems[i].tagName === "IMG") {
@@ -29,6 +43,22 @@ for (let i = 0; i < sectionCharacters.length; i++) {
         console.log("nada");
     } else {
         storyCharacters[i].textContent = sectionCharacters[i];
+    }
+}
+
+for (let i = 0; i < sectionScenery.length; i++) {
+    if (storyScenery[i].tagName === "IMG") {
+        console.log("nada");
+    } else {
+        storyScenery[i].textContent = sectionScenery[i];
+    }
+}
+
+for (let i = 0; i < sectionTopic.length; i++) {
+    if (storyTopic[i].tagName === "IMG") {
+        console.log("nada");
+    } else {
+        storyTopic[i].textContent = sectionTopic[i];
     }
 }
 
