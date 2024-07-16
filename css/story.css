@@ -158,3 +158,26 @@ body {
         display: none;
     }
 }
+
+.nav-story-mobile {
+    position: fixed;
+    top: 70px;
+    right: 0;
+    margin-right: 20px;
+}
+
+@media (min-width: 900px) {
+    .nav-story-mobile {
+        display: none;
+    }
+}
+
+.nav-story-mobile i {
+    font-size: 30px;
+    /* display: none; */
+}
+
+.show-menu {
+    animation: all 2s alternate;
+    display: unset;
+}

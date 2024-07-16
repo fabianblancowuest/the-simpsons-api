@@ -34,3 +34,11 @@ Object.keys(sectionData).forEach((sectionId) => {
         }
     });
 });
+
+const btnStoryMobile = document.getElementById("nav-story-mobile");
+const navStoryMenu = document.getElementById("nav-story");
+
+btnStoryMobile.addEventListener("click", () => {
+    console.log("click");
+    navStoryMenu.classList.toggle("show-menu");
+});
