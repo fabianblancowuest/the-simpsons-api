@@ -26,5 +26,4 @@
 <h3>Historia</h3>
 <img src="assets/img/Captura de pantalla 2024-06-06 034804.png" alt="Captura de pantalla del proyecto">
 <h3>Búsqueda</h3>
-<img src="assets/img/Captura de pantalla 2024-06-06 034804.png" alt="Captura de pantalla del proyecto">
-<img src="assets//img/Captura de pantalla 2024-06-15 102824.png" alt="Captura de pantalla del proyecto>
+<img src="assets//img/Captura de pantalla 2024-06-15 102824.png" alt="Captura de pantalla del proyecto">
