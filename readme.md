@@ -19,11 +19,11 @@
 
 <h3>Inicio</h3>
 <img src="assets/img/Captura de pantalla 2024-04-30 042641.png" alt="Captura de pantalla del proyecto">
-<h3>Detalle</h3>
-<img src="assets/img/Captura de pantalla 2024-06-05 141223.png" alt="Captura de pantalla del proyecto">
-<h3>Acerca de</h3>
-<img src="assets/img/Captura de pantalla 2024-04-30 042906.png" alt="Captura de pantalla del proyecto">
-<h3>Historia</h3>
-<img src="assets/img/Captura de pantalla 2024-06-06 034804.png" alt="Captura de pantalla del proyecto">
 <h3>Búsqueda</h3>
 <img src="assets//img/Captura de pantalla 2024-06-15 102824.png" alt="Captura de pantalla del proyecto">
+<h3>Detalle</h3>
+<img src="assets/img/Captura de pantalla 2024-06-05 141223.png" alt="Captura de pantalla del proyecto">
+<h3>Historia</h3>
+<img src="assets/img/Captura de pantalla 2024-06-06 034804.png" alt="Captura de pantalla del proyecto">
+<h3>Acerca de</h3>
+<img src="assets/img/Captura de pantalla 2024-04-30 042906.png" alt="Captura de pantalla del proyecto">
