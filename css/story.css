@@ -115,6 +115,16 @@ body {
     /* align-items: center; */
 }
 
+.nav-story ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav-story-img {
+    position: absolute;
+    bottom: 10px;
+}
+
 @media (max-width: 768px) {
     .story {
         flex-direction: column;
