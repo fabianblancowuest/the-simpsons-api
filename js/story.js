@@ -20,25 +20,29 @@ const sectionData = {
     ],
 };
 
-Object.keys(sectionData).forEach((sectionId) => {
-    // Accedemos a los elementos de la sección en el DOM
-    const sectionItems = document.querySelectorAll(`#${sectionId} .story-item`);
-    const sectionContent = sectionData[sectionId];
+document.addEventListener("DOMContentLoaded", function () {
+    Object.keys(sectionData).forEach((sectionId) => {
+        // Accedemos a los elementos de la sección en el DOM
+        const sectionItems = document.querySelectorAll(
+            `#${sectionId} .story-item`
+        );
+        const sectionContent = sectionData[sectionId];
 
-    // Obtenemos el contenido correspondiente a la sección
-    sectionItems.forEach((item, index) => {
-        if (item.tagName !== "IMG") {
-            item.textContent = sectionContent[index];
-        } else {
-            console.log("nada");
-        }
+        // Obtenemos el contenido correspondiente a la sección
+        sectionItems.forEach((item, index) => {
+            if (item.tagName !== "IMG") {
+                item.textContent = sectionContent[index];
+            } else {
+                console.log("nada");
+            }
+        });
     });
-});
 
-const btnStoryMobile = document.getElementById("nav-story-mobile");
-const navStoryMenu = document.getElementById("nav-story");
+    const btnStoryMobile = document.getElementById("nav-story-mobile");
+    const navStoryMenu = document.getElementById("nav-story");
 
-btnStoryMobile.addEventListener("click", () => {
-    console.log("click");
-    navStoryMenu.classList.toggle("show-menu");
+    btnStoryMobile.addEventListener("click", () => {
+        console.log("click");
+        navStoryMenu.classList.toggle("show-menu");
+    });
 });
