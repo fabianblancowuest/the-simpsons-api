@@ -165,7 +165,8 @@ body {
     }
 
     .nav-story {
-        display: none;
+        left: -200px;
+        transition: left 0.5s ease;
     }
 }
 
@@ -192,6 +193,5 @@ body {
 }
 
 .show-menu {
-    animation: all 2s alternate;
-    display: unset;
+    left: 0;
 }
