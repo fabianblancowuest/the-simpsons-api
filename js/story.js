@@ -21,6 +21,26 @@ const sectionData = {
 };
 
 document.addEventListener("DOMContentLoaded", function () {
+    // Animación para que vayan apareciendo los elementos mediante el scroll
+    const elements = document.querySelectorAll(".appear");
+
+    const observer = new IntersectionObserver(
+        (entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add("in-view");
+                }
+            });
+        },
+        {
+            threshold: 0.1, // Ajusta este valor según sea necesario
+        }
+    );
+
+    elements.forEach((element) => {
+        observer.observe(element);
+    });
+
     Object.keys(sectionData).forEach((sectionId) => {
         // Accedemos a los elementos de la sección en el DOM
         const sectionItems = document.querySelectorAll(
