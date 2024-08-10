@@ -268,13 +268,37 @@ async function getData() {
             }
         });
 
+        // ALL CARDS
+        const allCardsContainer =
+            document.getElementsByClassName("card-container");
+
+        for (let i = 0; i < allCardsContainer.length; i++) {
+            allCardsContainer[i].classList.add("appear");
+        }
+
+        const elements = document.querySelectorAll(".appear");
+
+        const observer = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add("in-view");
+                    }
+                });
+            },
+            {
+                threshold: 0.1, // Ajusta este valor según sea necesario
+            }
+        );
+
+        elements.forEach((element) => {
+            observer.observe(element);
+        });
+
         btnSearch.addEventListener("click", (event) => {
             event.preventDefault();
             let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
             console.log(searched);
-
-            const allCardsContainer =
-                document.getElementsByClassName("card-container");
 
             // console.log(allCards);
 
