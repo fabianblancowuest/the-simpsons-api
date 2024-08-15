@@ -56,6 +56,12 @@ btnCloseDetail.addEventListener("click", () => {
     formSearch.classList.add("form-control-show");
     filledDiv.classList.remove("section-show");
     filledDiv.classList.add("section-hidden");
+
+    // Restaura la posición de desplazamiento
+    const scrollPosition = localStorage.getItem("scrollPosition");
+    if (scrollPosition) {
+        window.scrollTo(0, parseInt(scrollPosition, 10));
+    }
 });
 
 let imagesError = [];
@@ -210,6 +216,10 @@ async function getData() {
             }
 
             if (idElement) {
+                // Guarda la posición de desplazamiento actual
+                const scrollPosition = window.scrollY || window.pageYOffset;
+                localStorage.setItem("scrollPosition", scrollPosition);
+
                 detailElementCharacter.classList.remove("character-close");
                 detailElementCharacter.classList.add("section-show");
                 sectionCharacters.classList.remove("container-mine-show");
