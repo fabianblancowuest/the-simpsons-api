@@ -1628,7 +1628,8 @@
             "Historia": "Homero detesta el programa de ejercicios implantado en la central nuclear, por lo que decide subir de peso para poder reclamar la condición de discapacidad y trabajar desde casa. En consecuencia, pronto empieza a sufrir las desventajas de ser obeso y comienza a afectarle negativamente en su vida.",
             "Imagen": "./../assets/img/imagenes-faltantes/King-Size_Homer_Unlock.webp",
             "Genero": "Masculino",
-            "Estado": "Trabajador Home Office"
+            "Estado": "Vivo",
+            "Ocupacion": "Trabajador Home Office"
         },
         {
             "_id": "63ec2abee398c925c5626303",
