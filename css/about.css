@@ -1,6 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
 :root {
     /* font-family: "Simpsonfont", sans-serif; */
-    font-family: "Akbar", sans-serif;
     letter-spacing: 0.2rem;
     --background-color: rgb(254, 212, 32);
 }
@@ -14,6 +15,7 @@ body {
     background-size: cover;
     background-position: 100% -25%;
     background-repeat: no-repeat;
+    font-family: "Quicksand", sans-serif;
 }
 
 .about-title,
@@ -24,6 +26,7 @@ body {
 }
 
 .about {
+    font-family: "Akbar", sans-serif;
     /* background-image: url(/assets/img/night-stars-space.png); */
     display: flex;
     flex-direction: row;
@@ -94,12 +97,16 @@ body {
     box-shadow: 0.3rem 0.3rem 10rem rgb(84, 142, 163);
 }
 
-.about-title,
+/* .about-title,
 .about-subtitle,
 .about-text,
-.ul {
-    /* text-shadow: 2px 2px 4px black; */
-    /* color: white; */
+.ul { */
+/* text-shadow: 2px 2px 4px black; */
+/* color: white; */
+/* } */
+
+.copyright {
+    font-family: "Quicksand", sans-serif !important;
 }
 
 @keyframes aparecer {

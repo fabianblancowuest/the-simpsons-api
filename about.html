@@ -11,9 +11,10 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
     <!-- Styles -->
-    <link rel="stylesheet" href="css/about.css" />
-    <link rel="stylesheet" href="css/index.css" />
-    <link rel="stylesheet" href="css/nav.css" />
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="css/nav.css">
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
     <!-- Fonts -->
@@ -29,73 +30,88 @@
 </head>
 
 <body>
-    <!-- Header -->
-    <header>
-        <!-- Nav -->
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a href="/index.html">
-                    <div class="logo-app">
-                        <img id="nav-logo" src="assets/img/logo.svg" alt="The Simpsons Logo" />
-                    </div>
-                </a>
-                <div class="collapse navbar-collapse nav-links" id="navbarScroll">
-                    <ul class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
-                        style="--bs-scroll-height: 100px">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="story.html">Historia</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="./about.html">Acerca de</a>
-                        </li>
-                    </ul>
-                    <div class="filled"></div>
-                </div>
-            </div>
-        </nav>
-    </header>
+    <div class="__container">
 
-    <!-- Pincipal Content -->
-    <section id="about" class="about">
-        <div class="container">
-            <div class="info">
-                <div class="perfil-image">
-                    <a href="https://fabianblancowuest.netlify.app/" target="_blank" rel="noreferrer">
-                        <img class="img" src="./assets/img/perfil.png" alt="foto-perfil" />
+        <!-- Header -->
+        <header>
+            <!-- Nav -->
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <a href="/index.html">
+                        <div class="logo-app">
+                            <img id="nav-logo" src="assets/img/logo.svg" alt="The Simpsons Logo" />
+                        </div>
                     </a>
+                    <div class="collapse navbar-collapse nav-links" id="navbarScroll">
+                        <ul class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
+                            style="--bs-scroll-height: 100px">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="story.html">Historia</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="./about.html">Acerca de</a>
+                            </li>
+                        </ul>
+                        <div class="filled"></div>
+                    </div>
                 </div>
-                <h1 class="about-title">Fabián Blanco Wuest</h1>
-                <h3 class="about-subtitle">Full-Stack Developer</h3>
-                <h4 class="about-text">Formosa, Argentina</h4>
-                <h5 class="about-text">
-                    Passionate about learning new technologies and
-                    overcoming challenges
-                </h5>
-                <ul id="ul" class="ul"></ul>
-                <div class="social-media-container">
-                    <a class="social-media" href="https://www.linkedin.com/in/fabi%C3%A1n-blanco-wuest-04979b196/"
-                        target="_blank" rel="noreferrer">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a class="social-media" href="https://github.com/fabianblancowuest" target="_blank"
-                        rel="noreferrer">
-                        <i class="bi bi-github"></i>
-                    </a>
-                    <a class="social-media" href="https://fabianblancowuest.netlify.app/" target="_blank"
-                        rel="noreferrer">
-                        <i class="bi bi-collection-fill"></i>
-                    </a>
+            </nav>
+        </header>
+
+        <!-- Pincipal Content -->
+        <main id="about" class="about">
+            <div class="container">
+                <div class="info">
+                    <div class="perfil-image">
+                        <a href="https://fabianblancowuest.netlify.app/" target="_blank" rel="noreferrer">
+                            <img class="img" src="./assets/img/perfil.png" alt="foto-perfil" />
+                        </a>
+                    </div>
+                    <h1 class="about-title">Fabián Blanco Wuest</h1>
+                    <h3 class="about-subtitle">Full-Stack Developer</h3>
+                    <h4 class="about-text">Formosa, Argentina</h4>
+                    <h5 class="about-text">
+                        Passionate about learning new technologies and
+                        overcoming challenges
+                    </h5>
+                    <ul id="ul" class="ul"></ul>
+                    <div class="social-media-container">
+                        <a class="social-media" href="https://www.linkedin.com/in/fabi%C3%A1n-blanco-wuest-04979b196/"
+                            target="_blank" rel="noreferrer">
+                            <i class="bi bi-linkedin"></i>
+                        </a>
+                        <a class="social-media" href="https://github.com/fabianblancowuest" target="_blank"
+                            rel="noreferrer">
+                            <i class="bi bi-github"></i>
+                        </a>
+                        <a class="social-media" href="https://fabianblancowuest.netlify.app/" target="_blank"
+                            rel="noreferrer">
+                            <i class="bi bi-collection-fill"></i>
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </main>
+
+        <!-- Footer -->
+        <footer id="footer" class="footer">
+            <div id="search-results-text" class="search-results-text"></div>
+            <div class="copyright">
+                <span>
+                    Created by <strong class="copyright-strong">Fabian Blanco Wuest</strong> (2024) &#169;
+                </span>
+            </div>
+        </footer>
+    </div>
+
 
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
