@@ -41,54 +41,57 @@
 </head>
 
 <body>
-    <header>
+    <div class="__container">
 
-        <!-- Nav -->
-        <nav id="nav" class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <a href="/index.html">
-                    <div class="logo-app">
-                        <img id="nav-logo" src="assets/img/logo.svg" alt="The Simpsons Logo">
-                    </div>
-                </a>
-                <div class="collapse navbar-collapse nav-links" id="navbarScroll">
-                    <ul id="container-nav-links" class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
-                        style="--bs-scroll-height: 100px;">
-                        <li id="inicio" class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="story.html">Historia</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="./about.html">Acerca de</a>
-                        </li>
-                    </ul>
-                    <form id="form-search" class="form-search" role="search">
-                        <div id="container-btn-all-cards"></div>
-                        <input id="input-search" class="form-control me-2" type="search" placeholder="Buscar..."
-                            aria-label="Search">
-                        <button id="btn-search" class="btn btn-outline-success" type="submit">Buscar</button>
-                    </form>
-                    <div id="filled" class="filled filled-hidden">
+        <header>
+
+            <!-- Nav -->
+            <nav id="nav" class="navbar navbar-expand-lg bg-body-tertiary">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <a href="/index.html">
+                        <div class="logo-app">
+                            <img id="nav-logo" src="assets/img/logo.svg" alt="The Simpsons Logo">
+                        </div>
+                    </a>
+                    <div class="collapse navbar-collapse nav-links" id="navbarScroll">
+                        <ul id="container-nav-links" class="navbar-nav me-auto my-2 my-md-0 navbar-nav-scroll buttons"
+                            style="--bs-scroll-height: 100px;">
+                            <li id="inicio" class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="story.html">Historia</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="./about.html">Acerca de</a>
+                            </li>
+                        </ul>
+                        <form id="form-search" class="form-search" role="search">
+                            <div id="container-btn-all-cards"></div>
+                            <input id="input-search" class="form-control me-2" type="search" placeholder="Buscar..."
+                                aria-label="Search">
+                            <button id="btn-search" class="btn btn-outline-success" type="submit">Buscar</button>
+                        </form>
+                        <div id="filled" class="filled filled-hidden">
+                        </div>
                     </div>
                 </div>
-            </div>
-        </nav>
+            </nav>
 
-        <!-- Title -->
-        <h1 id="title" class="title"><img src="/assets/img/logo.svg" alt="title-los-simpsons"></h1>
+            <!-- Title -->
+            <h1 id="title" class="title"><img src="/assets/img/logo.svg" alt="title-los-simpsons"></h1>
 
-    </header>
+        </header>
 
-    <!-- Principal Content -->
-    <main>
+        <!-- Principal Content -->
+        <main>
 
-        <!-- <section id="opening" class="opening">
+            <!-- <section id="opening" class="opening">
             <div id="video-container" class="video-container">
                 <video id="video" class="video" src="/assets/video/opening.mp4"></video>
             </div>
@@ -98,52 +101,54 @@
             <button id="skip-button" class="skip-button">Skip intro</button>
         </section> -->
 
-        <!-- Loader -->
-        <div id="spinner" class="spinner-hidden">
-            <p class="text-center">Cargando los personajes...</p>
-        </div>
-
-        <!-- Home Section -->
-        <section id="section-characters" class="cards-container">
-            <!-- Card generated dinamically -->
-            <div class="container-mine" id="list">
+            <!-- Loader -->
+            <div id="spinner" class="spinner-hidden">
+                <p class="text-center">Cargando los personajes...</p>
             </div>
-        </section>
 
-
-        <!-- Detail Section -->
-        <section>
-            <div id="btn-detail-container" class="btn-detail-container">
-                <button id="btn-close-detail" class="btn btn-detail">
-                    <i class="bi bi-x-lg">
-                    </i>
-                </button>
-            </div>
-            <section id="character" class="character">
-                <div class="contenedor-info">
-                    <img id="character-image" class="character-image" src="" alt="character-image">
-                </div>
-                <div class="contenedor-info">
-                    <h1 id="character-title" class="character-title">Nombre | </h1>
-                    <h3 id="character-genre" class="character-genre">Género | </h3>
-                    <h3 id="character-state" class=" character-state">Estado | </h3>
-                    <h3 id="character-employment" class="character-employment">Ocupación | </h3>
-                    <p id="character-description" class="character-description">Historia</p>
+            <!-- Home Section -->
+            <section id="section-characters" class="cards-container">
+                <!-- Card generated dinamically -->
+                <div class="container-mine" id="list">
                 </div>
             </section>
-        </section>
 
-    </main>
 
-    <!-- Footer -->
-    <footer id="footer" class="footer">
-        <div id="search-results-text" class="search-results-text"></div>
-        <div class="copyright">
-            <p>
-                Created by Fabian Blanco Wuest (2024) &#169;
-            </p>
-        </div>
-    </footer>
+            <!-- Detail Section -->
+            <section>
+                <div id="btn-detail-container" class="btn-detail-container">
+                    <button id="btn-close-detail" class="btn btn-detail">
+                        <i class="bi bi-x-lg">
+                        </i>
+                    </button>
+                </div>
+                <section id="character" class="character">
+                    <div class="contenedor-info">
+                        <img id="character-image" class="character-image" src="" alt="character-image">
+                    </div>
+                    <div class="contenedor-info">
+                        <h1 id="character-title" class="character-title">Nombre | </h1>
+                        <h3 id="character-genre" class="character-genre">Género | </h3>
+                        <h3 id="character-state" class=" character-state">Estado | </h3>
+                        <h3 id="character-employment" class="character-employment">Ocupación | </h3>
+                        <p id="character-description" class="character-description">Historia</p>
+                    </div>
+                </section>
+            </section>
+
+        </main>
+
+        <!-- Footer -->
+        <footer id="footer" class="footer">
+            <div id="search-results-text" class="search-results-text"></div>
+            <div class="copyright">
+                <span>
+                    Created by <strong class="copyright-strong">Fabian Blanco Wuest</strong> (2024) &#169;
+                </span>
+            </div>
+        </footer>
+    </div>
+
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"

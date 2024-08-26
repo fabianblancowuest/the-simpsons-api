@@ -1,6 +1,7 @@
 const list = document.getElementById("list");
 const sectionCharacters = document.getElementById("section-characters");
-const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
+// const url = "https://apisimpsons.fly.dev/api/personajes?limit=635&page=1";
+const url = "../api/api_simpsons.json";
 
 const textCardsSearched = document.createElement("h5");
 textCardsSearched.className = "text-searched";
