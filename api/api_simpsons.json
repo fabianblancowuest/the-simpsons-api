@@ -286,7 +286,7 @@
             "_id": "63e455d87de1feab294249c8",
             "Nombre": "Jefe de la tribu  ",
             "Historia": "El Jefe Tribal es el gerente del Caesar's Pow-Wow Casino .",
-            "Imagen": "/assets/img/imagenes-faltantes/jefe_de_tribu.webp",
+            "Imagen": "../assets/img/imagenes-faltantes/jefe_de_la_tribu.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Gerente del Casino Caesar's Pow-Wow",
