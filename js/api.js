@@ -105,19 +105,6 @@ async function getData() {
                 const image = document.createElement("img");
                 item.innerText = element.Nombre;
 
-                switch (element._id) {
-                    case "63ec25f45d30fabfe4502beb":
-                        element.Nombre = "Homero Conductor de Monorriel";
-                        element.Estado = "Vivo";
-                        element.Ocupacion = "Conductor de Monorriel ";
-                        break;
-                    case "63ec28715d30fabfe4502bf3":
-                        element.Estado = "Vivo";
-                        element.Ocupacion =
-                            "Empleado del DMV Anterior: Guardia de seguridad Anterior: Agente de la CIA";
-                        break;
-                }
-
                 item3.innerText = element.Estado;
                 item3.className = "card-state";
                 item4.innerText = element.Genero;

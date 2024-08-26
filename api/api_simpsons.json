@@ -5037,15 +5037,17 @@
             "Historia": "Después de ver un anuncio en la televisión, Homero se entusiasma con la idea de ser conductor del monorriel y decide tomar un curso intensivo de tres semanas para aprender a operar el sistema de transporte. Aunque Marge se siente preocupada por la seguridad del monorriel, Homero es nombrado conductor y comienza a trabajar en el sistema.",
             "Imagen": "https://static.simpsonswiki.com/images/c/cf/Conductor_Homer_Tapped_Out.png",
             "Genero": "Masculino",
-            "Estado": "Conductor Mono Riel"
+            "Estado": "Vivo",
+            "Ocupacion": "Conductor de Mono Riel"
         },
         {
             "_id": "63ec28715d30fabfe4502bf3",
             "Nombre": "Wayne Slater",
-            "Historia": "Wayne Slater es un guardia en la planta de energía nuclear y ex agente de la CIA, que ayudó a Homer cuando fue secuestrado.",
+            "Historia": "Wayne Slater trabaja en el Departamento de Vehículos junto a Patty y Selma, anteriormente fué guardia de seguridad en la planta de energía nuclear y ex agente de la CIA. Ayudó a Homero cuando fué secuestrado por mafiosos ucranianos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/be/Wayne_Slater.png/200px-Wayne_Slater.png",
             "Genero": "Masculino",
-            "Estado": "Empleado del DMV Anterior: Guardia de seguridad Anterior: Agente de la CIA"
+            "Estado": "Vivo",
+            "Ocupacion": "Empleado del Departamento de Vehículos"
         },
         {
             "_id": "63ec2ae8e398c925c5626305",
