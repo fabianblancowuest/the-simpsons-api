@@ -74,7 +74,7 @@ async function getData() {
         spinner.classList.add("spinner-show");
 
         // Verificar si ya hay datos almacenados en localStorage
-        let storedData = localStorage.getItem("storedCharacters");
+        const storedData = localStorage.getItem("storedCharacters");
 
         if (storedData) {
             // Si hay datos almacenados, usar esos datos en lugar de hacer otra solicitud
@@ -128,29 +128,6 @@ async function getData() {
                 image.onerror = () => {
                     imagesError.push(element);
                 };
-
-                const missingImages = {
-                    "63e337e7edf49032166d9652":
-                        "./assets/img/imagenes-faltantes/larry.webp",
-                    "63e455d87de1feab294249c8":
-                        "./assets/img/imagenes-faltantes/jefe_de_la_tribu_.png",
-                    "63e477937de1feab294269de":
-                        "./assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp",
-                    "63e485aa7de1feab2942740e":
-                        "./assets/img/imagenes-faltantes/Mr_Lacost_Tapped_Out.webp",
-                    "63e3349cedf49032166d5ed8":
-                        "./assets/img/imagenes-faltantes/artie_ziff.png",
-                    "63e3298eedf49032166ca2b3":
-                        "./assets/img/imagenes-faltantes/superintendente-chalmers.webp",
-                    "63ec504f8b142917b4a270dc":
-                        "./assets/img/imagenes-faltantes/TemperanceBarrow.webp",
-                    "63e57ff66b08a3edb56c252e":
-                        "./assets/img/imagenes-faltantes/duncan.png",
-                };
-
-                if (missingImages[element._id]) {
-                    image.src = missingImages[element._id];
-                }
 
                 container.className = "card-container";
                 image.className = "card-img";
@@ -238,34 +215,6 @@ async function getData() {
                         detailElementTitle.textContent =
                             "Nombre | " + element.Nombre;
                         detailElementStory.textContent = element.Historia;
-
-                        switch (element._id) {
-                            case "63e337e7edf49032166d9652":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/larry.webp";
-                            case "63e455d87de1feab294249c8":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/jefe_de_la_tribu_.png";
-                            case "63e477937de1feab294269de":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp";
-                            case "63e3349cedf49032166d5ed8":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/artie_ziff.png";
-                            case "63e3298eedf49032166ca2b3":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/superintendente-chalmers.webp";
-                            case "63ec504f8b142917b4a270dc":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/TemperanceBarrow.webp";
-                            case "63e57ff66b08a3edb56c252e":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/duncan.png";
-                            case "63e485aa7de1feab2942740e":
-                                detailElementImage.src =
-                                    "./assets/img/imagenes-faltantes/Mr_Lacost_Tapped_Out.webp";
-                        }
-
                         detailElementImage.src = element.Imagen;
                         detailElementGenre.textContent =
                             "Género | " + element.Genero;

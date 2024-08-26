@@ -286,7 +286,7 @@
             "_id": "63e455d87de1feab294249c8",
             "Nombre": "Jefe de la tribu  ",
             "Historia": "El Jefe Tribal es el gerente del Caesar's Pow-Wow Casino .",
-            "Imagen": "https://static.simpsonswiki.com/images/d/d3/Tribal_Chief.png",
+            "Imagen": "/assets/img/imagenes-faltantes/jefe_de_tribu.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Gerente del Casino Caesar's Pow-Wow",
@@ -486,7 +486,7 @@
             "_id": "63e477937de1feab294269de",
             "Nombre": "Sanjay Nahasapeemapetilon",
             "Historia": "Sanjay Nahasapeemapetilon es el hermano de Apu .",
-            "Imagen": "https://static.simpsonswiki.com/images/4/46/Sanjay_Nahasapeemapetilon.png",
+            "Imagen": "/assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Trabajador de Kwik-E-Mart"
@@ -1203,7 +1203,7 @@
             "_id": "63e485aa7de1feab2942740e",
             "Nombre": "Sr. Lacost",
             "Historia": "El Sr. Lacost es un mesero que trabajaba para los Quimby. Acusó falsamente a Freddy Quimby de golpearlo en una cocina en la finca Quimby.",
-            "Imagen": "https://static.simpsonswiki.com/images/5/54/Mr._Lacoste.png",
+            "Imagen": "../assets/img/imagenes-faltantes/Mr._Lacoste.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Mesero"
@@ -2856,7 +2856,7 @@
             "_id": "63e3298eedf49032166ca2b3",
             "Nombre": "Superintendente Chalmers ",
             "Historia": "El superintendente Garibaldi Gary Chalmers es el superintendente del distrito escolar de Springfield .",
-            "Imagen": "https://static.simpsonswiki.com/images/f/f9/Gary_Chalmers.png",
+            "Imagen": "../assets/img/imagenes-faltantes/Gary_Chalmers.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Superintendente de la Escuela Primaria de Springfield Vicedirector de la Escuela Secundaria de Springfield "
@@ -3447,7 +3447,7 @@
             "_id": "63e3349cedf49032166d5ed8",
             "Nombre": "Artie Ziff",
             "Historia": "Artie Ziff es un inventor multimillonario y dueño de un negocio ",
-            "Imagen": "https://static.simpsonswiki.com/images/0/0c/Artie_Ziff.png",
+            "Imagen": "/assets/img/imagenes-faltantes/Artie_Ziff_.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Multimillonario del software"
@@ -3466,7 +3466,7 @@
             "_id": "63e337e7edf49032166d9652",
             "Nombre": "Larry",
             "Historia": "Larry es uno de los dos barflis que se ven normalmente en Moe's Tavern , el otro es Sam . Prácticamente no se sabe nada sobre ellos. Larry tiene una cabeza calva.",
-            "Imagen": "https://static.simpsonswiki.com/images/5/5c/Larry_Dalrymple.png",
+            "Imagen": "/assets/img/imagenes-faltantes/larry.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Desconocida"
@@ -5213,7 +5213,7 @@
             "_id": "63ec504f8b142917b4a270dc",
             "Nombre": "Temperance Barrow",
             "Historia": "Temperance Barrow es el personaje principal de la novela romántica The Harpooned Heart de Marge Simpson . Ella sigue el modelo de Marge.",
-            "Imagen": "https://static.simpsonswiki.com/images/3/3f/Temperance_Barrows.png",
+            "Imagen": "../assets/img/imagenes-faltantes/TemperanceBarrow.webp",
             "Genero": "Femenino",
             "Estado": "Ficticio",
             "Ocupacion": "Ama de casa"
