@@ -2146,9 +2146,9 @@
         },
         {
             "_id": "63e562e86b08a3edb56c1843",
-            "Nombre": "Don Barredora",
-            "Historia": "Homero trabaja temporalmente como limpiador de nieve",
-            "Imagen": "https://static.simpsonswiki.com/images/thumb/6/66/Tapped_Out_Mr._Plow.png/80px-Tapped_Out_Mr._Plow.png",
+            "Nombre": "Homero Don Barredora",
+            "Historia": "Homero trabaja temporalmente como limpiador de nieve. Es contratado para limpiar el recorrido que hace el autobús escolar para llegar a la escuela, es por eso que al llegar unos niños le tiran bolas de nieve a Bart de todos los ángulos.",
+            "Imagen": "../assets/img/imagenes-faltantes/Mr._Plow_Unlock2.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Barredor"
@@ -5646,11 +5646,11 @@
         {
             "_id": "63ee4f613f77c15ce0611261",
             "Nombre": "El General",
-            "Historia": "El General es un general del ejército.",
+            "Historia": "El general dirigió un programa en el que se reclutaba a niños sociópatas para realizar simulaciones que implicaban disparar a combatientes enemigos. Bart , que había sido llevado al asilo después de hacerle una broma a su familia, fue uno de los niños que participó. Bart demostró ser muy bueno en la simulación y completó la misión. El general luego le dijo a Bart y a los otros niños que no era una simulación, lo que estaban haciendo era real. Bart se enojó por esto ya que no quería lastimar a personas reales. Bart fue expulsado del asilo por no ser un sociópata.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/70/The_General.png/200px-The_General.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
-            "Ocupacion": "General de la Armada"
+            "Ocupacion": "General del ejército"
         },
         {
             "_id": "63ee4fa43f77c15ce0611278",
@@ -5727,7 +5727,7 @@
         {
             "_id": "6406722422be87b1d027bd0b",
             "Nombre": "Bart Simpson",
-            "Historia": "conocido como El Barto y Bartman , es el hijo mayor travieso, rebelde, incomprendido y potencialmente peligroso de Homer y Marge Simpson, y el hermano de Lisa y Maggie Simpson\r\n",
+            "Historia": "Bartholomew JoJo \"Bart\" Simpson (23 de febrero de 1979) es el hijo mayor travieso, rebelde, incomprendido, disruptivo y \"potencialmente peligroso\" de la familia Simpson en Los Simpson. Es el único hijo de Homer y Marge Simpson, y el hermano mayor de Lisa y Maggie. También ha sido apodado \"Cosmo\", después de descubrir un cometa en \"El cometa de Bart\".",
             "Imagen": "https://static.simpsonswiki.com/images/e/ef/Tapped_Out_Unlock_Bart.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5739,7 +5739,7 @@
         {
             "_id": "641d21e90c2b0d63f091b608",
             "Nombre": "Wolfgang Amadeus Mozart",
-            "Historia": "Wolfgang Amadeus Mozart fue un compositor austriaco del siglo XVIII.",
+            "Historia": "Wolfgang Amadeus Mozart fue un compositor austríaco del siglo XVIII. Marge contó una historia sobre él y Bart Simpson lo interpretó en su historia.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/6/60/Mozart.png/220px-Mozart.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
