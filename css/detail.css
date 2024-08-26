@@ -60,10 +60,18 @@ body {
 
 .character-title {
     text-transform: capitalize;
+    font-size: 1.6rem;
 }
 
 .character-description {
     font-size: 20px;
+}
+
+.character-title,
+.character-state,
+.character-employment,
+.character-genre {
+    font-size: 1.4rem;
 }
 
 .character-title,
@@ -78,7 +86,7 @@ body {
 
 .character-description {
     max-width: 1000px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-align: justify;
     padding: 1em;
     margin: 0;
