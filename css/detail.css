@@ -146,6 +146,7 @@ body {
 @media (max-width: 768px) {
     .character {
         width: 95%;
+        padding: 45px 5px 5px 5px;
     }
 
     .btn-detail-container {

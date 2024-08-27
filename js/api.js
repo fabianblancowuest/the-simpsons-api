@@ -209,6 +209,15 @@ async function getData() {
                             "Estado | " + element.Estado;
                         detailElementEmployment.textContent =
                             "Ocupación | " + element.Ocupacion;
+
+                        // Desplazarse a la parte superior del documento
+
+                        if (screen.width < 768) {
+                            window.scrollTo({
+                                top: 200, // Ajusta este valor si necesitas un desplazamiento diferente
+                                behavior: "smooth", // Para un desplazamiento suave
+                            });
+                        }
                     }
                 });
                 searchResultsText.textContent = "";
