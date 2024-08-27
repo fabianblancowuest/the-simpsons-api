@@ -204,7 +204,7 @@
         {
             "_id": "63e3d69f958741730f868c5e",
             "Nombre": "Frank Grimes",
-            "Historia": "Frankin A. Frank Grimey Grimes, Sr. , comúnmente conocido por Homer , para disgusto de Frank, como Grimey, era un empleado de la planta de energía nuclear de Springfield y el enemigo autodeclarado de Homer Simpson. Frank Grimes era un gran trabajador, que tenía que ganarse todo por las malas. También se frustraba fácilmente, era gruñón, pero parecía razonablemente templado.",
+            "Historia": "Frankin A. Frank Grimey Grimes, comúnmente conocido por Homero, para disgusto de Frank, como Grimey. Era un empleado de la planta de energía nuclear de Springfield y el enemigo autodeclarado de Homero Simpson. Frank Grimes era un gran trabajador, que tenía que ganarse todo por las malas. También se frustraba fácilmente, era gruñón, pero parecía razonablemente templado.",
             "Imagen": "https://static.simpsonswiki.com/images/c/c8/Frank_Grimes.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -231,7 +231,7 @@
         {
             "_id": "63e3ddcf958741730f86cc62",
             "Nombre": "Snake Jailbird",
-            "Historia": "El profesor Chester Turley , o Snake Jailbird , también conocido como Profesor Jailbird y Detention Bird y Albert Knickerbocker Aloysius Snake es un criminal reincidente, siempre arrestado pero rara vez parece permanecer en la cárcel. Habla con acento de Valley Boy. Le gustan los autos rápidos y las mujeres rápidas, y tiene una habilidad especial para el abandono imprudente.",
+            "Historia": "Snake Jailbird es un criminal reincidente, que siempre es arrestado, pero rara vez lo mantienen encerrado por mucho tiempo. Su verdadero nombre ha sido mencionado como Chester Turley o Albert Knickerbocker Aloysius Snake, y aparentemente antes de su carrera criminal, era conocido como Detention Bird y Professor Jailbird. Habla con acento de \"Valley Boy\" y tiene un tatuaje de una serpiente en su brazo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/be/Snake_Jailbird.png/200px-Snake_Jailbird.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -458,7 +458,7 @@
         {
             "_id": "63e473737de1feab2942669d",
             "Nombre": "Virgil Simpson",
-            "Historia": "Virgil Simpson era un esclavo fugitivo del coronel Burns que la joven Eliza Simpson intentó sin éxito ayudar a escapar a través del ferrocarril subterráneo.",
+            "Historia": "Virgil Thornton Simpson era un antepasado de la familia Simpson, y un esclavo fugitivo del coronel Burns que la joven Eliza Simpson intentó ayudar sin éxito a escapar a través del ferrocarril subterráneo. Eliza nunca descubrió el destino de Virgil, a quien sintió que le había fallado. Sin embargo, la madre de Eliza, Mabel Simpson, abandonó a su familia para guiar personalmente a Virgil a Canadá, dejando atrás a su traicionero esposo, Hiram Simpson. En su viaje, los dos comenzaron a enamorarse. Mabel y Virgil cruzaron con éxito la frontera hacia Canadá a través de un puente en el que Virgil le propuso matrimonio a Mabel.",
             "Imagen": "https://static.simpsonswiki.com/images/3/31/Virgil_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -476,7 +476,7 @@
         {
             "_id": "63e4775c7de1feab294269b4",
             "Nombre": "Manjula Nahasapeemapetilon",
-            "Historia": "Manjula Nahasapeemapetilon es la esposa de Apu y madre de sus octillizos ",
+            "Historia": "Manjula Nahasapeemapetilon es la esposa de Apu y madre de sus octillizos. Se casó con Apu Nahasapeemapetilon cuando tenía tres años, algo que había esperado con ilusión toda su vida, pero Apu se iba a Estados Unidos para ir a la universidad. Ocasionalmente trabaja en el Kwik-E-Mart junto a Apu, pero normalmente se la ve como ama de casa.",
             "Imagen": "https://static.simpsonswiki.com/images/2/28/Manjula_Nahasapeemapetilon.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -485,7 +485,7 @@
         {
             "_id": "63e477937de1feab294269de",
             "Nombre": "Sanjay Nahasapeemapetilon",
-            "Historia": "Sanjay Nahasapeemapetilon es el hermano de Apu .",
+            "Historia": "Sanjay Nahasapeemapetilon es el hermano de Apu. Es el mayor de tres hermanos, el mediano es Apu y el menor es de nombre Rohana, que vive en la India. También tiene varios primos, de los cuales se conocen algunos nombres como: Babar, Pinga, Naraka y Aandaleeb. Es amante de las fiestas y a diferencia de su hermano es vegetariano riguroso, a diferencia de Apu que come carne a escondidas, lo que hizo que se pelearan en varias ocasiones.",
             "Imagen": "/assets/img/imagenes-faltantes/Sanjay_Nahasapeemapetilon.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -521,7 +521,7 @@
         {
             "_id": "63e479d77de1feab29426b94",
             "Nombre": "Ayudante de Santa / Huesos",
-            "Historia": "El pequeño ayudante de Santa , también conocido como No. 8 o Su Majestad, King Suds McDuff de Sixpakistan, es el perro de la familia Simpson . El es un galgo.",
+            "Historia": "Es el perro de la familia Simpson en la serie animada Los Simpson. Es de raza galgo, concretamente un greyhound, y lo tienen tan mal atendido que a simple vista parece un animal de la calle. Es muy travieso y juguetón, le gusta mucho la comida y las hembras. Su bebida favorita es el agua del retrete, mientras que su comida favorita son gorgojos y entrañas; la mayoría de lo que come Homero. Su pasatiempo favorito es destrozar periódicos, o si no, enterrar pequeños electrodomésticos en el patio trasero de la casa.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/2c/Santa%27s_Little_Helper.png/200px-Santa%27s_Little_Helper.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -678,7 +678,7 @@
         {
             "_id": "63e3b816958741730f84eafa",
             "Nombre": "Elizabeth Hoover",
-            "Historia": "Elizabeth Hoover (comúnmente conocida como Miss Hoover ) es maestra de segundo grado en la Escuela Primaria Springfield ",
+            "Historia": "Elizabeth Hoover (comúnmente conocida como Miss Hoover ) es la profesora de segundo grado de Lisa Simpson y Ralph Wiggum, entre otros. Tiene una actitud muy tranquila, no suele enojarse por nada y al igual que Edna Krabappel, tiene desgano para enseñar. Durante una protesta escolar le robaron su libro guía de clase y se demuestra que no posee mucho conocimiento, ya que depende por completo del libro.",
             "Imagen": "https://static.simpsonswiki.com/images/5/59/Elizabeth_Hoover.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -687,7 +687,7 @@
         {
             "_id": "63e3b94b958741730f84fc02",
             "Nombre": "Jimbo",
-            "Historia": "Corky James Jimbo Jones , es uno de los matones en Springfield Elementary ",
+            "Historia": "Jimbo, es uno de los peores chicos de la escuela primaria de Springfield. Amigo de Nelson Muntz, realiza vandalismo junto a él. Se hace ver como una persona ruda, pero llora viendo telenovelas con su madre y se acobarda cuando un adulto le planta cara. Lleva siempre un gorro de lana y le gusta la música grunge. Llora como una niña pequeña cuando Moe le amenaza con un cuchillo mientras está en casa de los Simpson besándose con su novia Laura, después de que Bart le gastara una broma telefónica a Moe. Tiene 14 años, y su nombre completo es Corky James Jones. ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/42/Jimbo_Jones.png/250px-Jimbo_Jones.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -705,7 +705,7 @@
         {
             "_id": "63e3bcae958741730f852dc1",
             "Nombre": "Alcalde Diamante",
-            "Historia": "Joseph Fitzgerald O'Malley Fitzpatrick O'Donnell The Edge Diamond Joe Quimby, Jr. [2] es el alcalde de Springfield . Aparece como un político astuto y oportunista cuyas principales prioridades parecen ser mantenerse en el cargo, ser mujeriego y varias otras formas de corrupción, incluida la malversación de dinero de los impuestos, aceptar sobornos de Fat Tony , el mafioso local, y dar sobornos mensuales a la policía. Jefe Wiggum . El sello en la pared de su oficina dice Corruptus in Extremis, que significa extremadamente corrupto.",
+            "Historia": "Joseph Fitzgerald O'Malley Fitzpatrick O'Donnell The Edge Diamond Joe Quimby, Jr. es el alcalde de Springfield. Aparece como un político astuto y oportunista cuyas principales prioridades parecen ser mantenerse en el cargo, ser mujeriego y varias otras formas de corrupción, incluida la malversación de dinero de los impuestos, aceptar sobornos de Fat Tony, el mafioso local, y dar sobornos mensuales a la policía, Jefe Wiggum. El sello en la pared de su oficina dice Corruptus in Extremis, que significa extremadamente corrupto.",
             "Imagen": "https://static.simpsonswiki.com/images/b/b7/Joe_Quimby.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2920,7 +2920,7 @@
         {
             "_id": "63e3373eedf49032166d8b6c",
             "Nombre": "Lenny Leonard",
-            "Historia": "Lenford Lenny Leonard es el mejor amigo de Carl Carlson y, junto con Carl, el segundo mejor amigo de Homer Simpson , detrás de Barney Gumble . Trabaja en la planta de energía nuclear de Springfield y posee una maestría en física nuclear, pero se le presenta como un trabajador simple, a menudo ingenuo, de cuello azul.",
+            "Historia": "Lenford Lenny Leonard es el mejor amigo de Carl Carlson, junto con a él, el segundo mejor amigo de Homero Simpson, detrás de Barney Gumble. Trabaja en la planta de energía nuclear de Springfield y posee una maestría en física nuclear, pero se le presenta como un trabajador simple, a menudo ingenuo, de cuello azul.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/ae/Lenny_Leonard.png/200px-Lenny_Leonard.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3455,7 +3455,7 @@
         {
             "_id": "63e3354bedf49032166d6a77",
             "Nombre": "Edna Krabappel",
-            "Historia": "Edna Krabappel–Flanders (de soltera Krabappel ) (más conocida como Sra. Krabappel o, conocida por Bart como Sra. K ) era maestra de cuarto grado en la Escuela Primaria Springfield . Antes de casarse, Edna vivía en 82 Evergreen Terrace.",
+            "Historia": "Edna fue la profesora de cuarto grado de Bart Simpson, Milhouse Van Houten, Nelson Muntz y Martin Prince, entre otros. Estuvo casada antes de dar clases en la Escuela Primaria de Springfield (aunque su esposo nunca fue mostrado en la serie ni se sabe nada de él, solo que estuvo casado con Edna). Se caracteriza por su desgano para enseñar. Durante varias temporadas es la novia de Seymour Skinner, aunque fuera del ámbito escolar ha sido catalogada varias veces como \"zorra\", o promiscua. Tuvo una relación temporal con Ned Flanders, con quien terminó casándose en la temporada 22.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/76/Edna_Krabappel.png/200px-Edna_Krabappel.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
