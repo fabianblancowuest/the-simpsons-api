@@ -8,7 +8,6 @@
 
 body {
     margin: 0;
-    padding: 10px;
     background-color: rgba(0, 0, 0, 1) !important;
     background-image: url(/assets//img/background-the-simpsons-copy.jpg);
     background-position: center;
@@ -22,7 +21,7 @@ body {
 .about-subtitle,
 .about-text {
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .about {
