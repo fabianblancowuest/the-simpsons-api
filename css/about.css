@@ -8,6 +8,7 @@
 
 body {
     margin: 0;
+    padding: 0;
     background-color: rgba(0, 0, 0, 1) !important;
     background-image: url(/assets//img/background-the-simpsons-copy.jpg);
     background-position: center;
@@ -15,6 +16,7 @@ body {
     background-position: 100% -25%;
     background-repeat: no-repeat;
     font-family: "Quicksand", sans-serif;
+    min-height: 100vh;
 }
 
 .about-title,
