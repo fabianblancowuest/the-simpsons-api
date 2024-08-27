@@ -575,8 +575,8 @@
         },
         {
             "_id": "63e481977de1feab2942711e",
-            "Nombre": "Abuelo Van Houten ",
-            "Historia": "El abuelo Van Houten es el padre de Kirk Van Houten .",
+            "Nombre": "Abuelo Van Houten",
+            "Historia": "El abuelo Van Houten es el padre de Kirk Van Houten. Estuvo casado con la abuela Van Houten, pero después se divorciaron, al igual que los padres de Milhouse y después se casó con otra mujer y viajó por varios estados de Estados Unidos con una casa rodante en búsqueda de aventura. Ellos ganaron un concurso de comida en Beaumont, Texas.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b2/Grandpa_Van_Houten.png/200px-Grandpa_Van_Houten.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -585,7 +585,7 @@
         {
             "_id": "63e482cb7de1feab294271fe",
             "Nombre": "Laura Powers",
-            "Historia": "Laura Powers vive al lado de los Simpson y es la única hija de la divorciada monoparental Ruth Powers .",
+            "Historia": "Laura Powers vive al lado de la casa de los Simpson y es la única hija de la divorciada monoparental Ruth Powers.",
             "Imagen": "https://static.simpsonswiki.com/images/b/b8/Laura_Powers.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -594,16 +594,16 @@
         {
             "_id": "63e2be37e6c69920933ff30e",
             "Nombre": "Maggie Simpson",
-            "Historia": "Margaret Lenny Maggie Simpson es la hija menor de Marge y Homer , y hermana de Bart y Lisa . Casi siempre se la ve chupando su chupete y, cuando camina, tropieza con su ropa y cae de cara. Debido a que no puede caminar ni hablar, Maggie es la menos vista en la familia Simpson .",
+            "Historia": "Margaret Lenny Maggie Simpson es la hija menor de Marge y Homer, y hermana de Bart y Lisa. Casi siempre se la ve succionando su chupete y, cuando camina, tropieza con su ropa y cae de cara. Debido a que no puede caminar ni hablar, Maggie es la menos vista en la familia Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9d/Maggie_Simpson.png/250px-Maggie_Simpson.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
-            "Ocupacion": "Sin Ocupacion"
+            "Ocupacion": "Bebé de la familia Simpson"
         },
         {
             "_id": "63e2c200e6c69920933ff31b",
             "Nombre": "Abraham Simpson",
-            "Historia": "Abraham Abe Jay Simpson, generalmente conocido como el abuelo Simpson o simplemente el abuelo , es el patriarca de la familia Simpson, el padre de Homer Simpson , Herbert Powell y Abbey y el abuelo de Bart , Lisa y Maggie . simpson _ Abe es un veterano de la Segunda Guerra Mundial enviado más tarde al Castillo de Retiro de Springfield por Homer. Es conocido por sus historias largas, incoherentes y, a menudo, inexactas y por su incompetencia general.",
+            "Historia": "Abraham Abe Jay Simpson, generalmente conocido como el abuelo Simpson o simplemente el abuelo , es el patriarca de la familia Simpson, el padre de Homero Simpson, Herbert Powell y Abbey. Es el abuelo de Bart, Lisa y Maggie Simpson. Abraham es un veterano de la Segunda Guerra Mundial enviado más tarde al Castillo de Retiro de Springfield por Homero. Es conocido por sus historias largas, incoherentes y, a menudo, inexactas y por su incompetencia general.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a9/Abraham_Simpson.png/250px-Abraham_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -613,17 +613,17 @@
         {
             "_id": "63e2c2f5e6c69920933ff31f",
             "Nombre": "Mona J. Simpson",
-            "Historia": "Mona J. Simpson  (de soltera Olsen ), también conocida como Martha Stewart , Muddy Mae Suggins , Anita Bonghit , Mona Stevens y Penelope Olsen , fue la madre de Homer Simpson , ex esposa de Abraham Simpson , suegra. de Marge Simpson y abuela de Bart , Lisa y Maggie .",
+            "Historia": "Mona J. Simpson (de soltera Olsen), también conocida como Martha Stewart, Muddy Mae Suggins, Anita Bonghit, Mona Stevens y Penelope Olsen. Fué la madre de Homero Simpson, ex esposa de Abraham Simpson, suegra de Marge Simpson y abuela de Bart, Lisa y Maggie.",
             "Imagen": "https://static.simpsonswiki.com/images/f/fa/Mona_Simpson.png",
             "Genero": "Femenino",
             "Estado": "Fallecido",
-            "Ocupacion": "Fugitivo Ex hippie y activista político",
+            "Ocupacion": "Hippie y activista política",
             "updatedAt": "2023-03-10T03:47:59.299Z"
         },
         {
             "_id": "63e32fd7edf49032166d0e37",
             "Nombre": "Martin Prince",
-            "Historia": "Martin Prince es compañero de clase de Bart Simpson y rival de Lisa Simpson en inteligencia. Él es el objetivo favorito de Nelson Muntz para la intimidación, además de Milhouse . Es la mascota de un maestro académicamente brillante y es un nerd estereotipado. Martin es un estudiante de cuarto grado en la Escuela Primaria Springfield .",
+            "Historia": "Martin Prince es compañero de clase de Bart Simpson y rival de Lisa Simpson en inteligencia. Él es el objetivo favorito de Nelson Muntz para la intimidación, además de Milhouse. Es la mascota de un maestro académicamente brillante y es un nerd estereotipado. Martin es un estudiante de cuarto grado en la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/4/46/Martin_Prince.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -632,7 +632,7 @@
         {
             "_id": "63e333efedf49032166d5378",
             "Nombre": "Ling Bouvier",
-            "Historia": "Selma Bouvier-Terwilliger-Hutz-McClure-Discothèque-Simpson-D'Amico o Selma Bouvier es una de las hermanas gemelas fumadoras empedernidas de Marge , que trabaja en el DMV y siente una fuerte aversión por su cuñado. Homero _ Selma es la madre adoptiva de Ling ",
+            "Historia": "Selma Bouvier-Terwilliger-Hutz-McClure-Discothèque-Simpson-D'Amico o Selma Bouvier es una de las hermanas gemelas fumadoras empedernidas de Marge. Trabaja en el DMV y siente una fuerte aversión por su cuñado Homero. Tiene una hija adoptiva proveniente de China, llamada Ling.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/94/Ling_Bouvier.png/250px-Ling_Bouvier.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -641,7 +641,7 @@
         {
             "_id": "63e3363aedf49032166d7a42",
             "Nombre": "Barney Gumble",
-            "Historia": "Barnard Barney Gumble , una vez escrito como Barney Gumbel ,  (nacido el 20 de abril)  es el borracho de la ciudad de Springfield , el más destacado de varios Springfielders alcohólicos y el mejor amigo de Homer Simpson . También es amigo de Carl , Lenny y Moe .",
+            "Historia": "Barney Gumble es la satirización del típico alcohólico que pasa casi todo el día bebiendo. Su voz es bastante grotesca eructando de vez en cuando producto de su alcoholismo. Con respecto a su hogar aparecen tres: El primero es La Taberna de Moe que realmente no es su hogar sino que a veces se ha quedado dormido producto de la borrachera, luego se ve un apartamento sucio y muy poco amueblado, y por último, un apartamento con una barra como la de las estaciones de bomberos, que llega directamente al bar de Moe.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/de/Barney_Gumble.png/220px-Barney_Gumble.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -651,7 +651,7 @@
         {
             "_id": "63e336d5edf49032166d847a",
             "Nombre": "Carl Carlson",
-            "Historia": "Carlton Carl Carlson trabaja en la planta de energía nuclear de Springfield . Junto con Lenny , Carl no es solo el compañero de trabajo de Homer (a veces identificado como el supervisor de Homer) en la planta de energía nuclear de Springfield . Homer ha sido uno de sus mejores amigos desde la infancia, a la par de Lenny y detrás de Barney Gumble , y le gusta llamarse a sí mismo un Lenny urbano. También asistió a la Universidad de Springfield A&M.",
+            "Historia": "Carlton Carl Carlson trabaja en la planta de energía nuclear de Springfield. Junto con Lenny, Carl no es solo el compañero de trabajo de Homero (a veces identificado como el supervisor de Homero) en la planta de energía nuclear de Springfield. Homero ha sido uno de sus mejores amigos desde la infancia, a la par de Lenny y detrás de Barney Gumble. Le gusta llamarse a sí mismo un Lenny urbano. También asistió a la Universidad de Springfield A&M.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a9/Carl_Carlson.png/200px-Carl_Carlson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -660,7 +660,7 @@
         {
             "_id": "63e337b0edf49032166d92c7",
             "Nombre": "Sam",
-            "Historia": "Sam es una de las dos moscas del bar que se suelen ver en Moe's Tavern . Prácticamente no se sabe nada de él. Sam siempre usa una gorra y anteojos y Moe le disparó una vez , pero ha aparecido desde entonces. Sam es un evasor de esposas, aunque Homer todavía habla bien de él.",
+            "Historia": "Sam es una de las dos moscas del bar que se suelen ver en Moe's Tavern. Prácticamente no se sabe nada de él. Siempre usa una gorra y anteojos. Moe le disparó una vez, pero ha aparecido desde entonces. Sam es un evasor de esposas, aunque Homero todavía habla bien de él.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/94/Sam.png/150px-Sam.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -669,11 +669,11 @@
         {
             "_id": "63e3b62adc7c8413ba3c4cf6",
             "Nombre": "Ralph",
-            "Historia": "Ralph Wiggum es un estudiante que asiste a la Escuela Primaria Springfield . Es mejor conocido como el bicho raro residente de la ciudad y ha sido inmortalizado por su comportamiento errático y sin sentido",
+            "Historia": "Ralph Wiggum es un estudiante que asiste a la Escuela Primaria Springfield. Es mejor conocido como el bicho raro residente de la ciudad y ha sido inmortalizado por su comportamiento errático y sin sentido.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/14/Ralph_Wiggum.png/230px-Ralph_Wiggum.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
-            "Ocupacion": "Alumno Escuela Primaria Springfield"
+            "Ocupacion": "Alumno de la Escuela Primaria Springfield"
         },
         {
             "_id": "63e3b816958741730f84eafa",
