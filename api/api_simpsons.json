@@ -1436,9 +1436,9 @@
         },
         {
             "_id": "63e5641f6b08a3edb56c18e6",
-            "Nombre": "Barney, el rey de las barredoras",
-            "Historia": "Barney trabaja como el rey de las barredoras",
-            "Imagen": "https://static.simpsonswiki.com/images/thumb/1/13/Tapped_Out_Barney_Plowking.png/80px-Tapped_Out_Barney_Plowking.png",
+            "Nombre": "Barney Rey de las barredoras",
+            "Historia": "Barney trabaja como el rey de las barredoras, compró un camión quitanieves para competir con el de Homero. Barney todavía conduce el camión y sigue quitando nieve de Springfield en invierno, aparentemente como su principal fuente de ingresos.",
+            "Imagen": "../assets/img/imagenes-faltantes/Barney_Plowking.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Desconocido"
@@ -4826,9 +4826,9 @@
         },
         {
             "_id": "63e5633a6b08a3edb56c186c",
-            "Nombre": "Willy al rescate",
+            "Nombre": "Willie al rescate",
             "Historia": "Willy el jardinero tiene que rescatar a los niños atrapados",
-            "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e4/Barechested_Willie.png/110px-Barechested_Willie.png",
+            "Imagen": "../assets/img/imagenes-faltantes/Barechested_Willie_Tapped_Out.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Jardinero"
