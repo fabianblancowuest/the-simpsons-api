@@ -3,7 +3,7 @@
         {
             "_id": "63e2beaee6c69920933ff310",
             "Nombre": "Marge Simpson",
-            "Historia": "Marjorie Marge B. Simpson ,  (de soltera Bouvier ; nacida el 19 de marzo  ), es la feliz ama de casa y madre de tiempo completo de la familia Simpson . Con su esposo Homer , tiene tres hijos: Bart , Lisa y Maggie Simpson . Marge es la fuerza moralista en su familia y, a menudo, proporciona una voz fundamental en medio de las payasadas de su familia al tratar de mantener el orden en la casa de los Simpson. Aparte de sus deberes en el hogar, Marge coqueteó brevemente con una serie de carreras que van desde oficial de policía hasta activista contra la violencia.",
+            "Historia": "Marjorie Marge B. Simpson , (de soltera Bouvier; nacida el 19 de marzo), es la feliz ama de casa y madre de tiempo completo de la familia Simpson. Con su esposo Homer, tiene tres hijos: Bart , Lisa y Maggie Simpson. Marge es la fuerza moralista en su familia y, a menudo, proporciona una voz fundamental en medio de las payasadas de su familia al tratar de mantener el orden en la casa de los Simpson. Aparte de sus deberes en el hogar, Marge coqueteó brevemente con una serie de carreras que van desde oficial de policía hasta activista contra la violencia.",
             "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559694/simpsons/250px-Marge_Simpson_ivadwr.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -440,7 +440,7 @@
         {
             "_id": "63e472dc7de1feab2942661b",
             "Nombre": "Mabel Simpson",
-            "Historia": "Mabel Simpson es la tatarabuela de Homero Simpson . El primer esposo de Mabel fue Hiram Simpson (con quien tuvo un hijo, Eliza ) y su segundo esposo fue Virgil (con quien tuvo otro hijo, Abraham ).",
+            "Historia": "Mabel Simpson es una antepasada de Lisa Simpson, fue la esposa de Hiram Simpson hasta que conoció a un esclavo de color llamado Virgil y se enamoró de él, con quien se casaría luego. Es madre de Eliza Simpson y bisabuela de Orville Simpson. Ella y su familia trabajaron con el \"Ferrocarril Subterráneo\", un gran grupo de personas que ayudaban a escapar a los esclavos a Canadá, esta información solo ha sido conocida debido al diario de Eliza encontrado por Lisa en el ático de su casa en busca de un pariente bondadoso y bueno.",
             "Imagen": "https://static.simpsonswiki.com/images/b/bd/Mabel_Simpson.png",
             "Genero": "Femenino",
             "Estado": "Fallecido",
@@ -3408,11 +3408,11 @@
         {
             "_id": "63e2b3b9e6c69920933ff306",
             "Nombre": "Homero Simpson",
-            "Historia": "Homer Jay Simpson , anteriormente conocido como Max Power , es el padre de la familia Simpson. Tiene sobrepeso, es perezoso e ignorante, pero también es muy devoto de su esposa e hijos. Trabaja como inspector de seguridad de bajo nivel en la planta de energía nuclear de Springfield",
+            "Historia": "Homer Jay Simpson, anteriormente conocido como Max Power, es el padre de la familia Simpson. Tiene sobrepeso, es perezoso e ignorante, pero también es muy devoto de su esposa e hijos. Trabaja como inspector de seguridad de bajo nivel en la planta de energía nuclear de Springfield. Tiene una escasa capacidad de concentración, además ser muy impulsivo, que complementa con su pasión efímera por varias aficiones y empresas. Homero es propenso a las explosiones emocionales, muy envidioso de sus vecinos (la familia de Ned Flanders), y fácilmente se enfada con Bart, estrangulándolo con frecuencia. No muestra ningún remordimiento por ello y no trata de ocultar sus acciones a la gente de fuera de la familia, incluso hace caso omiso del bienestar de su hijo. Estos hechos se pueden atribuir a que Homer no se da cuenta de sus responsabilidades.",
             "Imagen": "https://static.simpsonswiki.com/images/b/bd/Homer_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
-            "Ocupacion": "Inspector de Seguridad Nuclear Ex Supervisor Técnico",
+            "Ocupacion": "Inspector de Seguridad Nuclear - Ex Supervisor Técnico",
             "updatedAt": "2023-03-10T17:16:34.755Z"
         },
         {
