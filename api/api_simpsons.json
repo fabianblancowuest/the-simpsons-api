@@ -34,12 +34,12 @@
             "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559693/simpsons/200px-Waylon_Smithers__Jr._mmvhsc.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
-            "Ocupacion": "Asistente de Charles Montgomery Burns , Supervisor del sector 7-G"
+            "Ocupacion": "Asistente de Charles Montgomery Burns, Supervisor del sector 7-G"
         },
         {
             "_id": "63e32a4cedf49032166caf56",
             "Nombre": "Ned Flanders",
-            "Historia": "Nedward Ned Flanders, Jr.  es el propietario y vecino de al lado extremadamente religioso de la familia Simpson . Es una persona genuinamente bien intencionada y bondadosa y es uno de los pocos en Springfield a quienes se aplica esa descripción. Aunque firmemente religioso, puede ser tímido y un tanto pusilánime. Él adora a Dios a fondo y sigue estrictamente la Biblia lo más literalmente posible y se escandaliza fácilmente cuando se le cuestiona cualquier punto del dogma.",
+            "Historia": "Nedward Ned Flanders, Jr.  es el propietario y vecino de al lado extremadamente religioso de la familia Simpson. Es una persona genuinamente bien intencionada y bondadosa y es uno de los pocos en Springfield a quienes se aplica esa descripción. Aunque firmemente religioso, puede ser tímido y un tanto pusilánime. Él adora a Dios a fondo y sigue estrictamente la Biblia lo más literalmente posible y se escandaliza fácilmente cuando se le cuestiona cualquier punto del dogma.",
             "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559694/simpsons/Ned_Flanders_zwqcjg.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -59,7 +59,7 @@
         {
             "_id": "63e338abedf49032166da2e6",
             "Nombre": "Cletus",
-            "Historia": "Cletus Delroy Montfort DeMontblanc Bigglesworth Spuckler, también conocido como Cletus the Slack-Jawed Yokel , es un paleto estereotipado con una personalidad bondadosa. Es delgado y generalmente se lo retrata con un par de jeans y una camiseta interior. Reside con su familia en la Ruta Rural 9 en Springfield. Su esposa es Brandine Spuckler, se da a entender en gran medida a lo largo de la serie que están relacionados de alguna manera (posiblemente hermano y hermana), y tener a sus hijos juntos los convierte en consanguíneos.",
+            "Historia": "Cletus Delroy Montfort DeMontblanc Bigglesworth Spuckler, también conocido como Cletus the Slack-Jawed Yokel, es un paleto estereotipado con una personalidad bondadosa. Es delgado y generalmente se lo retrata con un par de jeans y una camiseta interior. Reside con su familia en la Ruta Rural 9 en Springfield. Su esposa es Brandine Spuckler, se da a entender en gran medida a lo largo de la serie que están relacionados de alguna manera (posiblemente hermano y hermana), y tener a sus hijos juntos los convierte en consanguíneos.",
             "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559693/simpsons/250px-Cletus_Spuckler_rvpr9g.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -141,7 +141,7 @@
         {
             "_id": "63e3c9bb958741730f85e33a",
             "Nombre": "Lunchlady Dora",
-            "Historia": "Lunchlady Dora , anteriormente conocida como Lunchlady Doris , es una chef de cafetería con sobrepeso, de mediana edad y lacónica en Springfield Elementary .",
+            "Historia": "Lunchlady Dora, anteriormente conocida como Lunchlady Doris, es una chef de cafetería con sobrepeso, de mediana edad y lacónica en Springfield Elementary.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/ab/Lunchlady_Dora.png/200px-Lunchlady_Dora.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -150,7 +150,7 @@
         {
             "_id": "63e3ca5e958741730f85ec2f",
             "Nombre": "Otto",
-            "Historia": "Otto Mann es el conductor del autobús de la Escuela Primaria Springfield . Le gusta tocar la guitarra y llama a casi todo el mundo amigo. Uno de los pasajeros recurrentes de Otto es Bart , a quien a menudo llama Lil Bart Dude",
+            "Historia": "Otto Mann es el conductor del autobús de la Escuela Primaria Springfield. Le gusta tocar la guitarra y llama a casi todo el mundo amigo. Uno de los pasajeros recurrentes de Otto es Bart, a quien a menudo llama Lil Bart Dude",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/09/Otto_Mann.png/200px-Otto_Mann.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -159,7 +159,7 @@
         {
             "_id": "63e3cda7958741730f86176f",
             "Nombre": "Jebediah Springfield",
-            "Historia": "Hans Sprungfeld , más conocido como Jebediah Obadiah Zachariah Jedediah Springfield es el supuesto fundador histórico de la ciudad de Springfield .",
+            "Historia": "Hans Sprungfeld, más conocido como Jebediah Obadiah Zachariah Jedediah Springfield es el supuesto fundador histórico de la ciudad de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/1a/Jebediah_Springfield.png/230px-Jebediah_Springfield.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -177,7 +177,7 @@
         {
             "_id": "63e3d0f1958741730f864053",
             "Nombre": "Buda Gautama",
-            "Historia": "Gautama Buda fue un sabio alrededor del cual se formó el budismo .",
+            "Historia": "Gautama Buda fue un sabio alrededor del cual se formó el budismo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/da/Gautama_Buddha.png/250px-Gautama_Buddha.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -186,7 +186,7 @@
         {
             "_id": "63e3d482958741730f867118",
             "Nombre": "Cookie Kwan",
-            "Historia": "Cookie Kwan es un agente inmobiliario de Springfield , el número uno en el lado oeste. Ella tiene un acento asiático estereotipado.",
+            "Historia": "Cookie Kwan es un agente inmobiliario de Springfield, el número uno en el lado oeste. Ella tiene un acento asiático estereotipado.",
             "Imagen": "https://static.simpsonswiki.com/images/d/dc/Cookie_Kwan.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -222,7 +222,7 @@
         {
             "_id": "63e3db0a958741730f86b7a3",
             "Nombre": "Sideshow Mel",
-            "Historia": "Melvin Van Horne , más conocido como Sideshow Mel , es el compañero de Krusty en The Krusty the Clown Show . Cuando no está en el personaje, Mel habla con un acento grandilocuente/elegante de Shakespeare y tiene caniches",
+            "Historia": "Melvin Van Horne, más conocido como Sideshow Mel, es el compañero de Krusty en The Krusty the Clown Show. Cuando no está en el personaje, Mel habla con un acento grandilocuente/elegante de Shakespeare y tiene caniches",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/02/Sideshow_Mel.png/200px-Sideshow_Mel.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -249,7 +249,7 @@
         {
             "_id": "63e3e91b958741730f871edd",
             "Nombre": "Sideshow Raheem",
-            "Historia": "Sideshow Raheem , también conocido como Raheem Banjoko (née Russell Mason ) fue el compañero de Krusty el Payaso antes de Sideshow Bob . Es un devoto seguidor del Islam",
+            "Historia": "Sideshow Raheem, también conocido como Raheem Banjoko (née Russell Mason ) fue el compañero de Krusty el Payaso antes de Sideshow Bob. Es un devoto seguidor del Islam",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/02/SideshowRaheem.png/200px-SideshowRaheem.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -258,7 +258,7 @@
         {
             "_id": "63e41ddd958741730f873817",
             "Nombre": "Duffman mexicano",
-            "Historia": "El Duffman mexicano es la versión mexicana de Duffman . En la taberna de Moe , Duffman dice que el Duffman mexicano es su mejor amigo. El Duffman mexicano grita \"¡Oh, la\".",
+            "Historia": "El Duffman mexicano es la versión mexicana de Duffman. En la taberna de Moe, Duffman dice que el Duffman mexicano es su mejor amigo. El Duffman mexicano grita \"¡Oh, la\".",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/37/Mexican_Duffman.png/200px-Mexican_Duffman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -267,7 +267,7 @@
         {
             "_id": "63e42741958741730f874344",
             "Nombre": "Jiff Simpson",
-            "Historia": "Jiff Simpson , también conocido como Kirk Simpson ,es el hijo menor de Bart Simpson y Jenda.",
+            "Historia": "Jiff Simpson, también conocido como Kirk Simpson,es el hijo menor de Bart Simpson y Jenda.",
             "Imagen": "https://static.simpsonswiki.com/images/0/05/Jiff_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Desconocido",
@@ -304,7 +304,7 @@
         {
             "_id": "63e45fcd7de1feab294253fe",
             "Nombre": "Sra. Sinclair",
-            "Historia": "La Sra. Sinclair es la directora de Ayn Rand School for Tots . Su hermano es Llewellyn Sinclair .",
+            "Historia": "La Sra. Sinclair es la directora de Ayn Rand School for Tots. Su hermano es Llewellyn Sinclair.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b2/Ms._Sinclair.png/200px-Ms._Sinclair.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -313,7 +313,7 @@
         {
             "_id": "63e462d07de1feab29425702",
             "Nombre": "Satán con aspecto de Moe",
-            "Historia": "El Satán con aspecto de Moe es el gobernante del infierno que se parece a Moe .",
+            "Historia": "El Satán con aspecto de Moe es el gobernante del infierno que se parece a Moe.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5c/Moe-looking_Satan.png/250px-Moe-looking_Satan.png",
             "Genero": "Masculino",
             "Estado": "Desconocido",
@@ -331,7 +331,7 @@
         {
             "_id": "63e466707de1feab29425ab4",
             "Nombre": "Xoxchitla ",
-            "Historia": "Xoxchitla es una actriz y presentadora de televisión de Brasil .",
+            "Historia": "Xoxchitla es una actriz y presentadora de televisión de Brasil.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/0e/Xoxchitla.png/200px-Xoxchitla.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -340,7 +340,7 @@
         {
             "_id": "63e468bb7de1feab29425cf2",
             "Nombre": "Abraham Simpson I",
-            "Historia": "Abraham Simpson es hijo de Mabel Simpson y Virgil Simpson . Presumiblemente, Abraham recibió su nombre de Abraham Lincoln, quien ayudó directamente a Virgil y Mabel a escapar de la persecución de los esclavistas. Abraham es también el bisabuelo de Abraham \"Abuelo\" Simpson y presumiblemente su homónimo.",
+            "Historia": "Abraham Simpson es hijo de Mabel Simpson y Virgil Simpson. Presumiblemente, Abraham recibió su nombre de Abraham Lincoln, quien ayudó directamente a Virgil y Mabel a escapar de la persecución de los esclavistas. Abraham es también el bisabuelo de Abraham \"Abuelo\" Simpson y presumiblemente su homónimo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/6/6d/Abraham_Simpson_I.png/200px-Abraham_Simpson_I.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -349,7 +349,7 @@
         {
             "_id": "63e469ae7de1feab29425dd5",
             "Nombre": "Chinnos ",
-            "Historia": "Chinnos es un supervillano. Apareció en la película Vindicators: Crystal War .",
+            "Historia": "Chinnos es un supervillano. Apareció en la película Vindicators: Crystal War.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7c/Chinnos.png/250px-Chinnos.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -358,7 +358,7 @@
         {
             "_id": "63e469e67de1feab29425e09",
             "Nombre": "Quetzelica ",
-            "Historia": "Quetzelica es un superhéroe y parte de los Vindicadores . Apareció en Vindicators: Crystal War ",
+            "Historia": "Quetzelica es un superhéroe y parte de los Vindicadores. Apareció en Vindicators: Crystal War ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f7/Quetzelica.png/200px-Quetzelica.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -367,7 +367,7 @@
         {
             "_id": "63e46b2a7de1feab29425f3c",
             "Nombre": "Brendan Beiderbecke",
-            "Historia": "Brendan Beiderbecke es cantante, músico y ex alumno de la Escuela Primaria Springfield .",
+            "Historia": "Brendan Beiderbecke es cantante, músico y ex alumno de la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/38/Brendan.png/200px-Brendan.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -376,7 +376,7 @@
         {
             "_id": "63e46b607de1feab29425f6e",
             "Nombre": "Kyle ",
-            "Historia": "Kyle , más conocido como Database o Data , es un estudiante de Springfield Elementary y miembro de \" The Superfriends \".",
+            "Historia": "Kyle, más conocido como Database o Data, es un estudiante de Springfield Elementary y miembro de \" The Superfriends \".",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/38/Database.png/200px-Database.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -385,7 +385,7 @@
         {
             "_id": "63e46e8e7de1feab2942624f",
             "Nombre": "Jardinera Wilma",
-            "Historia": "La jardinera Wilma es la jardinera de la Escuela Primaria Shelbyville . Se parece a una versión femenina del jardinero Willie .",
+            "Historia": "La jardinera Wilma es la jardinera de la Escuela Primaria Shelbyville. Se parece a una versión femenina del jardinero Willie.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/78/Groundskeeper_Wilma.png/200px-Groundskeeper_Wilma.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -394,7 +394,7 @@
         {
             "_id": "63e46f7a7de1feab29426325",
             "Nombre": "Airshot ",
-            "Historia": "Airshot es un superhéroe y parte de los Vindicators . Fue interpretado por Glen Tangier en Vindicators: Crystal War y Vindicators: Crystal War 2: Resurgence .",
+            "Historia": "Airshot es un superhéroe y parte de los Vindicators. Fue interpretado por Glen Tangier en Vindicators: Crystal War y Vindicators: Crystal War 2: Resurgence.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c5/Airshot.png/200px-Airshot.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -412,7 +412,7 @@
         {
             "_id": "63e471577de1feab294264cb",
             "Nombre": "McGriff el perro del crimen",
-            "Historia": "McGriff the Crime Dog es la mascota del Departamento de Policía de Springfield .",
+            "Historia": "McGriff the Crime Dog es la mascota del Departamento de Policía de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f2/McGriff_the_Crime_Dog.png/150px-McGriff_the_Crime_Dog.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -449,7 +449,7 @@
         {
             "_id": "63e473447de1feab29426675",
             "Nombre": "El padre de Hibbert",
-            "Historia": "El padre de Hibbert es el padre del Dr. Hibbert .",
+            "Historia": "El padre de Hibbert es el padre del Dr. Hibbert.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/de/DrHibbert%27s_dad.png/250px-DrHibbert%27s_dad.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -494,7 +494,7 @@
         {
             "_id": "63e4780c7de1feab29426a38",
             "Nombre": "Freedom ",
-            "Historia": "Freedom es un halcón propiedad de Diggs .",
+            "Historia": "Freedom es un halcón propiedad de Diggs.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d1/Freedom_%28Falcon%29.png/250px-Freedom_%28Falcon%29.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -512,7 +512,7 @@
         {
             "_id": "63e4790a7de1feab29426afc",
             "Nombre": "Bárbara \"Booberella\" Lelavinsky",
-            "Historia": "Barbara \"Booberella\" Lelavinsky es una mujer con aspecto de vampiro de pecho amplio y una personalidad de la televisión local en Springfield .",
+            "Historia": "Barbara \"Booberella\" Lelavinsky es una mujer con aspecto de vampiro de pecho amplio y una personalidad de la televisión local en Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/9/97/Booberella.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -531,7 +531,7 @@
         {
             "_id": "63e47ce47de1feab29426dbe",
             "Nombre": "Steve Friedman",
-            "Historia": "Steve Friedman , también conocido como Jeremy Friedman , adolescente con voz chillona , ​​adolescente con cara de granos y Old Man Peterson , es uno de los pocos adolescentes en Springfield y está perpetuamente atrapado en una serie de trabajos sin salida. Steve tiene acné y su voz siempre está en proceso de quebrarse.",
+            "Historia": "Steve Friedman, también conocido como Jeremy Friedman, adolescente con voz chillona, ​​adolescente con cara de granos y Old Man Peterson, es uno de los pocos adolescentes en Springfield y está perpetuamente atrapado en una serie de trabajos sin salida. Steve tiene acné y su voz siempre está en proceso de quebrarse.",
             "Imagen": "https://static.simpsonswiki.com/images/1/19/Squeaky-voiced_teen.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -549,7 +549,7 @@
         {
             "_id": "63e47f547de1feab29426f84",
             "Nombre": "Puerco Araña",
-            "Historia": "Plopper , también conocido como Spider-Pig , Harry Plopper y Pig , es el cerdo mascota de Homer Simpson ",
+            "Historia": "Plopper, también conocido como Spider-Pig, Harry Plopper y Pig, es el cerdo mascota de Homer Simpson ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7a/Plopper.png/250px-Plopper.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -567,7 +567,7 @@
         {
             "_id": "63e4813a7de1feab294270db",
             "Nombre": "Annika Van Houten",
-            "Historia": "Annika Van Houten es la prima holandesa de Milhouse .",
+            "Historia": "Annika Van Houten es la prima holandesa de Milhouse.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/85/Annika_Van_Houten.png/200px-Annika_Van_Houten.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -603,7 +603,7 @@
         {
             "_id": "63e2c200e6c69920933ff31b",
             "Nombre": "Abraham Simpson",
-            "Historia": "Abraham Abe Jay Simpson, generalmente conocido como el abuelo Simpson o simplemente el abuelo , es el patriarca de la familia Simpson, el padre de Homero Simpson, Herbert Powell y Abbey. Es el abuelo de Bart, Lisa y Maggie Simpson. Abraham es un veterano de la Segunda Guerra Mundial enviado más tarde al Castillo de Retiro de Springfield por Homero. Es conocido por sus historias largas, incoherentes y, a menudo, inexactas y por su incompetencia general.",
+            "Historia": "Abraham Abe Jay Simpson, generalmente conocido como el abuelo Simpson o simplemente el abuelo, es el patriarca de la familia Simpson, el padre de Homero Simpson, Herbert Powell y Abbey. Es el abuelo de Bart, Lisa y Maggie Simpson. Abraham es un veterano de la Segunda Guerra Mundial enviado más tarde al Castillo de Retiro de Springfield por Homero. Es conocido por sus historias largas, incoherentes y, a menudo, inexactas y por su incompetencia general.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a9/Abraham_Simpson.png/250px-Abraham_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -696,7 +696,7 @@
         {
             "_id": "63e3b98e958741730f84ffc3",
             "Nombre": "Kearney",
-            "Historia": "Kearney Zzyzwicz es uno de los matones de la escuela de Springfield Elementary . Parece ser el más feo y duro de los matones, y se distrae con mucha facilidad. ",
+            "Historia": "Kearney Zzyzwicz es uno de los matones de la escuela de Springfield Elementary. Parece ser el más feo y duro de los matones, y se distrae con mucha facilidad. ",
             "Imagen": "https://static.simpsonswiki.com/images/6/64/Kearney_Zzyzwicz.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -714,7 +714,7 @@
         {
             "_id": "63e3c0da958741730f856a3c",
             "Nombre": "Todd Flanders",
-            "Historia": "Todd Homer Flanders es el hijo de 8 años de Ned . Es el miembro más impresionable y más joven de la familia Flanders. ",
+            "Historia": "Todd Homer Flanders es el hijo de 8 años de Ned. Es el miembro más impresionable y más joven de la familia Flanders. ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/18/Todd_Flanders.png/180px-Todd_Flanders.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -723,7 +723,7 @@
         {
             "_id": "63e3c43f958741730f8597c6",
             "Nombre": "Rainier Wolfcastle ",
-            "Historia": "Rainier Luftwaffe Wolfcastle es una estrella de cine de acción musculosa con acento austriaco. Wolfcastle es un veterano de muchas películas de acción, sobre todo la serie McBain . Wolfcastle comenzó su carrera como actor desde su infancia en Austria , apareciendo en largos comerciales de televisión que anunciaban salchichas. Tiene un Ferrari F40 y un Hummer H1. Tiene una hija, Greta ",
+            "Historia": "Rainier Luftwaffe Wolfcastle es una estrella de cine de acción musculosa con acento austriaco. Wolfcastle es un veterano de muchas películas de acción, sobre todo la serie McBain. Wolfcastle comenzó su carrera como actor desde su infancia en Austria, apareciendo en largos comerciales de televisión que anunciaban salchichas. Tiene un Ferrari F40 y un Hummer H1. Tiene una hija, Greta ",
             "Imagen": "https://static.simpsonswiki.com/images/c/c5/Rainier_Wolfcastle.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -750,7 +750,7 @@
         {
             "_id": "63e3c58c958741730f85a9b4",
             "Nombre": "Stephanie Brockman",
-            "Historia": "Stephanie Brockman es la dama del clima de Channel 6 News , así como la esposa de Kent Brockman , aunque a pesar de estar casada, se la vio con Hans Moleman durante Grown-up Halloween",
+            "Historia": "Stephanie Brockman es la dama del clima de Channel 6 News, así como la esposa de Kent Brockman, aunque a pesar de estar casada, se la vio con Hans Moleman durante Grown-up Halloween",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/ae/Stephanie.png/150px-Stephanie.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -759,7 +759,7 @@
         {
             "_id": "63e3c5fd958741730f85aff3",
             "Nombre": "Princesa Cachemira",
-            "Historia": "Princess Kashmir , cuyo verdadero nombre es Shawna Tifton y ocasionalmente conocida como April Flowers (cuando actúa en clubes de striptease) es una bailarina exótica.",
+            "Historia": "Princess Kashmir, cuyo verdadero nombre es Shawna Tifton y ocasionalmente conocida como April Flowers (cuando actúa en clubes de striptease) es una bailarina exótica.",
             "Imagen": "https://static.simpsonswiki.com/images/3/38/Princess_Kashmir.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -777,7 +777,7 @@
         {
             "_id": "63e3c920958741730f85da94",
             "Nombre": "Mindy Simmons",
-            "Historia": "Mindy Simmons era una empleada de la planta de energía nuclear de Springfield . Cuando Homer la conoció en el trabajo, se sintió muy atraído por ella. ",
+            "Historia": "Mindy Simmons era una empleada de la planta de energía nuclear de Springfield. Cuando Homer la conoció en el trabajo, se sintió muy atraído por ella. ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d1/Mindy_Simmons.png/200px-Mindy_Simmons.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -786,7 +786,7 @@
         {
             "_id": "63e3cb58958741730f85f98c",
             "Nombre": "Janey Powell",
-            "Historia": "Janine Janey Powell , también conocida como Janey Henderson , Janey Jackson , y Jacqueline Jones es amiga de Lisa Simpson .",
+            "Historia": "Janine Janey Powell, también conocida como Janey Henderson, Janey Jackson, y Jacqueline Jones es amiga de Lisa Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/1f/Janey_Powell.png/200px-Janey_Powell.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -795,7 +795,7 @@
         {
             "_id": "63e3cb9d958741730f85fd0a",
             "Nombre": "Francine Rhenquist",
-            "Historia": "Francine Rhenquist es una acosadora que se mudó a la Escuela Primaria Springfield .",
+            "Historia": "Francine Rhenquist es una acosadora que se mudó a la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b7/Francine_Rhenquist_%28Official_Image%29.png/150px-Francine_Rhenquist_%28Official_Image%29.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -831,7 +831,7 @@
         {
             "_id": "63e3da02958741730f86afc2",
             "Nombre": "Wendell Borton",
-            "Historia": "Wendell Borton es un estudiante de la Escuela Primaria Springfield . Su rasgo personal es que siempre parece pálido y enfermizo, y es propenso a vomitar con muy poca provocación.",
+            "Historia": "Wendell Borton es un estudiante de la Escuela Primaria Springfield. Su rasgo personal es que siempre parece pálido y enfermizo, y es propenso a vomitar con muy poca provocación.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/59/Wendell_Borton.png/200px-Wendell_Borton.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -840,7 +840,7 @@
         {
             "_id": "63e3dc62958741730f86c196",
             "Nombre": "Erik",
-            "Historia": "Erik es miembro del quinto grado de la Escuela Primaria Springfield .",
+            "Historia": "Erik es miembro del quinto grado de la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/e/ed/Erik.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -849,7 +849,7 @@
         {
             "_id": "63e3de35958741730f86cf5b",
             "Nombre": "Nikki McKenna",
-            "Historia": "Nikki McKenna es una niña de la Escuela Primaria Springfield .",
+            "Historia": "Nikki McKenna es una niña de la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/4/4c/Nikki_McKenna.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -858,7 +858,7 @@
         {
             "_id": "63e3e9c5958741730f8723bc",
             "Nombre": "Tina Ballerina",
-            "Historia": "Tina Ballerina es un personaje recurrente en Krusty the Clown Show . Ella es una bailarina corpulenta con cabello rosado.",
+            "Historia": "Tina Ballerina es un personaje recurrente en Krusty the Clown Show. Ella es una bailarina corpulenta con cabello rosado.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/72/Tina_Ballerina.png/200px-Tina_Ballerina.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -867,7 +867,7 @@
         {
             "_id": "63e3ea32958741730f8726de",
             "Nombre": "Dave Shutton",
-            "Historia": "Dave Shutton es un periodista que trabaja para The Springfield Shopper . Lleva un sombrero de fieltro similar a los que usaban los reporteros de la década de 1940",
+            "Historia": "Dave Shutton es un periodista que trabaja para The Springfield Shopper. Lleva un sombrero de fieltro similar a los que usaban los reporteros de la década de 1940",
             "Imagen": "https://static.simpsonswiki.com/images/1/16/Dave_Shutton.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -876,7 +876,7 @@
         {
             "_id": "63e41e49958741730f873924",
             "Nombre": "Pyro",
-            "Historia": "Chase , comúnmente conocido como Pyro , es un gladiador estadounidense.",
+            "Historia": "Chase, comúnmente conocido como Pyro, es un gladiador estadounidense.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c8/Pyro.png/200px-Pyro.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -885,7 +885,7 @@
         {
             "_id": "63e4227a958741730f873df8",
             "Nombre": "Lucille Botzcowski",
-            "Historia": "Lucille Botzcowski , también conocida como Ms. Botz y The Babysitter Bandit , fue una vez la niñera de Bart, Lisa y Maggie",
+            "Historia": "Lucille Botzcowski, también conocida como Ms. Botz y The Babysitter Bandit, fue una vez la niñera de Bart, Lisa y Maggie",
             "Imagen": "https://static.simpsonswiki.com/images/4/4b/Lucille_Botzcowski.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -894,7 +894,7 @@
         {
             "_id": "63e42931958741730f874555",
             "Nombre": "Señora loca de los gatos",
-            "Historia": "Eleanor Abernathy , más conocida como Crazy Cat Lady , es una mujer enferma mental que siempre se rodea de una gran cantidad de gatos. Por lo general, grita tonterías y/o arroja sus gatos a los transeúntes.",
+            "Historia": "Eleanor Abernathy, más conocida como Crazy Cat Lady, es una mujer enferma mental que siempre se rodea de una gran cantidad de gatos. Por lo general, grita tonterías y/o arroja sus gatos a los transeúntes.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/bc/Crazy_Cat_Lady.png/230px-Crazy_Cat_Lady.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -912,7 +912,7 @@
         {
             "_id": "63e4564d7de1feab29424a45",
             "Nombre": "Akira Kurosawa",
-            "Historia": "Akira Kurosawa es un hombre asiático que se ha desempeñado como sensei de un dojo de karate , mesero en The Happy Sumo y Swanky Fish y empleado en los grandes almacenes Costington .",
+            "Historia": "Akira Kurosawa es un hombre asiático que se ha desempeñado como sensei de un dojo de karate, mesero en The Happy Sumo y Swanky Fish y empleado en los grandes almacenes Costington.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/dd/Akira_Kurosawa.png/200px-Akira_Kurosawa.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -931,7 +931,7 @@
         {
             "_id": "63e463047de1feab29425739",
             "Nombre": "Ginger Flanders",
-            "Historia": "Ginger Flanders es la esposa de Ned en Las Vegas con quien se casó después de emborracharse mientras estaba de vacaciones en Las Vegas con Homero .",
+            "Historia": "Ginger Flanders es la esposa de Ned en Las Vegas con quien se casó después de emborracharse mientras estaba de vacaciones en Las Vegas con Homero.",
             "Imagen": "https://static.simpsonswiki.com/images/8/8e/Ginger_Flanders.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -940,7 +940,7 @@
         {
             "_id": "63e4649f7de1feab294258e0",
             "Nombre": "María Spuckler",
-            "Historia": "Mary WrestleMania Spuckler es una de los hijos de Cletus y Brandine Spuckler .",
+            "Historia": "Mary WrestleMania Spuckler es una de los hijos de Cletus y Brandine Spuckler.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/0d/Mary_Spuckler.png/180px-Mary_Spuckler.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -949,7 +949,7 @@
         {
             "_id": "63e464d27de1feab29425914",
             "Nombre": "Cesar",
-            "Historia": "César es uno de los dos fabricantes de cuero y vino franceses hostiles que obligan a Bart a ser su esclavo y tratan de matar a una serpiente azul en peligro de extinción por cuero. Su sobrino es Ugolín .",
+            "Historia": "César es uno de los dos fabricantes de cuero y vino franceses hostiles que obligan a Bart a ser su esclavo y tratan de matar a una serpiente azul en peligro de extinción por cuero. Su sobrino es Ugolín.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/18/Cesar.png/200px-Cesar.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -976,7 +976,7 @@
         {
             "_id": "63e468607de1feab29425c99",
             "Nombre": "Opera",
-            "Historia": "Opal es la presentadora de The Opal Show , su programa de entrevistas.",
+            "Historia": "Opal es la presentadora de The Opal Show, su programa de entrevistas.",
             "Imagen": "https://static.simpsonswiki.com/images/3/3c/Opal.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -985,7 +985,7 @@
         {
             "_id": "63e46a537de1feab29425e72",
             "Nombre": "hombre moby",
-            "Historia": "Moby Man es un superhéroe y parte de los Vindicadores . Apareció en Vindicators: Crystal War .",
+            "Historia": "Moby Man es un superhéroe y parte de los Vindicadores. Apareció en Vindicators: Crystal War.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/6/6c/Moby_Man.png/250px-Moby_Man.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -994,7 +994,7 @@
         {
             "_id": "63e46c817de1feab29426073",
             "Nombre": "El canadiense Flanders",
-            "Historia": "El canadiense Flanders es un hombre que se ve y actúa de manera similar a Ned Flanders . Ned se dirige a él como su \"vecino del norte\"",
+            "Historia": "El canadiense Flanders es un hombre que se ve y actúa de manera similar a Ned Flanders. Ned se dirige a él como su \"vecino del norte\"",
             "Imagen": "https://static.simpsonswiki.com/images/5/58/Canadian_Flanders.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1012,7 +1012,7 @@
         {
             "_id": "63e4704f7de1feab294263e2",
             "Nombre": "Roscoe ",
-            "Historia": "Roscoe es un hombre homosexual que dirige Ajax Steel Mill y trabaja para Play-Doh Factory .",
+            "Historia": "Roscoe es un hombre homosexual que dirige Ajax Steel Mill y trabaja para Play-Doh Factory.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d4/Roscoe.png/200px-Roscoe.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1039,7 +1039,7 @@
         {
             "_id": "63e472787de1feab294265c6",
             "Nombre": "Eddie ",
-            "Historia": "Eddie es uno de los dos policías que ayudan al jefe Gorgory en casi todas las misiones. A diferencia de Lou , es poco inteligente, pero no tan tonto como Gorgory.",
+            "Historia": "Eddie es uno de los dos policías que ayudan al jefe Gorgory en casi todas las misiones. A diferencia de Lou, es poco inteligente, pero no tan tonto como Gorgory.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c3/Eddie.png/250px-Eddie.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1049,7 +1049,7 @@
         {
             "_id": "63e474de7de1feab294267c5",
             "Nombre": "Tiny Tim",
-            "Historia": "Tiny Tim es un personaje de Cuento de Navidad .",
+            "Historia": "Tiny Tim es un personaje de Cuento de Navidad.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/53/Tiny_Tim.png/200px-Tiny_Tim.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1076,7 +1076,7 @@
         {
             "_id": "63e476ed7de1feab29426960",
             "Nombre": "Rose Quimby ",
-            "Historia": "Rose Quimby , también conocida como Daisy Quimby , es la madre del alcalde Joe Quimby y matriarca de la familia Quimby ",
+            "Historia": "Rose Quimby, también conocida como Daisy Quimby, es la madre del alcalde Joe Quimby y matriarca de la familia Quimby ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/74/Rose_Quimby.png/150px-Rose_Quimby.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -1094,7 +1094,7 @@
         {
             "_id": "63e479417de1feab29426b26",
             "Nombre": "Chazz Busby ",
-            "Historia": "Chazz Busby es el dueño de la Academia de Ballet Chazz Busby .",
+            "Historia": "Chazz Busby es el dueño de la Academia de Ballet Chazz Busby.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/71/Chazz_Busby.png/150px-Chazz_Busby.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1103,7 +1103,7 @@
         {
             "_id": "63e47e7c7de1feab29426ee5",
             "Nombre": "El Hombre Radiactivo",
-            "Historia": "Radioactive Man es un superhéroe de cómic que adquirió sus poderes después de sobrevivir a la explosión de una bomba atómica. Su compañero es Fallout Boy . Radioactive Man es el sucesor de Radio Man .",
+            "Historia": "Radioactive Man es un superhéroe de cómic que adquirió sus poderes después de sobrevivir a la explosión de una bomba atómica. Su compañero es Fallout Boy. Radioactive Man es el sucesor de Radio Man.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/ee/Radioactive_Man.png/200px-Radioactive_Man.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1130,7 +1130,7 @@
         {
             "_id": "63e483457de1feab29427256",
             "Nombre": "Sophie ",
-            "Historia": "Sophie es la hija de Krusty el Payaso y Erin , una mujer soldado a quien Krusty conoció durante la Guerra del Golfo .",
+            "Historia": "Sophie es la hija de Krusty el Payaso y Erin, una mujer soldado a quien Krusty conoció durante la Guerra del Golfo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/50/Sophie.png/180px-Sophie.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -1157,7 +1157,7 @@
         {
             "_id": "63e4853e7de1feab294273c0",
             "Nombre": "Anciano Judio",
-            "Historia": "El viejo judío es un viejo judío loco que es amigo del abuelo y de Jasper Beardsley .",
+            "Historia": "El viejo judío es un viejo judío loco que es amigo del abuelo y de Jasper Beardsley.",
             "Imagen": "https://static.simpsonswiki.com/images/f/f2/Old_Jewish_man.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1175,7 +1175,7 @@
         {
             "_id": "63e483887de1feab29427286",
             "Nombre": "Patches",
-            "Historia": "Patches es un huérfano que vive en Springfield . Su hermana es Pobre Violeta . Lo apodan Parches porque es excelente cosiendo y le encanta rascar los parches de las picaduras de ortiga.",
+            "Historia": "Patches es un huérfano que vive en Springfield. Su hermana es Pobre Violeta. Lo apodan Parches porque es excelente cosiendo y le encanta rascar los parches de las picaduras de ortiga.",
             "Imagen": "https://static.simpsonswiki.com/images/8/8c/Patches.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1184,7 +1184,7 @@
         {
             "_id": "63e483f77de1feab294272d7",
             "Nombre": "Gerald Samson",
-            "Historia": "Gerald Samson (más conocido como \" Baby Gerald \" o \" The Unibrow Baby \") es el archienemigo de Maggie .",
+            "Historia": "Gerald Samson (más conocido como \" Baby Gerald \" o \" The Unibrow Baby \") es el archienemigo de Maggie.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/ab/Gerald_Samson.png/200px-Gerald_Samson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1247,7 +1247,7 @@
         {
             "_id": "63e52a216b08a3edb56bfa96",
             "Nombre": "Cliff ",
-            "Historia": "Cliff es el dueño del Kar Chalet de Cliff .",
+            "Historia": "Cliff es el dueño del Kar Chalet de Cliff.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/72/Kliff.png/250px-Kliff.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1256,7 +1256,7 @@
         {
             "_id": "63e52b386b08a3edb56bfb59",
             "Nombre": "Grady Little",
-            "Historia": "Grady Little es uno de los dos hombres homosexuales con los que se muda Homero . El otro es Julio Franco , el novio de Grady.",
+            "Historia": "Grady Little es uno de los dos hombres homosexuales con los que se muda Homero. El otro es Julio Franco, el novio de Grady.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a1/Grady_Little.png/158px-Grady_Little.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1265,7 +1265,7 @@
         {
             "_id": "63e52c116b08a3edb56bfbeb",
             "Nombre": "Julio Franco ",
-            "Historia": "Julio Franco es un hombre gay que vive en Springfield .",
+            "Historia": "Julio Franco es un hombre gay que vive en Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/1/17/Julio_Franco.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1274,7 +1274,7 @@
         {
             "_id": "63e52ec76b08a3edb56bfdc9",
             "Nombre": "Sra. Frink",
-            "Historia": "La señora Frink es la esposa del profesor Frink y madre de su hijo .",
+            "Historia": "La señora Frink es la esposa del profesor Frink y madre de su hijo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/02/Mrs._Frink.png/150px-Mrs._Frink.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -1283,7 +1283,7 @@
         {
             "_id": "63e530716b08a3edb56bfeef",
             "Nombre": "Cosme Fulanito",
-            "Historia": "Cosme Fulanito es un hombre que, excepto por tener bigote y acento británico, se ve y suena exactamente como Homero Simpson . El parecido con Homeroo ha resultado ser muy desafortunado para Guy, ya que lo ha metido en problemas. Se desconoce dónde vive Cosme, pero su acento indica que puede ser de origen británico.",
+            "Historia": "Cosme Fulanito es un hombre que, excepto por tener bigote y acento británico, se ve y suena exactamente como Homero Simpson. El parecido con Homeroo ha resultado ser muy desafortunado para Guy, ya que lo ha metido en problemas. Se desconoce dónde vive Cosme, pero su acento indica que puede ser de origen británico.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/16/Guy_Incognito.png/200px-Guy_Incognito.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1293,7 +1293,7 @@
         {
             "_id": "63e530cf6b08a3edb56bff30",
             "Nombre": "El párroco",
-            "Historia": "El párroco es amigo de Timothy Lovejoy, Jr. . Le dijo a Lovejoy que recordaba a Helen Lovejoy , la esposa de Timothy, como Harold, cuando eran niños. Ned Flanders es un gran admirador del párroco.",
+            "Historia": "El párroco es amigo de Timothy Lovejoy, Jr.. Le dijo a Lovejoy que recordaba a Helen Lovejoy, la esposa de Timothy, como Harold, cuando eran niños. Ned Flanders es un gran admirador del párroco.",
             "Imagen": "https://static.simpsonswiki.com/images/e/ee/The_Parson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1302,7 +1302,7 @@
         {
             "_id": "63e536706b08a3edb56c00d5",
             "Nombre": "Jefe Knocka-Homero",
-            "Historia": "Chief Knocka-Homero fue un aparato construido por Homero Simpson como un robot de combate para competir en el programa de televisión Robot Rumble y para impresionar a Bart . Con Homero actuando esencialmente como piloto, el robot demostró tener mucho éxito en el programa, debido en parte a que Homero usaba tácticas poco ortodoxas, como robar las armas de los oponentes",
+            "Historia": "Chief Knocka-Homero fue un aparato construido por Homero Simpson como un robot de combate para competir en el programa de televisión Robot Rumble y para impresionar a Bart. Con Homero actuando esencialmente como piloto, el robot demostró tener mucho éxito en el programa, debido en parte a que Homero usaba tácticas poco ortodoxas, como robar las armas de los oponentes",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/53/Chief_Knocka-Homer.png/250px-Chief_Knocka-Homer.png",
             "Genero": "Masculino",
             "Estado": "Robot",
@@ -1311,7 +1311,7 @@
         {
             "_id": "63e5371e6b08a3edb56c00dd",
             "Nombre": "Lisa Corazon de Leon",
-            "Historia": "Lisa Lionheart es una muñeca creada por Lisa y Stacy Lovell .",
+            "Historia": "Lisa Lionheart es una muñeca creada por Lisa y Stacy Lovell.",
             "Imagen": "https://static.simpsonswiki.com/images/6/67/Tapped_Out_Lisa_Lionheart_Display.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1320,7 +1320,7 @@
         {
             "_id": "63e5380f6b08a3edb56c0172",
             "Nombre": "Sepulturero Billy",
-            "Historia": "Sepulturero Billy es un sepulturero en el cementerio al lado de 742 Evergreen Terrace , y es el primo del jardinero Willie ",
+            "Historia": "Sepulturero Billy es un sepulturero en el cementerio al lado de 742 Evergreen Terrace, y es el primo del jardinero Willie ",
             "Imagen": "https://static.simpsonswiki.com/images/8/8f/Gravedigger_Billy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1329,7 +1329,7 @@
         {
             "_id": "63e538fe6b08a3edb56c020e",
             "Nombre": "Director Greystash",
-            "Historia": "El director Greystash es un director fallecido en la serie Angelica Button de TR Francis .",
+            "Historia": "El director Greystash es un director fallecido en la serie Angelica Button de TR Francis.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f5/Greystash.png/220px-Greystash.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1347,7 +1347,7 @@
         {
             "_id": "63e540336b08a3edb56c0681",
             "Nombre": "Hombre murciélago de frutas",
-            "Historia": "Fruit Bat Man es el alter ego superhéroe de Charles Montgomery Burns .",
+            "Historia": "Fruit Bat Man es el alter ego superhéroe de Charles Montgomery Burns.",
             "Imagen": "https://static.simpsonswiki.com/images/d/d7/Fruit_Bat_Man.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1356,7 +1356,7 @@
         {
             "_id": "63e540d66b08a3edb56c06e4",
             "Nombre": "La Chica Golpeadora",
-            "Historia": "Clobber Girl es el alter ego de superhéroe de Lisa Simpson .",
+            "Historia": "Clobber Girl es el alter ego de superhéroe de Lisa Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c4/Clobber_Girl.png/250px-Clobber_Girl.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1365,7 +1365,7 @@
         {
             "_id": "63e5427f6b08a3edb56c07eb",
             "Nombre": "El Monstruo de Frankenstein",
-            "Historia": "El Monstruo de Frankenstein es un monstruo. Viene de Ginebra , Suiza .",
+            "Historia": "El Monstruo de Frankenstein es un monstruo. Viene de Ginebra, Suiza.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a7/Frankenstein%27s_Monster.png/200px-Frankenstein%27s_Monster.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1374,7 +1374,7 @@
         {
             "_id": "63e542be6b08a3edb56c0811",
             "Nombre": "Julenstein ",
-            "Historia": "Julenstein es la esposa del Monstruo de Frankenstein . Viene de Ginebra , Suiza .",
+            "Historia": "Julenstein es la esposa del Monstruo de Frankenstein. Viene de Ginebra, Suiza.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/4f/Julienstein.png/200px-Julienstein.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1392,7 +1392,7 @@
         {
             "_id": "63e547706b08a3edb56c0ad1",
             "Nombre": "Krubb malicioso",
-            "Historia": "Malicious Krubb es el principal antagonista de la saga Angelica Button de TR Francis .",
+            "Historia": "Malicious Krubb es el principal antagonista de la saga Angelica Button de TR Francis.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/bd/Malicious_Krubb.png/200px-Malicious_Krubb.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1401,7 +1401,7 @@
         {
             "_id": "63e547dd6b08a3edb56c0b11",
             "Nombre": "El maestro explorador",
-            "Historia": "El Scout Master fue un personaje de la serie de televisión Radioactive Man . Fallout Boy lo describe como \"el peor villano de todos\". Tiene varios secuaces de boy scouts a su mando.",
+            "Historia": "El Scout Master fue un personaje de la serie de televisión Radioactive Man. Fallout Boy lo describe como \"el peor villano de todos\". Tiene varios secuaces de boy scouts a su mando.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/8a/The_Scout_Master.png/150px-The_Scout_Master.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1410,7 +1410,7 @@
         {
             "_id": "63e548a46b08a3edb56c0b83",
             "Nombre": "Doctor Colossus",
-            "Historia": "El doctor Hector Von Colossus es un supervillano y un científico loco que reside en Springfield .",
+            "Historia": "El doctor Hector Von Colossus es un supervillano y un científico loco que reside en Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/d/d5/Doctor_Colossus.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1419,7 +1419,7 @@
         {
             "_id": "63e548e26b08a3edb56c0ba7",
             "Nombre": "Ralph-O-Cop",
-            "Historia": "Ralph-O-Cop era un robot en el programa de televisión Robot Rumble . Era poseído por el jefe Wiggum y su hijo Ralph ",
+            "Historia": "Ralph-O-Cop era un robot en el programa de televisión Robot Rumble. Era poseído por el jefe Wiggum y su hijo Ralph ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/fa/TSTO_Ralph-O-Cop.png/250px-TSTO_Ralph-O-Cop.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1455,7 +1455,7 @@
         {
             "_id": "63e5653a6b08a3edb56c1974",
             "Nombre": "Glamorous Godfrey ",
-            "Historia": "Glamorous Godfrey o Glorious Godfrey es el alter ego luchador de Abraham Simpson .",
+            "Historia": "Glamorous Godfrey o Glorious Godfrey es el alter ego luchador de Abraham Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d4/Tapped_Out_Gorgeous_Grampa_artwork.png/200px-Tapped_Out_Gorgeous_Grampa_artwork.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1464,7 +1464,7 @@
         {
             "_id": "63e5724b6b08a3edb56c1f16",
             "Nombre": "Whitney Spuckler ",
-            "Historia": "Whitney Spuckler es una de los hijos de Cletus Spuckler y Brandine Spuckler .",
+            "Historia": "Whitney Spuckler es una de los hijos de Cletus Spuckler y Brandine Spuckler.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a8/Whitney_Spuckler.png/200px-Whitney_Spuckler.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -1473,7 +1473,7 @@
         {
             "_id": "63e572f76b08a3edb56c1f63",
             "Nombre": "Cumpleaños Spuckler",
-            "Historia": "Birthday Spuckler es uno de los hijos de Cletus y Brandine Spuckler . Lleva un saco de patatas para la ropa.",
+            "Historia": "Birthday Spuckler es uno de los hijos de Cletus y Brandine Spuckler. Lleva un saco de patatas para la ropa.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c9/Birthday_Spuckler.png/175px-Birthday_Spuckler.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1482,7 +1482,7 @@
         {
             "_id": "63e5754f6b08a3edb56c2072",
             "Nombre": "Don Vittorio DiMaggio",
-            "Historia": "Don Vittorio DiMaggio es el padrino de la mafia de Springfield .",
+            "Historia": "Don Vittorio DiMaggio es el padrino de la mafia de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/5/58/Don_Vittorio_DiMaggio.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1491,7 +1491,7 @@
         {
             "_id": "63e575a66b08a3edb56c2099",
             "Nombre": "Frankie el soplon",
-            "Historia": "Frankie the Squealer es un miembro de bajo nivel de Springfield Mafia y asociado de Fat Tony .",
+            "Historia": "Frankie the Squealer es un miembro de bajo nivel de Springfield Mafia y asociado de Fat Tony.",
             "Imagen": "https://static.simpsonswiki.com/images/1/1a/Frankie_the_Squealer.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1500,7 +1500,7 @@
         {
             "_id": "63e576486b08a3edb56c20df",
             "Nombre": "Johnny labios apretados",
-            "Historia": "Johnny Tightlips (nacido como Giovanni Silencio . Nombre legal: Jonathan Schmallippe ) es un caporegime de Springfield Mafia , que trabaja para Fat Tony .",
+            "Historia": "Johnny Tightlips (nacido como Giovanni Silencio. Nombre legal: Jonathan Schmallippe ) es un caporegime de Springfield Mafia, que trabaja para Fat Tony.",
             "Imagen": "https://static.simpsonswiki.com/images/d/d7/Johnny_Tightlips.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1509,7 +1509,7 @@
         {
             "_id": "63e5794f6b08a3edb56c2227",
             "Nombre": "Anger Watkins",
-            "Historia": "Anger Watkins es comentarista de ESBN .",
+            "Historia": "Anger Watkins es comentarista de ESBN.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b6/Anger_Watkins.png/200px-Anger_Watkins.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1518,7 +1518,7 @@
         {
             "_id": "63e57c9b6b08a3edb56c23ac",
             "Nombre": "Fatov",
-            "Historia": "Fatov es una mascota imaginaria de los Juegos Olímpicos de Invierno de 2014 en Sochi , Rusia , creada por Bart Simpson . Según Bart, Fatov representa \"el espíritu ruso de la pereza y el alcoholismo\".",
+            "Historia": "Fatov es una mascota imaginaria de los Juegos Olímpicos de Invierno de 2014 en Sochi, Rusia, creada por Bart Simpson. Según Bart, Fatov representa \"el espíritu ruso de la pereza y el alcoholismo\".",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/4e/Fatov.png/250px-Fatov.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1527,7 +1527,7 @@
         {
             "_id": "63e57dba6b08a3edb56c2430",
             "Nombre": "Ray Patterson",
-            "Historia": "Ray Patterson es el comisionado de saneamiento de Springfield . Fue elegido dieciséis años seguidos.",
+            "Historia": "Ray Patterson es el comisionado de saneamiento de Springfield. Fue elegido dieciséis años seguidos.",
             "Imagen": "https://static.simpsonswiki.com/images/4/41/Ray_Patterson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1545,7 +1545,7 @@
         {
             "_id": "63e580356b08a3edb56c254a",
             "Nombre": "Grant Connor",
-            "Historia": "Grant Connor es un cazador profesional en una cabaña de madera en Springfield Forest .",
+            "Historia": "Grant Connor es un cazador profesional en una cabaña de madera en Springfield Forest.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/83/Grant_Connor.png/200px-Grant_Connor.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1563,7 +1563,7 @@
         {
             "_id": "63e5d25c6b08a3edb56c36b2",
             "Nombre": "El príncipe Gautama",
-            "Historia": "El príncipe Gautama era el hermano de Siddmartha Gautama . Fue interpretado por Bart Simpson .",
+            "Historia": "El príncipe Gautama era el hermano de Siddmartha Gautama. Fue interpretado por Bart Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/3e/Prince_Gautama.png/180px-Prince_Gautama.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -1581,7 +1581,7 @@
         {
             "_id": "63e64e610cecc65a38429e6e",
             "Nombre": "Moog ",
-            "Historia": "Moog es un líder de pandillas y cantinero de Londres , Inglaterra , cuya voz y figura recuerdan a Moe Szyslak de Springfield .",
+            "Historia": "Moog es un líder de pandillas y cantinero de Londres, Inglaterra, cuya voz y figura recuerdan a Moe Szyslak de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/ba/Tapped_Out_Moe_Moog.png/200px-Tapped_Out_Moe_Moog.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1590,7 +1590,7 @@
         {
             "_id": "63e656460cecc65a3842a169",
             "Nombre": "El otro hijo de Kearney",
-            "Historia": "El otro hijo de Kearney es hijo de Kearney y hermano de Kearney Zzyzwicz, Jr. .",
+            "Historia": "El otro hijo de Kearney es hijo de Kearney y hermano de Kearney Zzyzwicz, Jr..",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9d/Tapped_Out_Kearney%27s_Other_Son.png/200px-Tapped_Out_Kearney%27s_Other_Son.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1634,7 +1634,7 @@
         {
             "_id": "63ec2abee398c925c5626303",
             "Nombre": "Benjamin",
-            "Historia": "Benjamin es uno de los tres nerds que conoció Homero en la Universidad de Springfield . Tiene el pelo de color naranja rojizo y es el único del trío que no usa anteojos.",
+            "Historia": "Benjamin es uno de los tres nerds que conoció Homero en la Universidad de Springfield. Tiene el pelo de color naranja rojizo y es el único del trío que no usa anteojos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9f/Benjamin.png/150px-Benjamin.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1643,7 +1643,7 @@
         {
             "_id": "63ec437a8b142917b4a26bad",
             "Nombre": "Meathook",
-            "Historia": "Meathook es uno de los Hell's Satans de Bakersfield, EE. UU .",
+            "Historia": "Meathook es uno de los Hell's Satans de Bakersfield, EE. UU.",
             "Imagen": "https://static.simpsonswiki.com/images/7/74/Meathook.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1652,7 +1652,7 @@
         {
             "_id": "63ec43b18b142917b4a26bc4",
             "Nombre": "Ramrod ",
-            "Historia": "Ramrod es un motociclista y miembro de Hell's Satans .",
+            "Historia": "Ramrod es un motociclista y miembro de Hell's Satans.",
             "Imagen": "https://static.simpsonswiki.com/images/3/3e/Ramrod.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1670,7 +1670,7 @@
         {
             "_id": "63ec45a58b142917b4a26c90",
             "Nombre": "La Sra. Scratchy",
-            "Historia": "La Sra. Scratchy es la esposa anónima de Scratchy y una víctima recurrente en The Itchy & Scratchy Show .",
+            "Historia": "La Sra. Scratchy es la esposa anónima de Scratchy y una víctima recurrente en The Itchy & Scratchy Show.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5e/Mrs._Scratchy.png/200px-Mrs._Scratchy.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1679,7 +1679,7 @@
         {
             "_id": "63ec461e8b142917b4a26cc3",
             "Nombre": "La ardilla desaprobadora ",
-            "Historia": "La ardilla desaprobadora es un personaje único de The Itchy & Scratchy Show . Su diseño se basó en Marge Simpson .",
+            "Historia": "La ardilla desaprobadora es un personaje único de The Itchy & Scratchy Show. Su diseño se basó en Marge Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c1/Disapproving_Squirrel.png/200px-Disapproving_Squirrel.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1697,7 +1697,7 @@
         {
             "_id": "63ec475e8b142917b4a26d4d",
             "Nombre": "T-Rex ",
-            "Historia": "T-Rex , o Tyrannosaurus , es el niño de una familia genial.",
+            "Historia": "T-Rex, o Tyrannosaurus, es el niño de una familia genial.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f8/T-Rex.png/150px-T-Rex.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1724,7 +1724,7 @@
         {
             "_id": "63ec4d408b142917b4a26f8b",
             "Nombre": "Booker T. Informe",
-            "Historia": "Booker T. Report , más conocido como Report Card , es miembro de The Superfriends .",
+            "Historia": "Booker T. Report, más conocido como Report Card, es miembro de The Superfriends.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/6/6d/Report_Card.png/200px-Report_Card.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1733,7 +1733,7 @@
         {
             "_id": "63ec4ef28b142917b4a27043",
             "Nombre": "El profesor Werner von Brawn ",
-            "Historia": "El profesor Werner von Brawn es un luchador profesional de World Class Wrestling .",
+            "Historia": "El profesor Werner von Brawn es un luchador profesional de World Class Wrestling.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/41/Werner_von_Brawn.png/200px-Werner_von_Brawn.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1742,7 +1742,7 @@
         {
             "_id": "63ec51bb8b142917b4a27169",
             "Nombre": "Marge Ziff",
-            "Historia": "Marge Ziff es el nombre de una versión alternativa de Marge Simpson .",
+            "Historia": "Marge Ziff es el nombre de una versión alternativa de Marge Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/82/Marge_Ziff.png/200px-Marge_Ziff.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1751,7 +1751,7 @@
         {
             "_id": "63e4882a7de1feab294275c7",
             "Nombre": "Fat Tony",
-            "Historia": "Fat Tony , originalmente conocido como Fit Tony y luego Fit-Fat Tony , es el primo con sobrepeso del Fat Tony original . Se hizo cargo de la mafia de Springfield después de la muerte de su primo.",
+            "Historia": "Fat Tony, originalmente conocido como Fit Tony y luego Fit-Fat Tony, es el primo con sobrepeso del Fat Tony original. Se hizo cargo de la mafia de Springfield después de la muerte de su primo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/3c/Fit_Tony.png/200px-Fit_Tony.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1760,7 +1760,7 @@
         {
             "_id": "63e488627de1feab294275ef",
             "Nombre": "Leon Kompowsky",
-            "Historia": "Leon Kompowsky es un ex paciente mental. El personal del hospital inicialmente creyó que él estaba bajo la ilusión de que él era Michael Jackson , refiriéndose a él como el \"gran hombre blanco que piensa que es el pequeño hombre negro\"",
+            "Historia": "Leon Kompowsky es un ex paciente mental. El personal del hospital inicialmente creyó que él estaba bajo la ilusión de que él era Michael Jackson, refiriéndose a él como el \"gran hombre blanco que piensa que es el pequeño hombre negro\"",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/3f/Leon_Kompowsky.png/220px-Leon_Kompowsky.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1778,7 +1778,7 @@
         {
             "_id": "63e5283c6b08a3edb56bf93f",
             "Nombre": "Orville J. Simpson",
-            "Historia": "Orville J. Simpson , o Great-Grampa Simpson , nació a fines del siglo XIX en \"The Old Country\", que podría haber sido en Irlanda , Escocia o Canadá .",
+            "Historia": "Orville J. Simpson, o Great-Grampa Simpson, nació a fines del siglo XIX en \"The Old Country\", que podría haber sido en Irlanda, Escocia o Canadá.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b8/Orville_Simpson.png/150px-Orville_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -1787,7 +1787,7 @@
         {
             "_id": "63e528806b08a3edb56bf970",
             "Nombre": "Edwina",
-            "Historia": "Edwina es una mujer con la que Abe Simpson tuvo una relación mientras estaba estacionado en Inglaterra durante la Segunda Guerra Mundial . Ella es la madre de Abbey .",
+            "Historia": "Edwina es una mujer con la que Abe Simpson tuvo una relación mientras estaba estacionado en Inglaterra durante la Segunda Guerra Mundial. Ella es la madre de Abbey.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/93/Edwina.png/200px-Edwina.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -1805,7 +1805,7 @@
         {
             "_id": "63e529376b08a3edb56bf9f1",
             "Nombre": "El \"Viejo Tut\" Simpson",
-            "Historia": "\"Old Tut\" Simpson era el esposo de \"Happy\" Simpson . Tuvieron cuatro hijos; Orville , Bonita , Elrita y Twitta Simpson ",
+            "Historia": "\"Old Tut\" Simpson era el esposo de \"Happy\" Simpson. Tuvieron cuatro hijos; Orville, Bonita, Elrita y Twitta Simpson ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/42/%22Old_Tut%22_Simpson.png/200px-%22Old_Tut%22_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -1832,7 +1832,7 @@
         {
             "_id": "63e52c9d6b08a3edb56bfc4c",
             "Nombre": "Papá Noel",
-            "Historia": "Santa Claus , también conocido como Kris Kringle , es un hombre destartalado que lleva regalos a niños y niñas.",
+            "Historia": "Santa Claus, también conocido como Kris Kringle, es un hombre destartalado que lleva regalos a niños y niñas.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e0/Santa_Claus_%28The_Fight_Before_Christmas%29.png/200px-Santa_Claus_%28The_Fight_Before_Christmas%29.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1850,7 +1850,7 @@
         {
             "_id": "63e52efc6b08a3edb56bfdee",
             "Nombre": "Tab Spangler",
-            "Historia": "Tab Spangler es el director de Serenity Ranch , un campamento para gordos de máxima seguridad al que asistió Bart después de engordar con los bocadillos Scammer & Z-Dog de las máquinas expendedoras de la escuela.",
+            "Historia": "Tab Spangler es el director de Serenity Ranch, un campamento para gordos de máxima seguridad al que asistió Bart después de engordar con los bocadillos Scammer & Z-Dog de las máquinas expendedoras de la escuela.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/0e/Tab_Spangler.png/200px-Tab_Spangler.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1859,7 +1859,7 @@
         {
             "_id": "63e52fa46b08a3edb56bfe61",
             "Nombre": "Raoul ",
-            "Historia": "Raoul es un hombre que Abraham Simpson conoció en Miami Beach .",
+            "Historia": "Raoul es un hombre que Abraham Simpson conoció en Miami Beach.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f8/Raoul.png/190px-Raoul.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1895,7 +1895,7 @@
         {
             "_id": "63e53a9a6b08a3edb56c0304",
             "Nombre": "Conde Drácula",
-            "Historia": "El conde Drácula es un vampiro de Transilvania. Es miembro del Partido Republicano de Springfield .",
+            "Historia": "El conde Drácula es un vampiro de Transilvania. Es miembro del Partido Republicano de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/54/Count_Dracula.png/200px-Count_Dracula.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1904,7 +1904,7 @@
         {
             "_id": "63e53c876b08a3edb56c043c",
             "Nombre": "Lisafer ",
-            "Historia": "Lisafer es el personaje del infierno de Lisa Simpson .",
+            "Historia": "Lisafer es el personaje del infierno de Lisa Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/35/Lisafer_Simpson.png/200px-Lisafer_Simpson.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -1913,7 +1913,7 @@
         {
             "_id": "63e53da76b08a3edb56c04f1",
             "Nombre": "Técnico demoníaco",
-            "Historia": "El demonio técnico es un demonio en el Infierno .",
+            "Historia": "El demonio técnico es un demonio en el Infierno.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/fc/Demon_technician.png/250px-Demon_technician.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -1940,7 +1940,7 @@
         {
             "_id": "63e541416b08a3edb56c0727",
             "Nombre": "Everyman ",
-            "Historia": "Everyman ( Avery Mann ) es un superhéroe creado por Comic Book Guy . Homero Simpson lo interpreta en la adaptación cinematográfica",
+            "Historia": "Everyman ( Avery Mann ) es un superhéroe creado por Comic Book Guy. Homero Simpson lo interpreta en la adaptación cinematográfica",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d5/Everyman.png/200px-Everyman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -1976,7 +1976,7 @@
         {
             "_id": "63e542f66b08a3edb56c0834",
             "Nombre": "Bruja",
-            "Historia": "La bruja es una bruja que visitó Springfield .",
+            "Historia": "La bruja es una bruja que visitó Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e6/Witch.png/200px-Witch.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -2021,7 +2021,7 @@
         {
             "_id": "63e546af6b08a3edb56c0a5c",
             "Nombre": "Los Seres Etéreos",
-            "Historia": "Los Seres Etéreos son alienígenas blancos y celestes. Viven en un planeta rocoso sin nombre .",
+            "Historia": "Los Seres Etéreos son alienígenas blancos y celestes. Viven en un planeta rocoso sin nombre.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/a/a1/Ethereal_Beings.png/250px-Ethereal_Beings.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2030,7 +2030,7 @@
         {
             "_id": "63e5473e6b08a3edb56c0ab3",
             "Nombre": "El vendedor de patas de mono",
-            "Historia": "El vendedor de patas de mono es un vendedor de Marrakech , Marruecos .",
+            "Historia": "El vendedor de patas de mono es un vendedor de Marrakech, Marruecos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/43/Monkey_paw_seller.png/250px-Monkey_paw_seller.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2039,7 +2039,7 @@
         {
             "_id": "63e5491e6b08a3edb56c0bca",
             "Nombre": "Oso Robot",
-            "Historia": "Bear Robot es un robot que el profesor Frink construyó para el Sr. Burns .",
+            "Historia": "Bear Robot es un robot que el profesor Frink construyó para el Sr. Burns.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/82/Bear_Robot.png/250px-Bear_Robot.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -2048,7 +2048,7 @@
         {
             "_id": "63e54a166b08a3edb56c0c58",
             "Nombre": "Hijo del profesor Frink",
-            "Historia": "El hijo del profesor Frink es hijo del profesor Frink y nieto de Jonathan Frink, Sr. . Lleva gafas gruesas como su padre y aparatos ortopédicos.",
+            "Historia": "El hijo del profesor Frink es hijo del profesor Frink y nieto de Jonathan Frink, Sr.. Lleva gafas gruesas como su padre y aparatos ortopédicos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/99/Professor_Frink%27s_son.png/250px-Professor_Frink%27s_son.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2066,7 +2066,7 @@
         {
             "_id": "63e550576b08a3edb56c0f60",
             "Nombre": "Chester Dupree",
-            "Historia": "Chester Dupree es el hermano desempleado de Bernice Hibbert .",
+            "Historia": "Chester Dupree es el hermano desempleado de Bernice Hibbert.",
             "Imagen": "https://static.simpsonswiki.com/images/3/36/Chester_Dupree.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2102,7 +2102,7 @@
         {
             "_id": "63e55cd96b08a3edb56c156a",
             "Nombre": "Richard Nixon ",
-            "Historia": "Richard Nixon fue un ex presidente y vicepresidente de los Estados Unidos . Se desempeñó como presidente de 1969 a 1974 y anteriormente se desempeñó como vicepresidente de 1953 a 1961 bajo Dwight D. Eisenhower . Después de su mandato como presidente, Nixon pasó algún tiempo en Springfield .",
+            "Historia": "Richard Nixon fue un ex presidente y vicepresidente de los Estados Unidos. Se desempeñó como presidente de 1969 a 1974 y anteriormente se desempeñó como vicepresidente de 1953 a 1961 bajo Dwight D. Eisenhower. Después de su mandato como presidente, Nixon pasó algún tiempo en Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/81/Richard_Nixon.png/200px-Richard_Nixon.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2111,7 +2111,7 @@
         {
             "_id": "63e55d9f6b08a3edb56c15ce",
             "Nombre": "Ronald Reagan",
-            "Historia": "Ronald Reagan fue un ex actor de cine que más tarde se convirtió en el 40º presidente de los Estados Unidos , sirviendo desde 1981 hasta 1989.",
+            "Historia": "Ronald Reagan fue un ex actor de cine que más tarde se convirtió en el 40º presidente de los Estados Unidos, sirviendo desde 1981 hasta 1989.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/1b/Ronald_Reagan.png/200px-Ronald_Reagan.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2120,7 +2120,7 @@
         {
             "_id": "63e55fa46b08a3edb56c16b8",
             "Nombre": "Pete Guapo",
-            "Historia": "Handsome Pete es un personaje extraño, diminuto y pequeño que toca la concertina y cuyo rostro se asemeja a un Krusty the Clown distorsionado .",
+            "Historia": "Handsome Pete es un personaje extraño, diminuto y pequeño que toca la concertina y cuyo rostro se asemeja a un Krusty the Clown distorsionado.",
             "Imagen": "https://static.simpsonswiki.com/images/8/8a/Handsome_Pete.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2129,7 +2129,7 @@
         {
             "_id": "63e560046b08a3edb56c16da",
             "Nombre": "Sr. Pettigrew",
-            "Historia": "El Sr. Pettigrew , mejor conocido como el tipo del sí , también conocido como el tipo de Frank Nelson , pero normalmente referido en el programa como Ese idiota que se pone Ye-ee-es (o nombres similares) por Homer , es residente de Springfield . Es conocido por gritar \"¡¿Ye-ee-es?!\" en una inflexión ascendente, y parece ser muy excéntrico tanto en su forma de hablar como en su apariencia.",
+            "Historia": "El Sr. Pettigrew, mejor conocido como el tipo del sí, también conocido como el tipo de Frank Nelson, pero normalmente referido en el programa como Ese idiota que se pone Ye-ee-es (o nombres similares) por Homer, es residente de Springfield. Es conocido por gritar \"¡¿Ye-ee-es?!\" en una inflexión ascendente, y parece ser muy excéntrico tanto en su forma de hablar como en su apariencia.",
             "Imagen": "https://static.simpsonswiki.com/images/9/9d/Yes_Guy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2165,7 +2165,7 @@
         {
             "_id": "63e564e76b08a3edb56c194b",
             "Nombre": "McBain ",
-            "Historia": "McBain es un héroe de acción cinematográfico interpretado por el actor Rainier Wolfcastle en las películas de McBain .",
+            "Historia": "McBain es un héroe de acción cinematográfico interpretado por el actor Rainier Wolfcastle en las películas de McBain.",
             "Imagen": "https://static.simpsonswiki.com/images/6/68/McBain_2.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -2174,7 +2174,7 @@
         {
             "_id": "63e565836b08a3edb56c1999",
             "Nombre": "Flanders el Diablo",
-            "Historia": "Flanders the Devil (también conocido como \"The Devil Flanders\" ) es el diablo en la forma de Ned Flanders .",
+            "Historia": "Flanders the Devil (también conocido como \"The Devil Flanders\" ) es el diablo en la forma de Ned Flanders.",
             "Imagen": "https://static.simpsonswiki.com/images/7/7c/Devil_Flanders.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -2183,7 +2183,7 @@
         {
             "_id": "63e5729c6b08a3edb56c1f3a",
             "Nombre": "Dubya Spuckler",
-            "Historia": "Dubya Spuckler es uno de los hijos de Cletus y Brandine Spuckler .",
+            "Historia": "Dubya Spuckler es uno de los hijos de Cletus y Brandine Spuckler.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/12/Dubya_Spuckler.png/150px-Dubya_Spuckler.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2192,7 +2192,7 @@
         {
             "_id": "63e573406b08a3edb56c1f84",
             "Nombre": "Entrenador Krupt",
-            "Historia": "El entrenador Krupt es un profesor de gimnasia sádico en la escuela primaria de Springfield que está obsesionado con el juego Bombardment .",
+            "Historia": "El entrenador Krupt es un profesor de gimnasia sádico en la escuela primaria de Springfield que está obsesionado con el juego Bombardment.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/91/Coach_Krupt.png/200px-Coach_Krupt.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2201,7 +2201,7 @@
         {
             "_id": "63e573c46b08a3edb56c1fc1",
             "Nombre": "Leopold ",
-            "Historia": "Leopold es el asistente del superintendente de Gary Chalmers . Es un hombre grande, hosco y gruñón.",
+            "Historia": "Leopold es el asistente del superintendente de Gary Chalmers. Es un hombre grande, hosco y gruñón.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/2d/Leopold.png/200px-Leopold.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2300,7 +2300,7 @@
         {
             "_id": "63e583ce6b08a3edb56c26d6",
             "Nombre": "Número uno",
-            "Historia": "El \"Número Uno\" es el jefe de los Magios. No se sabe mucho sobre el Número Uno, excepto que es un Magio leal y se elevó por encima de las filas para liderar el capítulo de Springfield. Con alegría, somete a los nuevos reclutas a torturas como \"la travesía del desierto\", \"el ojo sin pestañear\" y \"remar el culo hinchado ... con paletas\"",
+            "Historia": "El \"Número Uno\" es el jefe de los Magios. No se sabe mucho sobre el Número Uno, excepto que es un Magio leal y se elevó por encima de las filas para liderar el capítulo de Springfield. Con alegría, somete a los nuevos reclutas a torturas como \"la travesía del desierto\", \"el ojo sin pestañear\" y \"remar el culo hinchado... con paletas\"",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9a/Number_One.png/200px-Number_One.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2327,7 +2327,7 @@
         {
             "_id": "63ec51f68b142917b4a27181",
             "Nombre": "Capitán Mardoqueo",
-            "Historia": "El Capitán Mordecai es el principal antagonista de la novela romántica de Marge , The Harpooned Heart . El personaje se inspiró en Homero Simpson .",
+            "Historia": "El Capitán Mordecai es el principal antagonista de la novela romántica de Marge, The Harpooned Heart. El personaje se inspiró en Homero Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/27/Captain_Mordecai.png/200px-Captain_Mordecai.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2345,7 +2345,7 @@
         {
             "_id": "63ec525f8b142917b4a271ae",
             "Nombre": "Titania",
-            "Historia": "Titania es una camarera que ha trabajado en Juggernauts y Knockers. Compitió en el concurso \"Beer-Tender of the Year\" en el festival Duff Days . Titania tiene senos muy grandes y los usa a su favor.",
+            "Historia": "Titania es una camarera que ha trabajado en Juggernauts y Knockers. Compitió en el concurso \"Beer-Tender of the Year\" en el festival Duff Days. Titania tiene senos muy grandes y los usa a su favor.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/24/Titania.png/200px-Titania.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -2435,7 +2435,7 @@
         {
             "_id": "63edac6af18e28087449752e",
             "Nombre": "Nurse Farrell",
-            "Historia": "La señorita Phipps , también conocida como la enfermera Farrell , es una de las enfermeras escolares de la Escuela Primaria Springfield junto con Lunchlady Dora , que también es enfermera.",
+            "Historia": "La señorita Phipps, también conocida como la enfermera Farrell, es una de las enfermeras escolares de la Escuela Primaria Springfield junto con Lunchlady Dora, que también es enfermera.",
             "Imagen": "https://static.wikia.nocookie.net/simpsons/images/4/4b/MsPhipps.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -2531,7 +2531,7 @@
         {
             "_id": "63ec29485d30fabfe4502bf5",
             "Nombre": "James Bont",
-            "Historia": "El agente James Bont es un agente secreto y enemigo del genio maligno y director ejecutivo de Globex Corporation , Hank Scorpio.",
+            "Historia": "El agente James Bont es un agente secreto y enemigo del genio maligno y director ejecutivo de Globex Corporation, Hank Scorpio.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9a/Agent_Bont.png/150px-Agent_Bont.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2648,7 +2648,7 @@
         {
             "_id": "63ec5a4f8b142917b4a274ee",
             "Nombre": "Bola de Nieve I",
-            "Historia": "Snowball (también conocido como Snowball I ) fue el primer gato propiedad de Lisa. Le siguieron Snowball II , Snowball III , Snowball IV y Snowball V. Fue la primera mascota de la familia, seguida por Snowball II y Santa's Little Helper.",
+            "Historia": "Snowball (también conocido como Snowball I ) fue el primer gato propiedad de Lisa. Le siguieron Snowball II, Snowball III, Snowball IV y Snowball V. Fue la primera mascota de la familia, seguida por Snowball II y Santa's Little Helper.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/59/Snowball_I.png/250px-Snowball_I.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2657,7 +2657,7 @@
         {
             "_id": "63ec5b1a8b142917b4a27540",
             "Nombre": "Barbanegra",
-            "Historia": "Barbanegra , nombre real Edward Teach , era un pirata notorio.",
+            "Historia": "Barbanegra, nombre real Edward Teach, era un pirata notorio.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d2/Blackbeard.png/220px-Blackbeard.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -2747,7 +2747,7 @@
         {
             "_id": "63ec657a8b142917b4a27959",
             "Nombre": "Egg Council Guy",
-            "Historia": "Egg Council Guy se ve cuando Homero descubre una sociedad secreta, llamada Stonecutters , con miembros que son sus amigos.",
+            "Historia": "Egg Council Guy se ve cuando Homero descubre una sociedad secreta, llamada Stonecutters, con miembros que son sus amigos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/fd/Egg_Council_Guy.png/250px-Egg_Council_Guy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2765,7 +2765,7 @@
         {
             "_id": "63ee4ae33f77c15ce06110d8",
             "Nombre": "Mister Chispa",
-            "Historia": "Mr. Sparkle (ミスタースパーコルMisutasupakoru ), conocido en japonés como Misutā Supākoru , es una mascota japonesa de detergente para lavar platos que tiene un gran parecido con Homero.",
+            "Historia": "Mr. Sparkle (ミスタースパーコルMisutasupakoru ), conocido en japonés como Misutā Supākoru, es una mascota japonesa de detergente para lavar platos que tiene un gran parecido con Homero.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e4/Mr._Sparkle.png/250px-Mr._Sparkle.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -2883,7 +2883,7 @@
         {
             "_id": "63e33271edf49032166d3a36",
             "Nombre": "Jardinero Willie",
-            "Historia": "El Dr. William Willie MacDougal , más conocido como el jardinero Willie y también conocido como GK Willington y William MacMoran , es el jardinero y conserje de la Escuela Primaria Springfield. Escocés de ascendencia, el trabajo de Willie es supervisar a los niños de la Escuela durante el recreo y limpiar los pasillos. Es reconocible por su cabello rojo y su marcado acento escocés. A menudo es un enemigo formidable o un aliado invaluable para Bart y Lisa.",
+            "Historia": "El Dr. William Willie MacDougal, más conocido como el jardinero Willie y también conocido como GK Willington y William MacMoran, es el jardinero y conserje de la Escuela Primaria Springfield. Escocés de ascendencia, el trabajo de Willie es supervisar a los niños de la Escuela durante el recreo y limpiar los pasillos. Es reconocible por su cabello rojo y su marcado acento escocés. A menudo es un enemigo formidable o un aliado invaluable para Bart y Lisa.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9d/Groundskeeper_Willie.png/250px-Groundskeeper_Willie.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2892,7 +2892,7 @@
         {
             "_id": "63e3330eedf49032166d44aa",
             "Nombre": "Patty Bouvier",
-            "Historia": "Patricia Patty Maleficent Bouvier es la menor de las cínicas hermanas gemelas fumadoras empedernidas de Marge , que trabaja en el Departamento de Vehículos Motorizados o (DMV). Al igual que su gemela Selma , siente una fuerte aversión por Homero. Patty es lesbiana.",
+            "Historia": "Patricia Patty Maleficent Bouvier es la menor de las cínicas hermanas gemelas fumadoras empedernidas de Marge, que trabaja en el Departamento de Vehículos Motorizados o (DMV). Al igual que su gemela Selma, siente una fuerte aversión por Homero. Patty es lesbiana.",
             "Imagen": "https://static.simpsonswiki.com/images/f/f8/Patty_Bouvier.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -2902,7 +2902,7 @@
         {
             "_id": "63e3336eedf49032166d4b12",
             "Nombre": "Selma Bouvier",
-            "Historia": "Selma Bouvier-Terwilliger-Hutz-McClure-Discothèque-Simpson-D'Amico o Selma Bouvier es una de las hermanas gemelas fumadoras empedernidas de Marge , que trabaja en el DMV y siente una fuerte aversión por su cuñado. Homero _ Selma es la madre adoptiva de Ling ",
+            "Historia": "Selma Bouvier-Terwilliger-Hutz-McClure-Discothèque-Simpson-D'Amico o Selma Bouvier es una de las hermanas gemelas fumadoras empedernidas de Marge, que trabaja en el DMV y siente una fuerte aversión por su cuñado. Homero _ Selma es la madre adoptiva de Ling ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/ba/Selma_Bouvier.png/250px-Selma_Bouvier.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -2911,7 +2911,7 @@
         {
             "_id": "63e335d9edf49032166d73df",
             "Nombre": "Moe Szyslak",
-            "Historia": "Moammar Moe Szyslak , también conocido como Morris Szyslak , es el propietario y cantinero de  Moe's Tavern , un bar de Springfield frecuentado por Homer Simpson , Barney Gumble , Lenny Leonard , Carl Carlson , Sam , Larry y otros.",
+            "Historia": "Moammar Moe Szyslak, también conocido como Morris Szyslak, es el propietario y cantinero de  Moe's Tavern, un bar de Springfield frecuentado por Homer Simpson, Barney Gumble, Lenny Leonard, Carl Carlson, Sam, Larry y otros.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/80/Moe_Szyslak.png/230px-Moe_Szyslak.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2929,7 +2929,7 @@
         {
             "_id": "63e33957edf49032166dae47",
             "Nombre": "Kent Brockman",
-            "Historia": "Brock Kentman , una vez conocido como Kenny Brockelstein en su carrera temprana, y ahora como Kent Brockman , es una 'personalidad' de noticias de televisión local para Channel 6. Presenta Channel 6 News , Eye on Springfield y Smartline.",
+            "Historia": "Brock Kentman, una vez conocido como Kenny Brockelstein en su carrera temprana, y ahora como Kent Brockman, es una 'personalidad' de noticias de televisión local para Channel 6. Presenta Channel 6 News, Eye on Springfield y Smartline.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/16/Kent_Brockman.png/250px-Kent_Brockman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2957,7 +2957,7 @@
         {
             "_id": "63e3bbaf958741730f851edb",
             "Nombre": "Tony, el gordo",
-            "Historia": "Marion Anthony Tony D'Amico , también conocido como William Williams o, más comúnmente, Fat Tony , es el capo de la mafia de Springfield. Ha estado detrás de varias de las empresas criminales de Springfield. Sus raquetas incluyen apuestas ilegales, contrabando de cigarrillos y contrabando. También se le ha visto sobornando y haciendo tratos secretos con el alcalde Quimby.",
+            "Historia": "Marion Anthony Tony D'Amico, también conocido como William Williams o, más comúnmente, Fat Tony, es el capo de la mafia de Springfield. Ha estado detrás de varias de las empresas criminales de Springfield. Sus raquetas incluyen apuestas ilegales, contrabando de cigarrillos y contrabando. También se le ha visto sobornando y haciendo tratos secretos con el alcalde Quimby.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/ec/Fat_Tony.png/200px-Fat_Tony.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2966,7 +2966,7 @@
         {
             "_id": "63e3bf75958741730f855609",
             "Nombre": "Jonathan Frink",
-            "Historia": "El profesor Jonathan John IQ Neidelbaum Frink , más conocido simplemente como Profesor Frink y una vez llamado Doctor Frink , es el científico local y profesor universitario de Springfield , y es extremadamente brillante, aunque algo socialmente inepto",
+            "Historia": "El profesor Jonathan John IQ Neidelbaum Frink, más conocido simplemente como Profesor Frink y una vez llamado Doctor Frink, es el científico local y profesor universitario de Springfield, y es extremadamente brillante, aunque algo socialmente inepto",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/3b/Jonathan_Frink.png/200px-Jonathan_Frink.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2984,7 +2984,7 @@
         {
             "_id": "63e3cab8958741730f85f101",
             "Nombre": "Üter Zörker",
-            "Historia": "Üter Zörker es un estudiante de intercambio con sobrepeso en la Escuela Primaria Springfield de Bavaria , Alemania. Se sabe poco sobre Üter, aunque se destaca por su obesidad, que tiende a causarle desgracias. Está obsesionado con los dulces, especialmente con el chocolate.",
+            "Historia": "Üter Zörker es un estudiante de intercambio con sobrepeso en la Escuela Primaria Springfield de Bavaria, Alemania. Se sabe poco sobre Üter, aunque se destaca por su obesidad, que tiende a causarle desgracias. Está obsesionado con los dulces, especialmente con el chocolate.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f3/Uter_Zorker.png/200px-Uter_Zorker.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -2993,7 +2993,7 @@
         {
             "_id": "63e3cb00958741730f85f4c9",
             "Nombre": "Allison Taylor",
-            "Historia": "Allison Taylor es una estudiante de Springfield Elementary. Allison es tan inteligente como (o más inteligente que) Lisa , más joven (habiéndose saltado un grado) y, como Lisa, una joven maestra del saxofón.",
+            "Historia": "Allison Taylor es una estudiante de Springfield Elementary. Allison es tan inteligente como (o más inteligente que) Lisa, más joven (habiéndose saltado un grado) y, como Lisa, una joven maestra del saxofón.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c3/Allison_Taylor.png/200px-Allison_Taylor.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3011,7 +3011,7 @@
         {
             "_id": "63e3ccae958741730f860ac6",
             "Nombre": "Jesse Grass",
-            "Historia": "Jesse Grass es el líder adolescente de un club llamado Dirt First , que protesta contra las cosas que son dañinas para el medio ambiente, como la Krusty Burger. Es un vegano de nivel cinco, lo que significa que se niega a comer cualquier cosa que proyecte una sombra. Lisa se enamoró de él.",
+            "Historia": "Jesse Grass es el líder adolescente de un club llamado Dirt First, que protesta contra las cosas que son dañinas para el medio ambiente, como la Krusty Burger. Es un vegano de nivel cinco, lo que significa que se niega a comer cualquier cosa que proyecte una sombra. Lisa se enamoró de él.",
             "Imagen": "https://static.simpsonswiki.com/images/2/21/Jesse_Grass.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3083,7 +3083,7 @@
         {
             "_id": "63e3e5df958741730f87078a",
             "Nombre": "Agnes Skinner",
-            "Historia": "Agnes Skinner es la estricta y amargada madre de Seymour Skinner. Ella controla muy duramente a Seymour y lo trata como una madre trataría a un niño pequeño, una vez lo castigó porque no dijo quién estaba en la puerta después de abrir. Odia la elección de mujeres de Seymour, especialmente Edna Krabappel. Agnes se ha casado un total de cuatro veces, una vez con el padre de Skinner, Sheldon Skinner , y luego de la muerte de Sheldon se casó tres veces más, cada vez con un conductor de grúa.",
+            "Historia": "Agnes Skinner es la estricta y amargada madre de Seymour Skinner. Ella controla muy duramente a Seymour y lo trata como una madre trataría a un niño pequeño, una vez lo castigó porque no dijo quién estaba en la puerta después de abrir. Odia la elección de mujeres de Seymour, especialmente Edna Krabappel. Agnes se ha casado un total de cuatro veces, una vez con el padre de Skinner, Sheldon Skinner, y luego de la muerte de Sheldon se casó tres veces más, cada vez con un conductor de grúa.",
             "Imagen": "https://static.simpsonswiki.com/images/7/7d/Agnes_Skinner.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3110,7 +3110,7 @@
         {
             "_id": "63e421df958741730f873d49",
             "Nombre": "El Tejano Rico",
-            "Historia": "Richard Rich Texan , también conocido como The Rich Texan , es un empresario rico, egoísta, insensible, pero gregario, de Springfield. Viste un traje color canela con una corbata de bolo y un sombrero de vaquero blanco (que usó el día que le dispararon a Kennedy), y tiene más de 70 años.",
+            "Historia": "Richard Rich Texan, también conocido como The Rich Texan, es un empresario rico, egoísta, insensible, pero gregario, de Springfield. Viste un traje color canela con una corbata de bolo y un sombrero de vaquero blanco (que usó el día que le dispararon a Kennedy), y tiene más de 70 años.",
             "Imagen": "https://static.simpsonswiki.com/images/2/2d/The_Rich_Texan.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3137,7 +3137,7 @@
         {
             "_id": "63e426d7958741730f8742cf",
             "Nombre": "Kang Johnson",
-            "Historia": "Kang Johnson es un rigeliano de Rigel 7. Está casado con Kodos , pero originalmente fue retratado como el hermano de Kodos. Juntos, Kang y Kodos intentan apoderarse de la Tierra y generalmente se los ve atacando Springfield.",
+            "Historia": "Kang Johnson es un rigeliano de Rigel 7. Está casado con Kodos, pero originalmente fue retratado como el hermano de Kodos. Juntos, Kang y Kodos intentan apoderarse de la Tierra y generalmente se los ve atacando Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/78/Kang.png/250px-Kang.png",
             "Genero": "Desconocido",
             "Estado": "Vivo",
@@ -3227,7 +3227,7 @@
         {
             "_id": "63e466f17de1feab29425b35",
             "Nombre": "Primo",
-            "Historia": "Primo , también conocido como Big Alberto , es un mafioso que trabaja con Dante Calabresi, Sr. y Dante Calabresi, Jr",
+            "Historia": "Primo, también conocido como Big Alberto, es un mafioso que trabaja con Dante Calabresi, Sr. y Dante Calabresi, Jr",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/45/Primo.png/200px-Primo.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3236,7 +3236,7 @@
         {
             "_id": "63e4673b7de1feab29425b7e",
             "Nombre": "El Monstruo del Lago Ness",
-            "Historia": "El Monstruo del Lago Ness , también conocido como Nessie , era una criatura legendaria que se decía que existía en el Lago Ness , Escocia.",
+            "Historia": "El Monstruo del Lago Ness, también conocido como Nessie, era una criatura legendaria que se decía que existía en el Lago Ness, Escocia.",
             "Imagen": "https://static.simpsonswiki.com/images/5/56/Loch_Ness_Monster.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3263,7 +3263,7 @@
         {
             "_id": "63e46c067de1feab29426005",
             "Nombre": "Capri Flanders",
-            "Historia": "Capri \"Kookie\" Flanders ( de soltera Turnipseed ), también conocida como Mona Flanders  y Agnes Flanders ,  es la madre de Nediana y Ned Flanders , la esposa de Nedward Flanders Sr. y la paterna abuela de Rod y Todd",
+            "Historia": "Capri \"Kookie\" Flanders ( de soltera Turnipseed ), también conocida como Mona Flanders  y Agnes Flanders,  es la madre de Nediana y Ned Flanders, la esposa de Nedward Flanders Sr. y la paterna abuela de Rod y Todd",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/52/Capri_Flanders.png/200px-Capri_Flanders.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3327,7 +3327,7 @@
         {
             "_id": "63e474897de1feab29426780",
             "Nombre": "Nibbles ",
-            "Historia": "Nibbles era una mascota de clase en la Escuela Primaria Springfield , aunque parecía dejar la escuela.",
+            "Historia": "Nibbles era una mascota de clase en la Escuela Primaria Springfield, aunque parecía dejar la escuela.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d4/Nibbles.png/250px-Nibbles.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3418,7 +3418,7 @@
         {
             "_id": "63e2c04de6c69920933ff317",
             "Nombre": "Milhouse Van Houten",
-            "Historia": "Milhouse Mussolini  Van Houten (nacido el 4 de julio  ) es el mejor amigo de Bart Simpson. Como hijo único de Kirk y Luann Van Houten , los rasgos físicos más distintivos de Milhouse son su miopía extrema (representada por ojos muy pequeños), que requiere anteojos gruesos para corregir, y una nariz bulbosa en forma de papa. Milhouse tiene el color de su madre (cabello azul) pero no su vivacidad o confianza, y comparte el comportamiento generalmente tímido y derrotado de su padre, aunque Milhouse a veces se vuelve arrogante y demasiado confiado, levantando las cejas lascivamente, generalmente mientras intenta cortejar a Lisa.",
+            "Historia": "Milhouse Mussolini  Van Houten (nacido el 4 de julio  ) es el mejor amigo de Bart Simpson. Como hijo único de Kirk y Luann Van Houten, los rasgos físicos más distintivos de Milhouse son su miopía extrema (representada por ojos muy pequeños), que requiere anteojos gruesos para corregir, y una nariz bulbosa en forma de papa. Milhouse tiene el color de su madre (cabello azul) pero no su vivacidad o confianza, y comparte el comportamiento generalmente tímido y derrotado de su padre, aunque Milhouse a veces se vuelve arrogante y demasiado confiado, levantando las cejas lascivamente, generalmente mientras intenta cortejar a Lisa.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/11/Milhouse_Van_Houten.png/230px-Milhouse_Van_Houten.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3428,7 +3428,7 @@
         {
             "_id": "63e2c147e6c69920933ff319",
             "Nombre": "Abadía",
-            "Historia": "Abbey es la hija de Edwina , una mujer con la que Abraham Simpson tuvo una relación breve mientras estuvo estacionado en Inglaterra durante la Segunda Guerra Mundial",
+            "Historia": "Abbey es la hija de Edwina, una mujer con la que Abraham Simpson tuvo una relación breve mientras estuvo estacionado en Inglaterra durante la Segunda Guerra Mundial",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/93/Abbey.png/262px-Abbey.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3437,7 +3437,7 @@
         {
             "_id": "63e32ae6edf49032166cb9a1",
             "Nombre": "Reverendo Alegria",
-            "Historia": "El Reverendo Timothy Lovejoy, Jr. también conocido como Reverendo Lovejoy , es el reverendo local en Springfield , más precisamente, de la Primera Iglesia de Springfield.",
+            "Historia": "El Reverendo Timothy Lovejoy, Jr. también conocido como Reverendo Lovejoy, es el reverendo local en Springfield, más precisamente, de la Primera Iglesia de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c1/Timothy_Lovejoy%2C_Jr..png/250px-Timothy_Lovejoy%2C_Jr..png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3465,7 +3465,7 @@
         {
             "_id": "63e337e7edf49032166d9652",
             "Nombre": "Larry",
-            "Historia": "Larry es uno de los dos barflis que se ven normalmente en Moe's Tavern , el otro es Sam. Prácticamente no se sabe nada sobre ellos. Larry tiene una cabeza calva.",
+            "Historia": "Larry es uno de los dos barflis que se ven normalmente en Moe's Tavern, el otro es Sam. Prácticamente no se sabe nada sobre ellos. Larry tiene una cabeza calva.",
             "Imagen": "/assets/img/imagenes-faltantes/larry.webp",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3474,7 +3474,7 @@
         {
             "_id": "63e33a39edf49032166dbcea",
             "Nombre": "Horacio McCallister",
-            "Historia": "Horatio McCallister , más conocido como el Capitán del Mar o el Capitán McCallister (también Pete ), es un residente de Springfield. Siempre se le ha visto sosteniendo una pipa de mazorca de maíz y entrecerrando los ojos: porque tiene al menos un ojo de vidrio, aunque una vez se lo vio tocándose ambos ojos y dice que tiene 'dos ​​ojos de vidrio'. Además de los ojos, también tiene una pierna artificial.",
+            "Historia": "Horatio McCallister, más conocido como el Capitán del Mar o el Capitán McCallister (también Pete ), es un residente de Springfield. Siempre se le ha visto sosteniendo una pipa de mazorca de maíz y entrecerrando los ojos: porque tiene al menos un ojo de vidrio, aunque una vez se lo vio tocándose ambos ojos y dice que tiene 'dos ​​ojos de vidrio'. Además de los ojos, también tiene una pierna artificial.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5e/Horatio_McCallister.png/230px-Horatio_McCallister.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3492,7 +3492,7 @@
         {
             "_id": "63e3bad9958741730f851282",
             "Nombre": "Lionel Hutz",
-            "Historia": "Lionel Hutz es un abogado incompetente pero codicioso de Springfield , desesperado por casos, pocos de los cuales gana. No es financieramente sólido, es extremadamente pobre y está dispuesto a hacer casi cualquier cosa por dinero en efectivo.",
+            "Historia": "Lionel Hutz es un abogado incompetente pero codicioso de Springfield, desesperado por casos, pocos de los cuales gana. No es financieramente sólido, es extremadamente pobre y está dispuesto a hacer casi cualquier cosa por dinero en efectivo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/ed/Lionel_Hutz.png/200px-Lionel_Hutz.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3501,7 +3501,7 @@
         {
             "_id": "63e3bb33958741730f8517a5",
             "Nombre": "El abogado de cabello azul",
-            "Historia": "El abogado de cabello azul es el abogado más destacado de Springfield , conocido por su cara pálida, cabello azul y acento nasal de Nueva York.",
+            "Historia": "El abogado de cabello azul es el abogado más destacado de Springfield, conocido por su cara pálida, cabello azul y acento nasal de Nueva York.",
             "Imagen": "https://static.simpsonswiki.com/images/b/b4/Blue-haired_lawyer.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3519,7 +3519,7 @@
         {
             "_id": "63e3c174958741730f8572a8",
             "Nombre": "Dr Hibbert",
-            "Historia": "Julius M.  Hibbert, MD , más conocido como Dr. Hibbert , es el médico más prominente y competente de Springfield , aunque a veces no se esfuerza por ocultar o se burla de sus altos precios. Hibbert tiene muy buen carácter y es conocido por encontrar una razón para reírse en casi todas las situaciones, a menudo de manera inapropiada. Él y su familia viven al lado de la casa del Jefe Gorgory",
+            "Historia": "Julius M.  Hibbert, MD, más conocido como Dr. Hibbert, es el médico más prominente y competente de Springfield, aunque a veces no se esfuerza por ocultar o se burla de sus altos precios. Hibbert tiene muy buen carácter y es conocido por encontrar una razón para reírse en casi todas las situaciones, a menudo de manera inapropiada. Él y su familia viven al lado de la casa del Jefe Gorgory",
             "Imagen": "https://static.wikia.nocookie.net/simpsons/images/9/9c/Julius_Hibbert.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3564,7 +3564,7 @@
         {
             "_id": "63e3d41e958741730f866bc7",
             "Nombre": "Disco Stu",
-            "Historia": "Stuart Discothèque , generalmente conocido como Disco Stu , es el propietario de Stu's Disco. Es un aficionado a la música disco y suele aparecer vestido con un traje informal con incrustaciones de pedrería. A menudo se refiere a sí mismo en tercera persona (poniendo un gran énfasis en Stu y luego haciendo una pausa antes de decir cualquier otra cosa).",
+            "Historia": "Stuart Discothèque, generalmente conocido como Disco Stu, es el propietario de Stu's Disco. Es un aficionado a la música disco y suele aparecer vestido con un traje informal con incrustaciones de pedrería. A menudo se refiere a sí mismo en tercera persona (poniendo un gran énfasis en Stu y luego haciendo una pausa antes de decir cualquier otra cosa).",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f7/Disco_Stu.png/200px-Disco_Stu.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3582,7 +3582,7 @@
         {
             "_id": "63e3d8fc958741730f86a895",
             "Nombre": "Constance Harm",
-            "Historia": "La jueza Constance Harm es una disciplina dura, sádica e implacable. Disfruta creando castigos crueles para los criminales en su corte. Por lo general , el juez Snyder resuelve casos judiciales, pero el juez Harm se ha utilizado principalmente para dictar veredictos negativos, como sentenciar a un familiar a prisión..",
+            "Historia": "La jueza Constance Harm es una disciplina dura, sádica e implacable. Disfruta creando castigos crueles para los criminales en su corte. Por lo general, el juez Snyder resuelve casos judiciales, pero el juez Harm se ha utilizado principalmente para dictar veredictos negativos, como sentenciar a un familiar a prisión..",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/b1/Constance_Harm.png/150px-Constance_Harm.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -3600,7 +3600,7 @@
         {
             "_id": "63e3dcb1958741730f86c3e6",
             "Nombre": "Escusado",
-            "Historia": "Jake Boyman (también conocido como Toilet ) es el alias que Lisa usó para unirse al lado de los niños de la Escuela Primaria Springfield , durante el tiempo en que la escuela se dividió en mitades de niños y niñas.",
+            "Historia": "Jake Boyman (también conocido como Toilet ) es el alias que Lisa usó para unirse al lado de los niños de la Escuela Primaria Springfield, durante el tiempo en que la escuela se dividió en mitades de niños y niñas.",
             "Imagen": "https://static.simpsonswiki.com/images/6/6d/Jake_Boyman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3663,7 +3663,7 @@
         {
             "_id": "63e41f4e958741730f873a56",
             "Nombre": "Mr. Teeny",
-            "Historia": "Louis Mr. Teeny Toot , también conocido como Joseph Teeny , y conocido por su madre como Louise ,  es el mono entrenado para fumar empedernido de Krusty.",
+            "Historia": "Louis Mr. Teeny Toot, también conocido como Joseph Teeny, y conocido por su madre como Louise,  es el mono entrenado para fumar empedernido de Krusty.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/86/Mr._Teeny.png/250px-Mr._Teeny.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3672,7 +3672,7 @@
         {
             "_id": "63e41feb958741730f873b0d",
             "Nombre": "Arnie Pye",
-            "Historia": "Arnold Arnie Pye , una vez conocido como Bill Pye , es un reportero de tráfico de helicópteros descontento y algo excéntrico para KBBL-TV de Springfield (Canal 6). Sus segmentos se titulan Arnie Pye With Arnie in the Sky.",
+            "Historia": "Arnold Arnie Pye, una vez conocido como Bill Pye, es un reportero de tráfico de helicópteros descontento y algo excéntrico para KBBL-TV de Springfield (Canal 6). Sus segmentos se titulan Arnie Pye With Arnie in the Sky.",
             "Imagen": "https://static.simpsonswiki.com/images/4/40/Arnie_Pye.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3681,7 +3681,7 @@
         {
             "_id": "63e42090958741730f873bcb",
             "Nombre": "Hombre Abejorro",
-            "Historia": "Bumblebee Man , de nombre real Pedro Chespirito , es la estrella de una comedia de situación de la televisión en español en Canal Ocho , en la que se viste con un disfraz de abejorro y realiza una comedia payasada (y se lastima al hacerlo)",
+            "Historia": "Bumblebee Man, de nombre real Pedro Chespirito, es la estrella de una comedia de situación de la televisión en español en Canal Ocho, en la que se viste con un disfraz de abejorro y realiza una comedia payasada (y se lastima al hacerlo)",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/17/Bumblebee_Man.png/250px-Bumblebee_Man.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3717,7 +3717,7 @@
         {
             "_id": "63e427f2958741730f874405",
             "Nombre": "Skippy Simpson",
-            "Historia": "Skippy Simpson , también conocido como Picard Simpson , es el hijo mayor de Bart Simpson y Jenda. Tiene un ceceo al hablar.",
+            "Historia": "Skippy Simpson, también conocido como Picard Simpson, es el hijo mayor de Bart Simpson y Jenda. Tiene un ceceo al hablar.",
             "Imagen": "https://static.simpsonswiki.com/images/f/fa/Skippy_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Desconocido",
@@ -3736,7 +3736,7 @@
         {
             "_id": "63e465447de1feab29425989",
             "Nombre": "Tiago",
-            "Historia": "Tiago es profesor de baile de samba en Río de Janeiro , Brasil.",
+            "Historia": "Tiago es profesor de baile de samba en Río de Janeiro, Brasil.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7e/Tiago.png/170px-Tiago.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3763,7 +3763,7 @@
         {
             "_id": "63e46bbe7de1feab29425fc2",
             "Nombre": "Nedward Flanders, Sr.",
-            "Historia": "Nedsel \"Daddio\" Flanders ,  también conocido como Nedward Flanders, Sr. es el padre beatnik de Ned Flanders y Nediana Flanders , el esposo de Capri Flanders y el abuelo paterno de Rod y Todd. Flandes ",
+            "Historia": "Nedsel \"Daddio\" Flanders,  también conocido como Nedward Flanders, Sr. es el padre beatnik de Ned Flanders y Nediana Flanders, el esposo de Capri Flanders y el abuelo paterno de Rod y Todd. Flandes ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c6/Nedward_Flanders%2C_Sr..png/200px-Nedward_Flanders%2C_Sr..png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3792,7 +3792,7 @@
         {
             "_id": "63e46d067de1feab294260ea",
             "Nombre": "jeffrey albertson",
-            "Historia": "Jeffrey \"Jeff\" Albertson más conocido como Comic Book Guy , es el propietario obeso y geek de la tienda de cómics, The Android's Dungeon.",
+            "Historia": "Jeffrey \"Jeff\" Albertson más conocido como Comic Book Guy, es el propietario obeso y geek de la tienda de cómics, The Android's Dungeon.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9d/Comic_Book_Guy.png/200px-Comic_Book_Guy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -3846,7 +3846,7 @@
         {
             "_id": "63e472a37de1feab294265ea",
             "Nombre": "Danger Dog",
-            "Historia": "Danger Dog es un personaje ficticio de superhéroe de la serie Danger Dog , creado por Geoff Jenkins.",
+            "Historia": "Danger Dog es un personaje ficticio de superhéroe de la serie Danger Dog, creado por Geoff Jenkins.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/8c/Danger_Dog.png/250px-Danger_Dog.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -3909,7 +3909,7 @@
         {
             "_id": "63e478d27de1feab29426ad1",
             "Nombre": "Ebenezer McGrew",
-            "Historia": "Ebenezer McGrew , más conocido como Mr. McGrew , es un personaje de Mr. McGrew's Christmas Carol.",
+            "Historia": "Ebenezer McGrew, más conocido como Mr. McGrew, es un personaje de Mr. McGrew's Christmas Carol.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f4/Ebenezer_McGrew.png/220px-Ebenezer_McGrew.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4125,7 +4125,7 @@
         {
             "_id": "63e53b3f6b08a3edb56c0370",
             "Nombre": "El comerciante malvado",
-            "Historia": "El comerciante malvado es el comerciante de House of Evil , una tienda que vende objetos malvados.",
+            "Historia": "El comerciante malvado es el comerciante de House of Evil, una tienda que vende objetos malvados.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/bf/Evil_Shopkeeper.png/220px-Evil_Shopkeeper.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4260,7 +4260,7 @@
         {
             "_id": "63e55d546b08a3edb56c15a7",
             "Nombre": "Theodore Roosevelt",
-            "Historia": "Theodore \"Teddy\" Roosevelt fue el vigésimo sexto presidente de los Estados Unidos , sirviendo desde 1901 hasta 1909. Fue elegido vicepresidente y sucedió en la presidencia cuando William McKinley fue asesinado. Es uno de los cuatro presidentes estadounidenses cuyos rostros aparecen en el Monte Rushmore.",
+            "Historia": "Theodore \"Teddy\" Roosevelt fue el vigésimo sexto presidente de los Estados Unidos, sirviendo desde 1901 hasta 1909. Fue elegido vicepresidente y sucedió en la presidencia cuando William McKinley fue asesinado. Es uno de los cuatro presidentes estadounidenses cuyos rostros aparecen en el Monte Rushmore.",
             "Imagen": "https://static.simpsonswiki.com/images/6/68/Theodore_Roosevelt.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4278,7 +4278,7 @@
         {
             "_id": "63e55f0f6b08a3edb56c1685",
             "Nombre": "Rachel Jordan ",
-            "Historia": "Rachel Jordan es cantante y ex cantante principal de Kovenant , una banda de rock cristiano.",
+            "Historia": "Rachel Jordan es cantante y ex cantante principal de Kovenant, una banda de rock cristiano.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7f/Rachel_Jordan.png/200px-Rachel_Jordan.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -4332,7 +4332,7 @@
         {
             "_id": "63e574346b08a3edb56c1ff3",
             "Nombre": "Legs ",
-            "Historia": "Legs es miembro de la mafia de Springfield. Se le ve más a menudo acompañando a su jefe, Fat Tony , ya sus colegas Louie y Johnny Tightlips.",
+            "Historia": "Legs es miembro de la mafia de Springfield. Se le ve más a menudo acompañando a su jefe, Fat Tony, ya sus colegas Louie y Johnny Tightlips.",
             "Imagen": "https://static.simpsonswiki.com/images/6/6f/Legs.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4341,7 +4341,7 @@
         {
             "_id": "63e577fb6b08a3edb56c218e",
             "Nombre": "Kumiko Albertson",
-            "Historia": "Kumiko Albertson es una artista y fanática del manga japonés de Osaka , Japón.",
+            "Historia": "Kumiko Albertson es una artista y fanática del manga japonés de Osaka, Japón.",
             "Imagen": "https://static.simpsonswiki.com/images/4/4a/Kumiko_Albertson.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -4422,7 +4422,7 @@
         {
             "_id": "63e5807c6b08a3edb56c2568",
             "Nombre": "Milford Van Houten",
-            "Historia": "Milford Van Houten es el tatarabuelo de Milhouse Van Houten. Se da a entender que se casó con Eliza Simpson. Aunque sí escribió en su diario que nunca más podría volver a ver a Eliza después de traicionar a Virgil Simpson , el esclavo negro.",
+            "Historia": "Milford Van Houten es el tatarabuelo de Milhouse Van Houten. Se da a entender que se casó con Eliza Simpson. Aunque sí escribió en su diario que nunca más podría volver a ver a Eliza después de traicionar a Virgil Simpson, el esclavo negro.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5b/Milford_Van_Houten.png/200px-Milford_Van_Houten.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4431,7 +4431,7 @@
         {
             "_id": "63e5820a6b08a3edb56c261c",
             "Nombre": "Duende de Irlanda del Norte",
-            "Historia": "El Leprechaun de Irlanda del Norte es un duende de Irlanda del Norte. Se parece al duende irlandés tradicional , excepto que viste todo de naranja para mostrar su apoyo a los Orangemen (unionistas protestantes). Se parece a su contraparte, excepto que tiene cejas pobladas y bigotes de chuleta de cordero y usa una levita con colas, una camisa de vestir blanca con una pajarita y un sombrero de copa.",
+            "Historia": "El Leprechaun de Irlanda del Norte es un duende de Irlanda del Norte. Se parece al duende irlandés tradicional, excepto que viste todo de naranja para mostrar su apoyo a los Orangemen (unionistas protestantes). Se parece a su contraparte, excepto que tiene cejas pobladas y bigotes de chuleta de cordero y usa una levita con colas, una camisa de vestir blanca con una pajarita y un sombrero de copa.",
             "Imagen": "https://static.simpsonswiki.com/images/0/0a/N._Irish_Lepracaun.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4458,7 +4458,7 @@
         {
             "_id": "63e5d1d26b08a3edb56c3672",
             "Nombre": "Presidente de Kwik-E-Mart",
-            "Historia": "El presidente de Kwik-E-Mart o director de Kwik-E-Mart es el presidente y director ejecutivo indio \"benevolente\" de la franquicia Kwik-E-Mart. También es el jefe de Stop-O-Mart en Ohio. Un gurú que se sienta con las piernas cruzadas bebiendo un Squishee , el presidente lo sabe todo, excepto la combinación a la caja fuerte.",
+            "Historia": "El presidente de Kwik-E-Mart o director de Kwik-E-Mart es el presidente y director ejecutivo indio \"benevolente\" de la franquicia Kwik-E-Mart. También es el jefe de Stop-O-Mart en Ohio. Un gurú que se sienta con las piernas cruzadas bebiendo un Squishee, el presidente lo sabe todo, excepto la combinación a la caja fuerte.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5d/Kwik-E-Mart_president.png/200px-Kwik-E-Mart_president.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4476,7 +4476,7 @@
         {
             "_id": "63e5d2d06b08a3edb56c36e9",
             "Nombre": "El rey Gautama",
-            "Historia": "El rey Gautama es un rey y el padre de Siddmartha Gautama .",
+            "Historia": "El rey Gautama es un rey y el padre de Siddmartha Gautama.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/83/King_Gautama.png/200px-King_Gautama.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4547,7 +4547,7 @@
         {
             "_id": "63ec299e5d30fabfe4502bf7",
             "Nombre": "Adil Hoxha",
-            "Historia": "Adil Hoxha era un estudiante extranjero de intercambio de Albania . Se quedó con la familia Simpson mientras Bart estaba en Francia y se descubrió que era un espía comunista.",
+            "Historia": "Adil Hoxha era un estudiante extranjero de intercambio de Albania. Se quedó con la familia Simpson mientras Bart estaba en Francia y se descubrió que era un espía comunista.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9c/Adil.png/200px-Adil.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4565,7 +4565,7 @@
         {
             "_id": "63e52d9f6b08a3edb56bfcfe",
             "Nombre": "Maurice ",
-            "Historia": "Maurice es el burro de César & Ugolín .",
+            "Historia": "Maurice es el burro de César & Ugolín.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/45/Maurice.png/150px-Maurice.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4601,7 +4601,7 @@
         {
             "_id": "63e52f316b08a3edb56bfe13",
             "Nombre": "Brunella Pommelhorst ",
-            "Historia": "Brunella Pommelhorst es maestra de Educación Física en la Escuela Primaria Springfield .",
+            "Historia": "Brunella Pommelhorst es maestra de Educación Física en la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/1/1c/Brunella_Pommelhorst.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -4610,7 +4610,7 @@
         {
             "_id": "63e52fd16b08a3edb56bfe81",
             "Nombre": "El Papa",
-            "Historia": "El Papa es el obispo de Roma , el líder de la Iglesia Católica y gobernante de la Ciudad del Vaticano .",
+            "Historia": "El Papa es el obispo de Roma, el líder de la Iglesia Católica y gobernante de la Ciudad del Vaticano.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/26/Pope.png/200px-Pope.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4619,7 +4619,7 @@
         {
             "_id": "63e530086b08a3edb56bfea7",
             "Nombre": "Oscar Wilde",
-            "Historia": "Oscar Wilde fue un escritor y poeta irlandés .",
+            "Historia": "Oscar Wilde fue un escritor y poeta irlandés.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/bd/Oscar_Wilde.png/200px-Oscar_Wilde.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4628,7 +4628,7 @@
         {
             "_id": "63e530a16b08a3edb56bff10",
             "Nombre": "Geoffrey Chaucer",
-            "Historia": "Geoffrey Chaucer fue un poeta inglés de la Edad Media , mejor conocido como el padre de la literatura inglesa. Fue el primer poeta en ser enterrado en Poet's Corner en la Abadía de Westminster .",
+            "Historia": "Geoffrey Chaucer fue un poeta inglés de la Edad Media, mejor conocido como el padre de la literatura inglesa. Fue el primer poeta en ser enterrado en Poet's Corner en la Abadía de Westminster.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/42/Geoffrey_Chaucer.png/200px-Geoffrey_Chaucer.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4646,7 +4646,7 @@
         {
             "_id": "63e5388c6b08a3edb56c01c4",
             "Nombre": "La Gota",
-            "Historia": "The Blob , también llamado Space Marshmallow , es un extraterrestre intergaláctico que llegó a Springfield en un meteorito.",
+            "Historia": "The Blob, también llamado Space Marshmallow, es un extraterrestre intergaláctico que llegó a Springfield en un meteorito.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/01/Space_Marshmallow.png/250px-Space_Marshmallow.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4655,7 +4655,7 @@
         {
             "_id": "63e538c56b08a3edb56c01e9",
             "Nombre": "Blinky",
-            "Historia": "Blinky the Three-Eyed Fish (o simplemente Blinky ) es uno de los muchos peces naranjas de tres ojos que se encuentran en los estanques y lagos de Springfield . Su dieta consiste en gusanos en agua pesada y escorrentía de plutonio.",
+            "Historia": "Blinky the Three-Eyed Fish (o simplemente Blinky ) es uno de los muchos peces naranjas de tres ojos que se encuentran en los estanques y lagos de Springfield. Su dieta consiste en gusanos en agua pesada y escorrentía de plutonio.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7a/Blinky.png/250px-Blinky.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4673,7 +4673,7 @@
         {
             "_id": "63e53bfa6b08a3edb56c03e7",
             "Nombre": "Beelzebart Simpson ",
-            "Historia": "Beelzebart Simpson es el personaje de Hell de Bart Simpson cuando era estudiante en la escuela Hellroads .",
+            "Historia": "Beelzebart Simpson es el personaje de Hell de Bart Simpson cuando era estudiante en la escuela Hellroads.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7b/Beelzebart_Simpson.png/200px-Beelzebart_Simpson.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4691,7 +4691,7 @@
         {
             "_id": "63e53e076b08a3edb56c052c",
             "Nombre": "Obispo de hielo de Beverly Hills",
-            "Historia": "El obispo de hielo de Beverly Hills es un personaje de Ice World: Los Ángeles .",
+            "Historia": "El obispo de hielo de Beverly Hills es un personaje de Ice World: Los Ángeles.",
             "Imagen": "https://static.simpsonswiki.com/images/7/7b/Ice_Bishop_of_Beverly_Hills.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4700,7 +4700,7 @@
         {
             "_id": "63e53f8a6b08a3edb56c0616",
             "Nombre": "El burro humano",
-            "Historia": "The Human Donkey es un fenómeno mitad humano y mitad burro en The Burnsum and Bailey Circus .",
+            "Historia": "The Human Donkey es un fenómeno mitad humano y mitad burro en The Burnsum and Bailey Circus.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/2d/The_Human_Donkey.png/250px-The_Human_Donkey.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4709,7 +4709,7 @@
         {
             "_id": "63e5409c6b08a3edb56c06bf",
             "Nombre": "Amigo estirado",
-            "Historia": "Stretch Dude es el alter ego de superhéroe de Bart Simpson .",
+            "Historia": "Stretch Dude es el alter ego de superhéroe de Bart Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/8/87/Stretch_Dude.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4736,7 +4736,7 @@
         {
             "_id": "63e544d76b08a3edb56c0945",
             "Nombre": "Amenhotep ",
-            "Historia": "Amenhotep es un monstruo. Viene de El Cairo .",
+            "Historia": "Amenhotep es un monstruo. Viene de El Cairo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/4a/Amenhotep.png/200px-Amenhotep.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4763,7 +4763,7 @@
         {
             "_id": "63e547a46b08a3edb56c0af0",
             "Nombre": "Dr. Cangrejo",
-            "Historia": "El Dr. Vladmir Krabokov , mejor conocido como Dr. Crab , es el archienemigo del Hombre Radiactivo .",
+            "Historia": "El Dr. Vladmir Krabokov, mejor conocido como Dr. Crab, es el archienemigo del Hombre Radiactivo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/4d/Dr._Crab.png/250px-Dr._Crab.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4772,7 +4772,7 @@
         {
             "_id": "63e548646b08a3edb56c0b5e",
             "Nombre": "ClownFace ",
-            "Historia": "ClownFace fue un villano invitado en el antiguo programa de televisión de Batman . Fue interpretado por Krusty el Payaso .",
+            "Historia": "ClownFace fue un villano invitado en el antiguo programa de televisión de Batman. Fue interpretado por Krusty el Payaso.",
             "Imagen": "https://static.simpsonswiki.com/images/3/38/ClownFace.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4803,12 +4803,12 @@
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/87/Aaron_Burr.png/150px-Aaron_Burr.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
-            "Ocupacion": "Vicepresidente de los EE . UU."
+            "Ocupacion": "Vicepresidente de los EE. UU."
         },
         {
             "_id": "63e55f556b08a3edb56c16aa",
             "Nombre": "Herman Hermann",
-            "Historia": "Herman Hermann es el propietario de Herman's Military Antiques . Se viste con uniforme militar.",
+            "Historia": "Herman Hermann es el propietario de Herman's Military Antiques. Se viste con uniforme militar.",
             "Imagen": "https://static.simpsonswiki.com/images/f/f3/Herman_Hermann.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4817,7 +4817,7 @@
         {
             "_id": "63e5608a6b08a3edb56c171f",
             "Nombre": "Raphael",
-            "Historia": "Raphael (también conocido comúnmente como el empleado sarcástico , el sabio , el hombre de mediana edad o el hombre venenoso  ), es un hombre con una perspectiva sarcástica de la vida. Siempre se le ve teniendo diferentes trabajos. Sideshow Bob identifica su primer nombre como Raphael Solía ​​tener un pájaro como mascota, Raymond Bird , al que Bart y Lisa cuidaron hasta que murió.",
+            "Historia": "Raphael (también conocido comúnmente como el empleado sarcástico, el sabio, el hombre de mediana edad o el hombre venenoso  ), es un hombre con una perspectiva sarcástica de la vida. Siempre se le ve teniendo diferentes trabajos. Sideshow Bob identifica su primer nombre como Raphael Solía ​​tener un pájaro como mascota, Raymond Bird, al que Bart y Lisa cuidaron hasta que murió.",
             "Imagen": "https://static.simpsonswiki.com/images/a/af/Wise_Guy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4845,7 +4845,7 @@
         {
             "_id": "63e573796b08a3edb56c1f9f",
             "Nombre": "jardinero seamus",
-            "Historia": "El jardinero Seamus es el rival irlandés del jardinero Willie .",
+            "Historia": "El jardinero Seamus es el rival irlandés del jardinero Willie.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/4/4a/Groundskeeper_Seamus.png/150px-Groundskeeper_Seamus.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4854,7 +4854,7 @@
         {
             "_id": "63e575076b08a3edb56c2051",
             "Nombre": "Michael D'Amico ",
-            "Historia": "Michael D'Amico es el hijo de Fat Tony y Anna Maria .  Michael tiene 8 años y cabello negro, es estudiante de la Escuela Primaria Springfield . Sherri y Terri lo describen como \"Ese chico raro que nunca dice nada\".",
+            "Historia": "Michael D'Amico es el hijo de Fat Tony y Anna Maria.  Michael tiene 8 años y cabello negro, es estudiante de la Escuela Primaria Springfield. Sherri y Terri lo describen como \"Ese chico raro que nunca dice nada\".",
             "Imagen": "https://static.simpsonswiki.com/images/5/59/Michael_D%27Amico.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4863,7 +4863,7 @@
         {
             "_id": "63e578426b08a3edb56c21af",
             "Nombre": "Shary Bobbins ",
-            "Historia": "Shary Bobbins era la niñera de la familia Simpson .",
+            "Historia": "Shary Bobbins era la niñera de la familia Simpson.",
             "Imagen": "https://static.simpsonswiki.com/images/f/f1/Shary_Bobbins.png",
             "Genero": "Femenino",
             "Estado": "Fallecido",
@@ -4890,7 +4890,7 @@
         {
             "_id": "63e57a7d6b08a3edb56c22b1",
             "Nombre": "Shelbyville Manhattan",
-            "Historia": "Shelbyville Manhattan fue el fundador de Shelbyville y ex socio de Jebediah Springfield .",
+            "Historia": "Shelbyville Manhattan fue el fundador de Shelbyville y ex socio de Jebediah Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/f/fb/Shelbyville_Manhattan.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -4899,7 +4899,7 @@
         {
             "_id": "63e57b5c6b08a3edb56c231a",
             "Nombre": "El Gran Raimundo",
-            "Historia": "Harvey Raymondo , más conocido como El Gran Raymondo , es un mago que le enseña trucos de magia a Lisa .",
+            "Historia": "Harvey Raymondo, más conocido como El Gran Raymondo, es un mago que le enseña trucos de magia a Lisa.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/0e/The_Great_Raymondo.png/200px-The_Great_Raymondo.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4908,7 +4908,7 @@
         {
             "_id": "63e57c316b08a3edb56c237b",
             "Nombre": "El hermano Faith",
-            "Historia": "El hermano Faith es un sanador por la fe. Tiene un programa llamado Brother Faith's Revival .",
+            "Historia": "El hermano Faith es un sanador por la fe. Tiene un programa llamado Brother Faith's Revival.",
             "Imagen": "https://static.simpsonswiki.com/images/a/a7/Brother_Faith.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4917,7 +4917,7 @@
         {
             "_id": "63e57c5f6b08a3edb56c2390",
             "Nombre": "El presidente del Comité Olímpico Internacional ",
-            "Historia": "El presidente del Comité Olímpico Internacional es el presidente del Comité Olímpico Internacional .",
+            "Historia": "El presidente del Comité Olímpico Internacional es el presidente del Comité Olímpico Internacional.",
             "Imagen": "https://static.simpsonswiki.com/images/2/2d/Summer_Games_Chairman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4926,7 +4926,7 @@
         {
             "_id": "63e57cdf6b08a3edb56c23cb",
             "Nombre": "Gummy Joe ",
-            "Historia": "Gummy Joe es un trabajador de la planta de energía nuclear de Springfield .",
+            "Historia": "Gummy Joe es un trabajador de la planta de energía nuclear de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/07/Gummy_Joe.png/200px-Gummy_Joe.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4935,7 +4935,7 @@
         {
             "_id": "63e57d0d6b08a3edb56c23e0",
             "Nombre": "Luke Stetson",
-            "Historia": "Luke Stetson es un adolescente en Lazy I Ranch .",
+            "Historia": "Luke Stetson es un adolescente en Lazy I Ranch.",
             "Imagen": "https://static.simpsonswiki.com/images/2/2a/Luke_Stetson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4953,7 +4953,7 @@
         {
             "_id": "63e57fb76b08a3edb56c2511",
             "Nombre": "Robert Patiño",
-            "Historia": "El Dr. Robert Patiño, Sr. es el padre de Bob Patiño .",
+            "Historia": "El Dr. Robert Patiño, Sr. es el padre de Bob Patiño.",
             "Imagen": "https://static.simpsonswiki.com/images/9/91/Robert_Terwilliger_Sr.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -4971,7 +4971,7 @@
         {
             "_id": "63e581106b08a3edb56c25ad",
             "Nombre": "Shiva ",
-            "Historia": "Shiva es una deidad hindú suprema .",
+            "Historia": "Shiva es una deidad hindú suprema.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/ec/Shiva.png/200px-Shiva.png",
             "Genero": "Masculino",
             "Estado": "Divino",
@@ -4980,7 +4980,7 @@
         {
             "_id": "63e5816c6b08a3edb56c25d8",
             "Nombre": "Demogorgon ",
-            "Historia": "El Demogorgon es un monstruo en Odder Stuff y Stranger Things .",
+            "Historia": "El Demogorgon es un monstruo en Odder Stuff y Stranger Things.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/b/bb/Demogorgon.png/200px-Demogorgon.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -4989,7 +4989,7 @@
         {
             "_id": "63e581cd6b08a3edb56c2600",
             "Nombre": "Jacqueline Ingrid Bouvier",
-            "Historia": "Jacqueline Ingrid \"Jackie\" Bouvier (de soltera Gurney ), ocasionalmente conocida como la abuela Bouvier o la señora Bouvier , es la madre de Marge Simpson , Patty y Selma Bouvier , la viuda del difunto Clancy Bouvier , la suegra de Homero . Simpson y la abuela de Bart , Lisa y Maggie Simpson . También tenía una hermana llamada Gladys , ya fallecida.",
+            "Historia": "Jacqueline Ingrid \"Jackie\" Bouvier (de soltera Gurney ), ocasionalmente conocida como la abuela Bouvier o la señora Bouvier, es la madre de Marge Simpson, Patty y Selma Bouvier, la viuda del difunto Clancy Bouvier, la suegra de Homero. Simpson y la abuela de Bart, Lisa y Maggie Simpson. También tenía una hermana llamada Gladys, ya fallecida.",
             "Imagen": "https://static.simpsonswiki.com/images/a/a8/Jacqueline_Bouvier.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -4998,7 +4998,7 @@
         {
             "_id": "63e583096b08a3edb56c2688",
             "Nombre": "Tom O'Flanagan",
-            "Historia": "Tom O'Flanagan es el ex cantinero y propietario de O'Flanagan's Pub (ahora rebautizado como Simpson & Son Pub ) en Irlanda .",
+            "Historia": "Tom O'Flanagan es el ex cantinero y propietario de O'Flanagan's Pub (ahora rebautizado como Simpson & Son Pub ) en Irlanda.",
             "Imagen": "https://static.simpsonswiki.com/images/9/9c/Tom_O%27Flanagan.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5007,7 +5007,7 @@
         {
             "_id": "63e584126b08a3edb56c26f3",
             "Nombre": "El Colisionador",
-            "Historia": "The Collider es el nuevo villano de Radioactive Man en Radioactive Man Re-Rises .",
+            "Historia": "The Collider es el nuevo villano de Radioactive Man en Radioactive Man Re-Rises.",
             "Imagen": "https://static.simpsonswiki.com/images/d/da/The_Collider.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5052,7 +5052,7 @@
         {
             "_id": "63ec2ae8e398c925c5626305",
             "Nombre": "Doug",
-            "Historia": "Doug es uno de los tres nerds que conoció Homer en la Universidad de Springfield . Es corpulento, siempre usa una chaqueta de punto y usa anteojos con lentes redondos gruesos.",
+            "Historia": "Doug es uno de los tres nerds que conoció Homer en la Universidad de Springfield. Es corpulento, siempre usa una chaqueta de punto y usa anteojos con lentes redondos gruesos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d5/Doug_%28nerd%29.png/180px-Doug_%28nerd%29.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5061,7 +5061,7 @@
         {
             "_id": "63ec455b8b142917b4a26c71",
             "Nombre": "Ms. Mouse",
-            "Historia": "Ms. Mouse es un ratón de dibujos animados del episodio \" The Glass Moan-agerie \" de The Itchy & Scratchy Show .",
+            "Historia": "Ms. Mouse es un ratón de dibujos animados del episodio \" The Glass Moan-agerie \" de The Itchy & Scratchy Show.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f6/Ms._Mouse.png/200px-Ms._Mouse.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -5070,11 +5070,11 @@
         {
             "_id": "63ec472a8b142917b4a26d37",
             "Nombre": "Larry Kidkill",
-            "Historia": "Larry Kidkill es el propietario del zoológico de la ciudad de Springfield .",
+            "Historia": "Larry Kidkill es el propietario del zoológico de la ciudad de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/38/Larry_Kidkill.png/180px-Larry_Kidkill.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
-            "Ocupacion": "propietario del zoológico de la ciudad de Springfield ."
+            "Ocupacion": "propietario del zoológico de la ciudad de Springfield."
         },
         {
             "_id": "63ec48338b142917b4a26da6",
@@ -5088,7 +5088,7 @@
         {
             "_id": "63ec4cfe8b142917b4a26f70",
             "Nombre": "Dash Dingo",
-            "Historia": "Dash Dingo es la mascota de una tienda de ropa y el personaje principal del videojuego Dash Dingo .",
+            "Historia": "Dash Dingo es la mascota de una tienda de ropa y el personaje principal del videojuego Dash Dingo.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c2/Dash_Dingo.png/250px-Dash_Dingo.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5106,7 +5106,7 @@
         {
             "_id": "63ec4fa38b142917b4a27091",
             "Nombre": "Rasputín el Ruso Amigable",
-            "Historia": "Rasputin the Friendly Russian es un luchador profesional de World Class Wrestling . Anteriormente era conocido como el Ruso Loco , pero su nombre fue cambiado tras el colapso de la Unión Soviética.",
+            "Historia": "Rasputin the Friendly Russian es un luchador profesional de World Class Wrestling. Anteriormente era conocido como el Ruso Loco, pero su nombre fue cambiado tras el colapso de la Unión Soviética.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/70/Rasputin.png/200px-Rasputin.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5115,7 +5115,7 @@
         {
             "_id": "63ec50868b142917b4a270f2",
             "Nombre": "Ciro Manley",
-            "Historia": "Cyrus Manley es un personaje ficticio del libro The Harpooned Heart . El personaje fue inspirado por Ned Flanders .",
+            "Historia": "Cyrus Manley es un personaje ficticio del libro The Harpooned Heart. El personaje fue inspirado por Ned Flanders.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/97/Cyrus_Manley.png/200px-Cyrus_Manley.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5133,7 +5133,7 @@
         {
             "_id": "63ec555d8b142917b4a272ed",
             "Nombre": "Mesmerino",
-            "Historia": "Mesmerino es un hipnotizador que trabaja en un restaurante de Springfield .",
+            "Historia": "Mesmerino es un hipnotizador que trabaja en un restaurante de Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d6/Mesmerino.png/150px-Mesmerino.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5142,7 +5142,7 @@
         {
             "_id": "63ec33508b142917b4a26565",
             "Nombre": "Quinn Hopper",
-            "Historia": "Quinn Hopper es un programador que se desempeñó como profesor de codificación en la Escuela Primaria Springfield .",
+            "Historia": "Quinn Hopper es un programador que se desempeñó como profesor de codificación en la Escuela Primaria Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/d/d5/Quinn_Hopper.png/200px-Quinn_Hopper.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -5151,7 +5151,7 @@
         {
             "_id": "63ec44e88b142917b4a26c41",
             "Nombre": "Tomy",
-            "Historia": "Scratchy es un gato de dibujos animados del programa Itchy & Scratchy . A pesar de que generalmente se lo representa como de naturaleza amable, Scratchy es atacado implacablemente por Itchy the mouse. En casi todos los episodios, Scratchy es brutalmente mutilado y herido, y generalmente asesinado, por Itchy. Solo en unos pocos episodios Scratchy no es víctima de violencia.",
+            "Historia": "Scratchy es un gato de dibujos animados del programa Itchy & Scratchy. A pesar de que generalmente se lo representa como de naturaleza amable, Scratchy es atacado implacablemente por Itchy the mouse. En casi todos los episodios, Scratchy es brutalmente mutilado y herido, y generalmente asesinado, por Itchy. Solo en unos pocos episodios Scratchy no es víctima de violencia.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9a/Scratchy.png/250px-Scratchy.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5178,7 +5178,7 @@
         {
             "_id": "63ec4cc38b142917b4a26f57",
             "Nombre": "El Detonator",
-            "Historia": "The Detonator , nombre real Jason ,  es un experto en videojuegos y un jugador de tutorial. También trabajó en la tienda de azulejos de su tío.",
+            "Historia": "The Detonator, nombre real Jason,  es un experto en videojuegos y un jugador de tutorial. También trabajó en la tienda de azulejos de su tío.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/2/26/The_Detonator.png/200px-The_Detonator.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5187,7 +5187,7 @@
         {
             "_id": "63ec4eb18b142917b4a27026",
             "Nombre": "El yuppie de hierro",
-            "Historia": "El Iron Yuppie es un luchador profesional que participó en un Texas Death match en el Springfield Grapple-arium contra el Dr. Hillbilly . Las estipulaciones del combate son que un hombre será desenmascarado y asesinado en el ring. No se sabe si The Iron Yuppie es un héroe o un villano, aunque Homero nota que espera que el Yuppie pierda porque \"piensa que es muy grande\".",
+            "Historia": "El Iron Yuppie es un luchador profesional que participó en un Texas Death match en el Springfield Grapple-arium contra el Dr. Hillbilly. Las estipulaciones del combate son que un hombre será desenmascarado y asesinado en el ring. No se sabe si The Iron Yuppie es un héroe o un villano, aunque Homero nota que espera que el Yuppie pierda porque \"piensa que es muy grande\".",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/87/Iron_Yuppie.png/200px-Iron_Yuppie.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5205,7 +5205,7 @@
         {
             "_id": "63ec4fdb8b142917b4a270a8",
             "Nombre": "abe honesto",
-            "Historia": "Honest Abe es un alter ego de lucha libre que tenía Abraham Simpson . El traje está basado en Abraham Lincoln .",
+            "Historia": "Honest Abe es un alter ego de lucha libre que tenía Abraham Simpson. El traje está basado en Abraham Lincoln.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/fa/Honest_Abe.png/150px-Honest_Abe.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5214,7 +5214,7 @@
         {
             "_id": "63ec504f8b142917b4a270dc",
             "Nombre": "Temperance Barrow",
-            "Historia": "Temperance Barrow es el personaje principal de la novela romántica The Harpooned Heart de Marge Simpson . Ella sigue el modelo de Marge.",
+            "Historia": "Temperance Barrow es el personaje principal de la novela romántica The Harpooned Heart de Marge Simpson. Ella sigue el modelo de Marge.",
             "Imagen": "../assets/img/imagenes-faltantes/TemperanceBarrow.webp",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -5250,7 +5250,7 @@
         {
             "_id": "63ec546f8b142917b4a2728e",
             "Nombre": "Lyle Lanley",
-            "Historia": "Lyle Lanley es un estafador y un estafador que vendió monorrieles defectuosos a varias ciudades, incluida Springfield .",
+            "Historia": "Lyle Lanley es un estafador y un estafador que vendió monorrieles defectuosos a varias ciudades, incluida Springfield.",
             "Imagen": "https://static.simpsonswiki.com/images/1/15/Lyle_Lanley_Tapped_Out.png",
             "Genero": "Masculino",
             "Estado": "Fallecido",
@@ -5259,7 +5259,7 @@
         {
             "_id": "63ec54e78b142917b4a272bd",
             "Nombre": "Diablo, el mago",
-            "Historia": "Diablo es un mago que trabaja en el teatro de la cena, Magic Palace .",
+            "Historia": "Diablo es un mago que trabaja en el teatro de la cena, Magic Palace.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/0c/Diablo.png/200px-Diablo.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5268,7 +5268,7 @@
         {
             "_id": "63ec55a68b142917b4a2730a",
             "Nombre": "Paul Flart",
-            "Historia": "Paul Flart es un personaje ficticio de la película Paul Flart: Water Park Cop .",
+            "Historia": "Paul Flart es un personaje ficticio de la película Paul Flart: Water Park Cop.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/c9/Paul_Flart.png/200px-Paul_Flart.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5295,7 +5295,7 @@
         {
             "_id": "63ec58a98b142917b4a2743d",
             "Nombre": "Cookie",
-            "Historia": "Cookie es un ranchero que la familia Simpson conoció en el Lazy I Ranch .",
+            "Historia": "Cookie es un ranchero que la familia Simpson conoció en el Lazy I Ranch.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/98/Cookie_Lazy_I.png/200px-Cookie_Lazy_I.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5304,7 +5304,7 @@
         {
             "_id": "63ec58dc8b142917b4a27452",
             "Nombre": "Wolf el cazarrecompensas",
-            "Historia": "Wolf the Bounty Hunter es un cazarrecompensas, contratado por Lucky Jim , que rastrea a las personas que se saltan la fianza y las trae después de maltratarlas. Alguien a quien se le ha hecho esto es Gil Gunderson . Toma un diente de su víctima y lo pone en un collar.  Wolf es la razón por la que Homero decide convertirse en un cazarrecompensas y se convierte en un gran éxito.",
+            "Historia": "Wolf the Bounty Hunter es un cazarrecompensas, contratado por Lucky Jim, que rastrea a las personas que se saltan la fianza y las trae después de maltratarlas. Alguien a quien se le ha hecho esto es Gil Gunderson. Toma un diente de su víctima y lo pone en un collar.  Wolf es la razón por la que Homero decide convertirse en un cazarrecompensas y se convierte en un gran éxito.",
             "Imagen": "https://static.simpsonswiki.com/images/b/b2/Wolf_the_Bounty_Hunter.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5322,7 +5322,7 @@
         {
             "_id": "63ec59c98b142917b4a274b2",
             "Nombre": "Harv Bannister",
-            "Historia": "Harv Bannister es el vicepresidente de Goodtime Eating and Drinking Emporium de Tipsy McStagger . Intenta comprar la receta del Flaming Moe. Eventualmente lo obtiene después de que Homero se vuelve loco y grita el ingrediente secreto, justo cuando Moe estaba a punto de vender la receta.",
+            "Historia": "Harv Bannister es el vicepresidente de Goodtime Eating and Drinking Emporium de Tipsy McStagger. Intenta comprar la receta del Flaming Moe. Eventualmente lo obtiene después de que Homero se vuelve loco y grita el ingrediente secreto, justo cuando Moe estaba a punto de vender la receta.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/c/cd/Harv_Bannister.png/250px-Harv_Bannister.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5331,7 +5331,7 @@
         {
             "_id": "63ec5aad8b142917b4a27513",
             "Nombre": "Femme Fatale ",
-            "Historia": "Femme Fatale es una empleada de Globex Corporation .",
+            "Historia": "Femme Fatale es una empleada de Globex Corporation.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/33/Femme_Fatale.png/120px-Femme_Fatale.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -5340,7 +5340,7 @@
         {
             "_id": "63ec5c0a8b142917b4a275a6",
             "Nombre": "Angelica Button",
-            "Historia": "Angelica Button es el personaje principal de la serie Angelica Button .",
+            "Historia": "Angelica Button es el personaje principal de la serie Angelica Button.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9f/Angelica_Button.png/200px-Angelica_Button.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -5367,7 +5367,7 @@
         {
             "_id": "63ec5dfd8b142917b4a27673",
             "Nombre": "Strawberry ",
-            "Historia": "Strawberry es la esposa de Milo , el dueño de Coolsville Comics & Toys ",
+            "Historia": "Strawberry es la esposa de Milo, el dueño de Coolsville Comics & Toys ",
             "Imagen": "https://static.simpsonswiki.com/images/6/6d/Strawberry.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -5376,7 +5376,7 @@
         {
             "_id": "63ec5e248b142917b4a27682",
             "Nombre": "Wall E. Weasel",
-            "Historia": "Wall E. Weasel es la mascota de Wall E. Weasel's .",
+            "Historia": "Wall E. Weasel es la mascota de Wall E. Weasel's.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/5/5a/Wall_E._Weasel.png/200px-Wall_E._Weasel.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5385,7 +5385,7 @@
         {
             "_id": "63ec5ed48b142917b4a276cd",
             "Nombre": "Buck Mitchell ",
-            "Historia": "Buck Mitchell es un jugador de béisbol de los isótopos de Springfield . Está casado con la cantante Tabitha Vixx .",
+            "Historia": "Buck Mitchell es un jugador de béisbol de los isótopos de Springfield. Está casado con la cantante Tabitha Vixx.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/01/Buck_Mitchell.png/200px-Buck_Mitchell.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5430,7 +5430,7 @@
         {
             "_id": "63ed6551b537bd8abda5b802",
             "Nombre": "Alcatraaaz",
-            "Historia": "Alcatraaaz es un famoso rapero gángster que le gusta a Bart . Llegó al punto de escabullirse para ver uno de sus conciertos.",
+            "Historia": "Alcatraaaz es un famoso rapero gángster que le gusta a Bart. Llegó al punto de escabullirse para ver uno de sus conciertos.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e3/Alcatraaaz.png/200px-Alcatraaaz.png",
             "Genero": "Masculino",
             "Estado": "vivo",
@@ -5439,7 +5439,7 @@
         {
             "_id": "63ed66e4b537bd8abda5b88f",
             "Nombre": "Hugh Jass",
-            "Historia": "Hugh Jass era cliente de Moe's Tavern . Su nombre resultó ser el mismo que Bart inventó para gastarle una broma telefónica a Moe .",
+            "Historia": "Hugh Jass era cliente de Moe's Tavern. Su nombre resultó ser el mismo que Bart inventó para gastarle una broma telefónica a Moe.",
             "Imagen": "https://static.simpsonswiki.com/images/e/e2/Hugh_Jass.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5475,7 +5475,7 @@
         {
             "_id": "63ee574b3f77c15ce0611514",
             "Nombre": "Rey Invierno",
-            "Historia": "King Winter es un rey ficticio y el personaje principal del especial navideño King Winter Feasts on His Children .",
+            "Historia": "King Winter es un rey ficticio y el personaje principal del especial navideño King Winter Feasts on His Children.",
             "Imagen": "https://static.simpsonswiki.com/images/4/40/King_Winter.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5484,7 +5484,7 @@
         {
             "_id": "63ee57b63f77c15ce0611539",
             "Nombre": "Goofball de la ciudad capital",
-            "Historia": "El Goofball de Capital City es la mascota del equipo de béisbol de Capital City , los Capital City Capitals . También es legislador estatal . Es el mejor amigo del músico Henry Mancini y enemigo de la mascota Shelbyville Lamprey. Durante su tiempo libre, llama a la línea directa del Dr. Marvin Monroe para personas extremadamente enfurecidas.",
+            "Historia": "El Goofball de Capital City es la mascota del equipo de béisbol de Capital City, los Capital City Capitals. También es legislador estatal. Es el mejor amigo del músico Henry Mancini y enemigo de la mascota Shelbyville Lamprey. Durante su tiempo libre, llama a la línea directa del Dr. Marvin Monroe para personas extremadamente enfurecidas.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/15/Capital_City_Goofball.png/200px-Capital_City_Goofball.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5493,7 +5493,7 @@
         {
             "_id": "63ee5fee3f77c15ce06117f6",
             "Nombre": "Kaitlyn ",
-            "Historia": "Kaitlyn es la prometida y gerente comercial de Grayson Mathers , modelo de Instagram , reactor de YouTube y creadora de Yoga Yogurt.",
+            "Historia": "Kaitlyn es la prometida y gerente comercial de Grayson Mathers, modelo de Instagram, reactor de YouTube y creadora de Yoga Yogurt.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/99/Kaitlyn.png/150px-Kaitlyn.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -5511,7 +5511,7 @@
         {
             "_id": "63ec57638b142917b4a273b7",
             "Nombre": "El Guardabosques ",
-            "Historia": "El Guardabosques era un guardabosques en Mt. Useful .",
+            "Historia": "El Guardabosques era un guardabosques en Mt. Useful.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/e/e9/Ranger.png/250px-Ranger.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5520,7 +5520,7 @@
         {
             "_id": "63ec58338b142917b4a27409",
             "Nombre": "Connie Appleseed",
-            "Historia": "Connie Appleseed es un personaje de una historia contada por un vagabundo cantor del ferrocarril .",
+            "Historia": "Connie Appleseed es un personaje de una historia contada por un vagabundo cantor del ferrocarril.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/0/07/Connie_Appleseed.png/200px-Connie_Appleseed.png",
             "Genero": "Femenino",
             "Estado": "Ficticio",
@@ -5529,7 +5529,7 @@
         {
             "_id": "63ec5b4b8b142917b4a27556",
             "Nombre": "Shredder Stevens",
-            "Historia": "Shredder Stevens es el guitarrista de Sungazer .",
+            "Historia": "Shredder Stevens es el guitarrista de Sungazer.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/34/Shredder_Stevens.png/200px-Shredder_Stevens.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5547,7 +5547,7 @@
         {
             "_id": "63ec5cce8b142917b4a275f2",
             "Nombre": "Diane ",
-            "Historia": "Diane es una ejecutiva de la red en Krustylu Studios .",
+            "Historia": "Diane es una ejecutiva de la red en Krustylu Studios.",
             "Imagen": "https://static.simpsonswiki.com/images/3/34/Diane.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
@@ -5556,7 +5556,7 @@
         {
             "_id": "63ec5d6c8b142917b4a27637",
             "Nombre": "Marv Szyslak",
-            "Historia": "Marv Szyslak es el hermano de Moe Szyslak .",
+            "Historia": "Marv Szyslak es el hermano de Moe Szyslak.",
             "Imagen": "https://static.simpsonswiki.com/images/f/fc/Marv_Szyslak.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5565,7 +5565,7 @@
         {
             "_id": "63ec5e708b142917b4a276a4",
             "Nombre": "CJ ",
-            "Historia": "CJ es un postor profesional en Storage Battles .",
+            "Historia": "CJ es un postor profesional en Storage Battles.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/f/f3/CJ.png/200px-CJ.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5574,7 +5574,7 @@
         {
             "_id": "63ec5f6e8b142917b4a2770c",
             "Nombre": "Skinny",
-            "Historia": "Defonzo \"Skinny\" Palmer es un músico de jazz que le pidió a Bart que se uniera a él y a Marcus \"Marbles\" Le Marquez . Él toca la trompeta.",
+            "Historia": "Defonzo \"Skinny\" Palmer es un músico de jazz que le pidió a Bart que se uniera a él y a Marcus \"Marbles\" Le Marquez. Él toca la trompeta.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/3/37/Defonzo_Palmer.png/200px-Defonzo_Palmer.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5583,7 +5583,7 @@
         {
             "_id": "63ed6474b537bd8abda5b7b1",
             "Nombre": "Gloria",
-            "Historia": "Gloria es la esposa de Snake .",
+            "Historia": "Gloria es la esposa de Snake.",
             "Imagen": "https://static.simpsonswiki.com/images/2/2b/Gloria.png",
             "Genero": "Femenino",
             "Estado": "vivo",
@@ -5592,7 +5592,7 @@
         {
             "_id": "63ed6773b537bd8abda5b8c3",
             "Nombre": "LadyBot",
-            "Historia": "LadyBot , también llamado Sally May , son robots construidos por el profesor Frink como compañero.",
+            "Historia": "LadyBot, también llamado Sally May, son robots construidos por el profesor Frink como compañero.",
             "Imagen": "https://static.simpsonswiki.com/images/d/dd/LadyBot.png",
             "Genero": "Femenino",
             "Estado": "Robots",
@@ -5610,7 +5610,7 @@
         {
             "_id": "63ed6912b537bd8abda5b952",
             "Nombre": "CHUM",
-            "Historia": "CHUM , abreviatura de Childlike Humanoid Urban Muchacho , es un robot que construyó Martin Prince ",
+            "Historia": "CHUM, abreviatura de Childlike Humanoid Urban Muchacho, es un robot que construyó Martin Prince ",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/6/6a/C.H.U.M..png/200px-C.H.U.M..png",
             "Genero": "Masculino",
             "Estado": "Robots",
@@ -5637,7 +5637,7 @@
         {
             "_id": "63ee4d843f77c15ce06111bf",
             "Nombre": "El Sr. Costington",
-            "Historia": "El Sr. Costington es el presidente de los grandes almacenes Costington y Springfield Mall . Aunque suele ser generoso, a veces puede ser insensible.",
+            "Historia": "El Sr. Costington es el presidente de los grandes almacenes Costington y Springfield Mall. Aunque suele ser generoso, a veces puede ser insensible.",
             "Imagen": "https://static.simpsonswiki.com/images/7/77/Mr._Costington.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5646,7 +5646,7 @@
         {
             "_id": "63ee4f613f77c15ce0611261",
             "Nombre": "El General",
-            "Historia": "El general dirigió un programa en el que se reclutaba a niños sociópatas para realizar simulaciones que implicaban disparar a combatientes enemigos. Bart , que había sido llevado al asilo después de hacerle una broma a su familia, fue uno de los niños que participó. Bart demostró ser muy bueno en la simulación y completó la misión. El general luego le dijo a Bart y a los otros niños que no era una simulación, lo que estaban haciendo era real. Bart se enojó por esto ya que no quería lastimar a personas reales. Bart fue expulsado del asilo por no ser un sociópata.",
+            "Historia": "El general dirigió un programa en el que se reclutaba a niños sociópatas para realizar simulaciones que implicaban disparar a combatientes enemigos. Bart, que había sido llevado al asilo después de hacerle una broma a su familia, fue uno de los niños que participó. Bart demostró ser muy bueno en la simulación y completó la misión. El general luego le dijo a Bart y a los otros niños que no era una simulación, lo que estaban haciendo era real. Bart se enojó por esto ya que no quería lastimar a personas reales. Bart fue expulsado del asilo por no ser un sociópata.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/7/70/The_General.png/200px-The_General.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5655,7 +5655,7 @@
         {
             "_id": "63ee4fa43f77c15ce0611278",
             "Nombre": "GI Joe",
-            "Historia": "GI Joe es un soldado y el exmarido de Stacy Lovell .",
+            "Historia": "GI Joe es un soldado y el exmarido de Stacy Lovell.",
             "Imagen": "https://static.simpsonswiki.com/images/c/c3/G.I._Joe.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5664,7 +5664,7 @@
         {
             "_id": "63ee567a3f77c15ce06114c9",
             "Nombre": "El Cuervo",
-            "Historia": "El cuervo es el personaje principal y antagonista de \" El cuervo \", un poema de Edgar Allan Poe .",
+            "Historia": "El cuervo es el personaje principal y antagonista de \" El cuervo \", un poema de Edgar Allan Poe.",
             "Imagen": "https://static.simpsonswiki.com/images/a/a3/The_Raven.png",
             "Genero": "Masculino",
             "Estado": "Ficticio",
@@ -5682,7 +5682,7 @@
         {
             "_id": "63ee5a4d3f77c15ce0611613",
             "Nombre": "Jub-Jub",
-            "Historia": "Jub-Jub es la iguana mascota de Selma . Originalmente fue propiedad de la tía Gladys .",
+            "Historia": "Jub-Jub es la iguana mascota de Selma. Originalmente fue propiedad de la tía Gladys.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/9/9a/Jub-Jub.png/250px-Jub-Jub.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
@@ -5700,7 +5700,7 @@
         {
             "_id": "63ee5cb73f77c15ce06116e6",
             "Nombre": "Lumpy ",
-            "Historia": "Lumpy es una serpiente escolar propiedad de Springfield Elementary . Una boa verde, Lumpy estaba bastante acostumbrado a comerse a los alumnos de la escuela. De acuerdo con los estatutos de la escuela, ningún maestro podría ser responsable si la serpiente se comiera a Milhouse Van Houten .",
+            "Historia": "Lumpy es una serpiente escolar propiedad de Springfield Elementary. Una boa verde, Lumpy estaba bastante acostumbrado a comerse a los alumnos de la escuela. De acuerdo con los estatutos de la escuela, ningún maestro podría ser responsable si la serpiente se comiera a Milhouse Van Houten.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/1/19/Lumpy.png/250px-Lumpy.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
