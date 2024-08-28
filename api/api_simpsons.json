@@ -1527,11 +1527,11 @@
         {
             "_id": "63e57dba6b08a3edb56c2430",
             "Nombre": "Ray Patterson",
-            "Historia": "Ray Patterson es el comisionado de saneamiento de Springfield. Fue elegido dieciséis años seguidos.",
+            "Historia": "Ray Patterson es el comisionado de saneamiento de Springfield. Elegido Comisionado de Saneamiento de Springfield durante 16 años consecutivos, Ray Patterson tiene un buen historial. En comparación con muchos de los residentes de Springfield, Ray Patterson es considerado uno de los personajes más \"cuerdos\": educado, trabajador y comprometido con su trabajo.",
             "Imagen": "https://static.simpsonswiki.com/images/4/41/Ray_Patterson.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
-            "Ocupacion": "comisionado"
+            "Ocupacion": "Comisionado de Saneamiento de Springfield"
         },
         {
             "_id": "63e57e696b08a3edb56c2480",
@@ -2975,8 +2975,8 @@
         {
             "_id": "63e3c075958741730f85649c",
             "Nombre": "Maude Flanders",
-            "Historia": "Maude Flanders era la esposa de Ned Flanders y la madre de Rod y Todd. Maude fue una mujer con muchas cualidades positivas: fe, castidad, caridad. También le encantaba dibujar, lo que descubrió cuando Ned encontró su bloc de dibujo después de su muerte. ",
-            "Imagen": "https://static.simpsonswiki.com/images/thumb/9/95/Maude_Flanders.png/200px-Maude_Flanders.png",
+            "Historia": "Maude Flanders era la esposa de Ned Flanders y la madre de Rod y Todd. Fué una mujer con muchas cualidades positivas: fé, castidad, caridad. También le encantaba dibujar, lo descubrió Ned cuando encontró su bloc de dibujo después de su muerte. Maude murió después de ser arrojada de una tribuna por varios cañones de camisetas en el Springfield Speedway. Las camisetas estaban destinadas a golpear a Homero, quien quería una de ellas. Sin embargo, antes de que las camisetas pudieran golpearlo, Homero notó una horquilla en el suelo y se agachó para recogerla. Esto provocó que Maude, que regresaba a su asiento detrás de Homer, fuera golpeada y cayera de la tribuna hasta su muerte, al menos una caída de 20 pies.",
+            "Imagen": "../assets/img/imagenes-faltantes/Maude_Flanders.webp",
             "Genero": "Femenino",
             "Estado": "Fallecido",
             "Ocupacion": "Ama de casa"
