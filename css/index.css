@@ -256,3 +256,16 @@ main {
         opacity: 1;
     }
 }
+
+/* Pseudoclases */
+
+::selection {
+    background-color: #96d4fd; /* Color de fondo */
+    color: #000000; /* Color del texto */
+}
+
+/* Para navegadores webkit (Chrome, Safari, Edge) */
+::-webkit-selection {
+    background-color: #96d4fd; /* Color de fondo */
+    color: #000000; /* Color del texto */
+}
