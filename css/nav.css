@@ -148,3 +148,22 @@
         height: fit-content;
     }
 }
+
+.btn-arrow {
+    position: fixed;
+    bottom: 30px;
+    right: 25px;
+    z-index: 99999999;
+}
+
+.arrow {
+    font-size: 3rem;
+    color: #96d4fd;
+    text-shadow: 2px 2px 5px black;
+}
+
+@media (max-width: 768px) {
+    .btn-arrow {
+        right: 10px;
+    }
+}

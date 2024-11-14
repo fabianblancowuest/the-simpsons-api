@@ -155,14 +155,14 @@ async function getData() {
             // }
         }
 
-        // to change images size
+        // Cambiar tamaño de imagenes
         for (let i = 0; i < images.length; i++) {
             if (images[i].width > 200) {
                 images[i].classList.add("img-limit");
             }
         }
 
-        // To change text states size
+        // Cambiar tamaño de textos
         for (let i = 0; i < allCardsState.length; i++) {
             if (allCardsState[i].textContent.length > 20) {
                 allCardsState[i].style.fontSize = "1rem";
@@ -314,5 +314,4 @@ async function getData() {
     }
 }
 
-// Execution function
 getData();
