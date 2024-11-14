@@ -157,7 +157,7 @@
 }
 
 .arrow {
-    font-size: 3rem;
+    font-size: 3.2rem;
     color: #96d4fd;
     text-shadow: 2px 2px 5px black;
 }
@@ -165,5 +165,6 @@
 @media (max-width: 768px) {
     .btn-arrow {
         right: 10px;
+        bottom: 40px;
     }
 }
