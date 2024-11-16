@@ -2,8 +2,8 @@
 
 :root {
     /* font-family: "Simpsonfont", sans-serif; */
-    letter-spacing: 0.2rem;
     --background-color: rgb(254, 212, 32);
+    letter-spacing: 0.2rem;
 }
 
 body {
@@ -21,6 +21,7 @@ body {
 .about-text {
     text-align: center;
     margin-top: 1rem;
+    letter-spacing: 0.2rem;
 }
 
 .about {
@@ -105,7 +106,7 @@ body {
 /* } */
 
 .copyright {
-    font-family: "Quicksand", sans-serif !important;
+    font-family: "Quicksand", sans-serif;
 }
 
 @keyframes aparecer {
@@ -150,6 +151,10 @@ body {
 
     .social-media i {
         color: rgb(255, 215, 29);
+    }
+
+    .footer {
+        background-color: inherit;
     }
 }
 @media screen and (max-width: 600px) {
