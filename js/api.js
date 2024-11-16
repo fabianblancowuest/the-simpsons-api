@@ -30,6 +30,8 @@ const containerNavLinks = document.getElementById("container-nav-links");
 const searchResultsText = document.getElementById("search-results-text");
 searchResultsText.appendChild(textCardsSearched);
 
+const scrollArrow = document.getElementById("scroll-arrow");
+
 const filledDiv = document.getElementById("filled");
 
 for (let i = 0; i < allCardsState.length; i++) {
@@ -57,6 +59,8 @@ btnCloseDetail.addEventListener("click", () => {
     formSearch.classList.add("form-control-show");
     filledDiv.classList.remove("section-show");
     filledDiv.classList.add("section-hidden");
+    scrollArrow.classList.add("section-show");
+    scrollArrow.classList.remove("section-hidden");
 
     // Restaura la posición de desplazamiento
     const scrollPosition = localStorage.getItem("scrollPosition");
@@ -194,6 +198,8 @@ async function getData() {
                 formSearch.classList.add("section-hidden");
                 filledDiv.classList.remove("section-hidden");
                 filledDiv.classList.add("section-show");
+                scrollArrow.classList.remove("section-show");
+                scrollArrow.classList.add("section-hidden");
 
                 data.docs.forEach((element) => {
                     if (element._id === eventId) {
