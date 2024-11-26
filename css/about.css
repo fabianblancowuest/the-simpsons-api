@@ -3,7 +3,6 @@
 :root {
     /* font-family: "Simpsonfont", sans-serif; */
     --background-color: rgb(254, 212, 32);
-    letter-spacing: 0.2rem;
 }
 
 body {
@@ -58,6 +57,10 @@ body {
 
 .perfil-image {
     text-align: center;
+}
+
+.info {
+    letter-spacing: 0.2rem;
 }
 
 .info img {
