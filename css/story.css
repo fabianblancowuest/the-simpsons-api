@@ -59,8 +59,8 @@ body {
 .nav-story-img {
     max-width: 100%;
     height: 300px;
-    margin-top: auto;
-    /* margin-bottom: 200px; */
+    position: absolute;
+    bottom: 10px;
 }
 
 .story {
@@ -119,11 +119,6 @@ body {
 .nav-story ul {
     display: flex;
     align-items: center;
-}
-
-.nav-story-img {
-    position: absolute;
-    bottom: 10px;
 }
 
 @media (max-width: 768px) {
