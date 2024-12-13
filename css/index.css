@@ -148,7 +148,7 @@ main {
     border-radius: 1rem;
     box-shadow: 0.1rem 0.1rem 0.5rem black;
     margin: 1rem 0;
-    transition: 0.5s all;
+    /* transition: transform 0.5s ease-in-out; */
 }
 
 .card-title {
@@ -160,8 +160,7 @@ main {
 
 .card-container:hover {
     background-color: rgba(0, 0, 0, 0.5);
-    /* background-color: #96d4fd; */
-    transform: scale(1.05);
+    transform: scale(1.1);
     color: aliceblue;
 }
 
