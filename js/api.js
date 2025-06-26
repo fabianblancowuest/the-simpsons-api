@@ -262,7 +262,7 @@ async function getData() {
 
         btnSearch.addEventListener("click", (event) => {
             if (!inputSearch.value) {
-                ouchAlert.currentTime = 2.97;
+                ouchAlert.currentTime = 3.1;
                 ouchAlert.play();
                 Swal.fire({
                     title: "Ouch!",
