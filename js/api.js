@@ -257,7 +257,29 @@ async function getData() {
             observer.observe(element);
         });
 
+        // Sonido alerta para input de búsqueda vacío
+        const ouchAlert = new Audio("./../assets/audio/ouch-largo.mp3");
+
         btnSearch.addEventListener("click", (event) => {
+            if (!inputSearch.value) {
+                ouchAlert.currentTime = 2.97;
+                ouchAlert.play();
+                Swal.fire({
+                    title: "Ouch!",
+                    text: "¡Debe ingresar un nombre para buscar!",
+                    imageUrl: "./../assets/img/alert/homer.png",
+                    // imageWidth: 300,
+                    // imageHeight: 300,
+                    imageAlt: "Custom image",
+                    background: "rgb(254, 212, 32)",
+                    customClass: {
+                        popup: "my-swal", // Aplica al fondo y contenedor
+                        title: "my-swal-title", // Título del modal
+                        confirmButton: "my-swal-confirm", // Botón de confirmación
+                        image: "my-swal-image",
+                    },
+                });
+            }
             event.preventDefault();
             let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
             console.log(searched);

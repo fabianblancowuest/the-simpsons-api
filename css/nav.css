@@ -3,6 +3,8 @@
 :root {
     --navbar-color: #034471;
     --navbar-alt-color: rgb(150, 212, 253);
+    --yellow-color: rgb(254, 212, 32);
+    --green-color: #198754;
 }
 
 .navbar {
@@ -167,4 +169,29 @@
         right: 10px;
         bottom: 40px;
     }
+}
+
+/* sweet alert */
+
+.my-swal {
+    background-color: var(--yellow-color);
+    color: rgb(13 110 248);
+}
+
+.my-swal-title {
+    color: rgb(13, 110, 253); /* Título cian */
+}
+
+.my-swal-confirm {
+    background-color: var(--navbar-alt-color);
+    color: black;
+}
+
+.my-swal-confirm:hover {
+    background-color: black;
+    color: white;
+}
+
+.my-swal-image {
+    max-height: 350px;
 }
