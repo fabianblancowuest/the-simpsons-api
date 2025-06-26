@@ -532,7 +532,7 @@
             "_id": "63e47ce47de1feab29426dbe",
             "Nombre": "Steve Friedman",
             "Historia": "Steve Friedman, también conocido como Jeremy Friedman, adolescente con voz chillona, ​​adolescente con cara de granos y Old Man Peterson, es uno de los pocos adolescentes en Springfield y está perpetuamente atrapado en una serie de trabajos sin salida. Steve tiene acné y su voz siempre está en proceso de quebrarse.",
-            "Imagen": "https://static.simpsonswiki.com/images/1/19/Squeaky-voiced_teen.png",
+            "Imagen": "../assets/img/imagenes-faltantes/Jeremy_Friedman.png",
             "Genero": "Masculino",
             "Estado": "Vivo",
             "Ocupacion": "Varios"
@@ -2498,7 +2498,7 @@
         {
             "_id": "63ec22fd5d30fabfe4502bdf",
             "Nombre": "Marge universitaria",
-            "Historia": "Barney consigue un trabajo y se convierte en el rey de las barredoras",
+            "Historia": "Marge Simpson tuvo una experiencia universitaria, aunque los detalles de su tiempo en la universidad han sido explorados de manera un tanto inconsistente a lo largo de las temporadas de Los Simpson. Aunque no se especifica con exactitud qué carrera estudió Marge, se insinúa que pudo haber estado relacionada con arte o historia, dado su interés en las clases y su naturaleza culta en comparación con Homer. En algunos flashbacks, se la muestra como una estudiante dedicada y con aspiraciones.",
             "Imagen": "https://static.simpsonswiki.com/images/thumb/8/8a/Young_Marge.png/90px-Young_Marge.png",
             "Genero": "Femenino",
             "Estado": "Vivo",
