@@ -262,26 +262,10 @@ async function getData() {
 
         btnSearch.addEventListener("click", (event) => {
             if (!inputSearch.value) {
-                ouchAlert.currentTime = 3.1;
-                ouchAlert.play();
-                Swal.fire({
-                    title: "Ouch!",
-                    text: "¡Debe ingresar un nombre para buscar!",
-                    imageUrl: "./../assets/img/alert/homer.png",
-                    // imageWidth: 300,
-                    // imageHeight: 300,
-                    imageAlt: "Custom image",
-                    background: "rgb(254, 212, 32)",
-                    customClass: {
-                        popup: "my-swal", // Aplica al fondo y contenedor
-                        title: "my-swal-title", // Título del modal
-                        confirmButton: "my-swal-confirm", // Botón de confirmación
-                        image: "my-swal-image",
-                    },
-                });
+                alert("Ingrese un personaje");
             } else {
                 event.preventDefault();
-                let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
+                let searched = inputSearch.value.toLowerCase();
                 console.log(searched);
 
                 // console.log(allCards);
@@ -313,6 +297,27 @@ async function getData() {
                 if (!found) {
                     textCardsSearched.textContent =
                         "No se encontraron coincidencias...";
+                    ouchAlert.currentTime = 3.1;
+                    ouchAlert.play();
+                    Swal.fire({
+                        title: "Ouch!",
+                        text: "¡No se encontró ese personaje!",
+                        imageUrl: "./../assets/img/alert/homer.png",
+                        // imageWidth: 300,
+                        // imageHeight: 300,
+                        imageAlt: "Custom image",
+                        background: "rgb(254, 212, 32)",
+                        customClass: {
+                            popup: "my-swal", // Aplica al fondo y contenedor
+                            title: "my-swal-title", // Título del modal
+                            confirmButton: "my-swal-confirm", // Botón de confirmación
+                            image: "my-swal-image",
+                        },
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            btnAllCards.click();
+                        }
+                    });
                 } else {
                     textCardsSearched.textContent = `Mostrando todas las coincidencias encontradas(${allCardsContainer.length})...`;
                 }
