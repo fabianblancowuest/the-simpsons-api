@@ -12,7 +12,7 @@
     font-family: "Simpsonfont", sans-serif;
     display: flex;
     width: 100%;
-    z-index: 1;
+    z-index: 10000;
 }
 
 .nav-item a {

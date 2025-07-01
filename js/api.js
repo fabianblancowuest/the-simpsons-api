@@ -279,59 +279,60 @@ async function getData() {
                         image: "my-swal-image",
                     },
                 });
-            }
-            event.preventDefault();
-            let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
-            console.log(searched);
-
-            // console.log(allCards);
-
-            // Vaciar el div contenedor
-            list.innerHTML = "";
-
-            // Filtrar y mostrar solo las tarjetas que coinciden con la búsqueda
-            let found = false;
-            for (let card of allCards) {
-                let cardTitle = card
-                    .querySelector(".card-title")
-                    .textContent.toLowerCase(); // Asumiendo que el título tiene la clase 'card-title'
-                if (cardTitle.includes(searched)) {
-                    searchResultsText.appendChild(textCardsSearched);
-                    list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
-                    // card.scrollIntoView({
-                    // 	behavior: "smooth",
-                    // 	block: "center",
-                    // });
-                    found = true;
-                }
-                // else {
-                // 	found = false;
-                // 	list.innerHTML = "";
-                // }
-            }
-            // Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
-            if (!found) {
-                textCardsSearched.textContent =
-                    "No se encontraron coincidencias...";
             } else {
-                textCardsSearched.textContent = `Mostrando todas las coincidencias encontradas(${allCardsContainer.length})...`;
-            }
+                event.preventDefault();
+                let searched = inputSearch.value.toLowerCase(); // Para hacer la búsqueda insensible a mayúsculas
+                console.log(searched);
 
-            btnAllCards.classList.remove("section-hidden");
-            btnAllCards.classList.add("section-show");
-            containerNavLinks.appendChild(btnAllCards);
+                // console.log(allCards);
 
-            btnAllCards.addEventListener("click", () => {
+                // Vaciar el div contenedor
+                list.innerHTML = "";
+
+                // Filtrar y mostrar solo las tarjetas que coinciden con la búsqueda
+                let found = false;
                 for (let card of allCards) {
-                    list.appendChild(card);
+                    let cardTitle = card
+                        .querySelector(".card-title")
+                        .textContent.toLowerCase(); // Asumiendo que el título tiene la clase 'card-title'
+                    if (cardTitle.includes(searched)) {
+                        searchResultsText.appendChild(textCardsSearched);
+                        list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
+                        // card.scrollIntoView({
+                        // 	behavior: "smooth",
+                        // 	block: "center",
+                        // });
+                        found = true;
+                    }
+                    // else {
+                    // 	found = false;
+                    // 	list.innerHTML = "";
+                    // }
+                }
+                // Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
+                if (!found) {
+                    textCardsSearched.textContent =
+                        "No se encontraron coincidencias...";
+                } else {
+                    textCardsSearched.textContent = `Mostrando todas las coincidencias encontradas(${allCardsContainer.length})...`;
                 }
 
-                btnAllCards.classList.add("section-hidden");
+                btnAllCards.classList.remove("section-hidden");
+                btnAllCards.classList.add("section-show");
+                containerNavLinks.appendChild(btnAllCards);
 
-                searchResultsText.removeChild(textCardsSearched);
-                inputSearch.value = "";
-                inputSearch = "";
-            });
+                btnAllCards.addEventListener("click", () => {
+                    for (let card of allCards) {
+                        list.appendChild(card);
+                    }
+
+                    btnAllCards.classList.add("section-hidden");
+
+                    searchResultsText.removeChild(textCardsSearched);
+                    inputSearch.value = "";
+                    inputSearch = "";
+                });
+            }
         });
     } catch (error) {
         alert({ error: error.message });
