@@ -263,7 +263,8 @@ async function getData() {
         const moeAlert2 = new Audio(
             "./../assets/audio/Moe_Cochino_Degenerado.mp3"
         );
-        const moeAlerts = [moeAlert2, moeAlert];
+        const moeAlert3 = new Audio("./../assets/audio/moe_detector.mp3");
+        const moeAlerts = [moeAlert2, moeAlert, moeAlert3];
 
         let currentAlertIndex = 0; // empieza con el primero
 
@@ -281,7 +282,8 @@ async function getData() {
                 const selectedAlert = moeAlerts[currentAlertIndex];
 
                 // Reiniciar el tiempo si querés que arranque desde cierto punto
-                selectedAlert.currentTime = currentAlertIndex === 0 ? 15 : 13;
+                const alertStartTimes = [15, 13, 25];
+                selectedAlert.currentTime = alertStartTimes[currentAlertIndex];
 
                 selectedAlert.play().catch((err) => {
                     console.warn("Error al reproducir el audio:", err);
