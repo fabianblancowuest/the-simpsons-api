@@ -313,7 +313,9 @@ async function getData() {
                 // console.log(allCards);
 
                 // Vaciar el div contenedor
-                list.innerHTML = "";
+                // list.innerHTML = "";
+
+                const foundedCharacters = [];
 
                 // Filtrar y mostrar solo las tarjetas que coinciden con la búsqueda
                 let found = false;
@@ -323,17 +325,31 @@ async function getData() {
                         .textContent.toLowerCase(); // Asumiendo que el título tiene la clase 'card-title'
                     if (cardTitle.includes(searched)) {
                         searchResultsText.appendChild(textCardsSearched);
-                        list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
+                        found = true;
+                        // if (found) {
+                        //     list.appendChild(card); // Agrega la tarjeta que coincide al contenedor
+                        // }
+                        if (found) {
+                            foundedCharacters.push(card);
+                        }
                         // card.scrollIntoView({
                         // 	behavior: "smooth",
                         // 	block: "center",
                         // });
-                        found = true;
                     }
                     // else {
                     // 	found = false;
                     // 	list.innerHTML = "";
                     // }
+                }
+
+                if (foundedCharacters.length) {
+                    // Vaciar el div contenedor de todos los personajes
+                    list.innerHTML = "";
+                    // Cargar todos los personajes del arreglo en el div contenedor
+                    foundedCharacters.forEach((char) => list.append(char));
+                    btnAllCards.classList.remove("section-hidden");
+                    btnAllCards.classList.add("section-show");
                 }
                 // Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
                 if (!found) {
@@ -365,8 +381,6 @@ async function getData() {
                     textCardsSearched.textContent = `Mostrando todas las coincidencias encontradas(${allCardsContainer.length})...`;
                 }
 
-                btnAllCards.classList.remove("section-hidden");
-                btnAllCards.classList.add("section-show");
                 containerNavLinks.appendChild(btnAllCards);
 
                 btnAllCards.addEventListener("click", () => {
