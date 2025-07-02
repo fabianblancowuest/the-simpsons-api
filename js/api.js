@@ -259,7 +259,13 @@ async function getData() {
 
         // Sonido alerta para input de búsqueda vacío
         const ouchAlert = new Audio("./../assets/audio/ouch-largo.mp3");
-        const moeAlert = new Audio("./../assets/audio/Moe-Eres Un Idiota.mp3");
+        const moeAlert = new Audio("./../assets/audio/Moe-Eres_Un_Idiota.mp3");
+        const moeAlert2 = new Audio(
+            "./../assets/audio/Moe_Cochino_Degenerado.mp3"
+        );
+        const moeAlerts = [moeAlert2, moeAlert];
+
+        let currentAlertIndex = 0; // empieza con el primero
 
         // Botón de navbar collapse
         const btnNavCollapse = document.querySelector("#btn-nav-collapse");
@@ -268,8 +274,21 @@ async function getData() {
             if (!inputSearch.value) {
                 event.preventDefault();
                 btnNavCollapse.click();
-                moeAlert.currentTime = 13;
-                moeAlert.play();
+                // moeAlert.currentTime = 13;
+                // moeAlert2.currentTime = 15;
+                // moeAlerts.forEach((alert) => alert.play());
+
+                const selectedAlert = moeAlerts[currentAlertIndex];
+
+                // Reiniciar el tiempo si querés que arranque desde cierto punto
+                selectedAlert.currentTime = currentAlertIndex === 0 ? 15 : 13;
+
+                selectedAlert.play().catch((err) => {
+                    console.warn("Error al reproducir el audio:", err);
+                });
+
+                // Alternar entre 0 y 1
+                currentAlertIndex = (currentAlertIndex + 1) % moeAlerts.length;
                 Swal.fire({
                     // title: "Ouch!",
                     text: "¡Debes ingresar un personaje!",
