@@ -259,10 +259,33 @@ async function getData() {
 
         // Sonido alerta para input de búsqueda vacío
         const ouchAlert = new Audio("./../assets/audio/ouch-largo.mp3");
+        const moeAlert = new Audio("./../assets/audio/Moe-Eres Un Idiota.mp3");
+
+        // Botón de navbar collapse
+        const btnNavCollapse = document.querySelector("#btn-nav-collapse");
 
         btnSearch.addEventListener("click", (event) => {
             if (!inputSearch.value) {
-                alert("Ingrese un personaje");
+                event.preventDefault();
+                btnNavCollapse.click();
+                moeAlert.currentTime = 13;
+                moeAlert.play();
+                Swal.fire({
+                    // title: "Ouch!",
+                    text: "¡Debes ingresar un personaje!",
+                    imageUrl: "./../assets/img/alert/moe.PNG",
+                    // imageWidth: 300,
+                    // imageHeight: 300,
+                    imageAlt: "Custom image",
+                    background: "rgb(254, 212, 32)",
+                    customClass: {
+                        popup: "my-swal", // Aplica al fondo y contenedor
+                        title: "my-swal-title", // Título del modal
+                        confirmButton: "my-swal-confirm", // Botón de confirmación
+                        image: "my-swal-image",
+                    },
+                });
+                // alert("Ingrese un personaje");
             } else {
                 event.preventDefault();
                 let searched = inputSearch.value.toLowerCase();
@@ -295,6 +318,7 @@ async function getData() {
                 }
                 // Si no se encuentra ninguna coincidencia, restaurar todas las tarjetas
                 if (!found) {
+                    btnNavCollapse.click();
                     textCardsSearched.textContent =
                         "No se encontraron coincidencias...";
                     ouchAlert.currentTime = 3.1;
